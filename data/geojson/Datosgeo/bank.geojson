@@ -1,0 +1,5466 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:21:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231963899",
+        "addr:city": "Zapopan",
+        "addr:street": "Avenida López Mateos Sur",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Banco del Bajío"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4128709,
+              20.634922
+            ],
+            [
+              -103.4127995,
+              20.6350339
+            ],
+            [
+              -103.4129472,
+              20.6351166
+            ],
+            [
+              -103.4129811,
+              20.6350636
+            ],
+            [
+              -103.4130029,
+              20.6350758
+            ],
+            [
+              -103.413033,
+              20.6350286
+            ],
+            [
+              -103.4130128,
+              20.6350173
+            ],
+            [
+              -103.4130235,
+              20.6350005
+            ],
+            [
+              -103.4129589,
+              20.6349644
+            ],
+            [
+              -103.412994,
+              20.6349095
+            ],
+            [
+              -103.4129474,
+              20.6348834
+            ],
+            [
+              -103.4129091,
+              20.6349433
+            ],
+            [
+              -103.4128709,
+              20.634922
+            ]
+          ]
+        ]
+      },
+      "id": "way/231963899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311559506",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4325583,
+              20.6583734
+            ],
+            [
+              -103.4324835,
+              20.6583686
+            ],
+            [
+              -103.4324882,
+              20.6583034
+            ],
+            [
+              -103.4322948,
+              20.6582911
+            ],
+            [
+              -103.4322819,
+              20.6584697
+            ],
+            [
+              -103.4323581,
+              20.6584746
+            ],
+            [
+              -103.4323529,
+              20.6585456
+            ],
+            [
+              -103.4325449,
+              20.6585578
+            ],
+            [
+              -103.4325583,
+              20.6583734
+            ]
+          ]
+        ]
+      },
+      "id": "way/311559506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311560010",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4322635,
+              20.657227
+            ],
+            [
+              -103.432258,
+              20.6573614
+            ],
+            [
+              -103.4324446,
+              20.6573693
+            ],
+            [
+              -103.4324596,
+              20.6572408
+            ],
+            [
+              -103.4322635,
+              20.657227
+            ]
+          ]
+        ]
+      },
+      "id": "way/311560010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/350631124",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "building": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3552435,
+              20.7153379
+            ],
+            [
+              -103.3552545,
+              20.7151707
+            ],
+            [
+              -103.3551095,
+              20.7151624
+            ],
+            [
+              -103.3550735,
+              20.7151922
+            ],
+            [
+              -103.3550635,
+              20.7153279
+            ],
+            [
+              -103.3552435,
+              20.7153379
+            ]
+          ]
+        ]
+      },
+      "id": "way/350631124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340636",
+        "addr:street": "Avenida de las Rosas",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Inbursa",
+        "brand:wikidata": "Q731123",
+        "building": "yes",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4013363,
+              20.6638145
+            ],
+            [
+              -103.4015455,
+              20.6637192
+            ],
+            [
+              -103.4014785,
+              20.6636012
+            ],
+            [
+              -103.4012719,
+              20.663679
+            ],
+            [
+              -103.4013363,
+              20.6638145
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340638",
+        "addr:street": "Avenida de las Rosas",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "building": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.401806,
+              20.6632257
+            ],
+            [
+              -103.4017681,
+              20.6631555
+            ],
+            [
+              -103.4016357,
+              20.6632181
+            ],
+            [
+              -103.401617,
+              20.6631833
+            ],
+            [
+              -103.4014993,
+              20.663239
+            ],
+            [
+              -103.401556,
+              20.6633439
+            ],
+            [
+              -103.401806,
+              20.6632257
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340640",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Banca Mifel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4014993,
+              20.663239
+            ],
+            [
+              -103.401617,
+              20.6631833
+            ],
+            [
+              -103.4016357,
+              20.6632181
+            ],
+            [
+              -103.4017681,
+              20.6631555
+            ],
+            [
+              -103.401806,
+              20.6632257
+            ],
+            [
+              -103.401858,
+              20.6632011
+            ],
+            [
+              -103.4017655,
+              20.66303
+            ],
+            [
+              -103.4014635,
+              20.6631727
+            ],
+            [
+              -103.4014993,
+              20.663239
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340666",
+        "addr:street": "Avenida de las Rosas",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Santander Select"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4019398,
+              20.6636062
+            ],
+            [
+              -103.4019368,
+              20.6635982
+            ],
+            [
+              -103.4018915,
+              20.6634757
+            ],
+            [
+              -103.4017199,
+              20.6635385
+            ],
+            [
+              -103.4017789,
+              20.6636614
+            ],
+            [
+              -103.4019398,
+              20.6636062
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401137663",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA México",
+        "building": "yes",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3210436,
+              20.6198993
+            ],
+            [
+              -103.3210134,
+              20.6200708
+            ],
+            [
+              -103.321158,
+              20.6200931
+            ],
+            [
+              -103.3211882,
+              20.6199216
+            ],
+            [
+              -103.3210436,
+              20.6198993
+            ]
+          ]
+        ]
+      },
+      "id": "way/401137663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422527098",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4446536,
+              20.7415524
+            ],
+            [
+              -103.4446923,
+              20.7414413
+            ],
+            [
+              -103.4446557,
+              20.7414302
+            ],
+            [
+              -103.4446617,
+              20.741413
+            ],
+            [
+              -103.4446008,
+              20.7413944
+            ],
+            [
+              -103.444546,
+              20.7415518
+            ],
+            [
+              -103.4446078,
+              20.7415706
+            ],
+            [
+              -103.444618,
+              20.7415415
+            ],
+            [
+              -103.4446536,
+              20.7415524
+            ]
+          ]
+        ]
+      },
+      "id": "way/422527098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/470408737",
+        "addr:city": "Tlaquepaque",
+        "addr:postcode": "45602",
+        "addr:street": "Av Jesús Michel Gonzalez",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria",
+        "operator": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3852616,
+              20.5854234
+            ],
+            [
+              -103.3852593,
+              20.5852163
+            ],
+            [
+              -103.385111,
+              20.5852074
+            ],
+            [
+              -103.3851105,
+              20.5854095
+            ],
+            [
+              -103.3852616,
+              20.5854234
+            ]
+          ]
+        ]
+      },
+      "id": "way/470408737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/579686951",
+        "addr:housenumber": "2019",
+        "addr:street": "Avenida de la Paz",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte",
+        "opening_hours": "24/7",
+        "operator": "Banorte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3691597,
+              20.6722452
+            ],
+            [
+              -103.3691489,
+              20.6719378
+            ],
+            [
+              -103.3688539,
+              20.6719353
+            ],
+            [
+              -103.3688607,
+              20.6721097
+            ],
+            [
+              -103.3689908,
+              20.6722452
+            ],
+            [
+              -103.3691597,
+              20.6722452
+            ]
+          ]
+        ]
+      },
+      "id": "way/579686951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609055786",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "Bancomer",
+        "operator": "Bancomer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3593535,
+              20.6675762
+            ],
+            [
+              -103.3591336,
+              20.6675323
+            ],
+            [
+              -103.3591269,
+              20.6676992
+            ],
+            [
+              -103.3593509,
+              20.667713
+            ],
+            [
+              -103.3593535,
+              20.6675762
+            ]
+          ]
+        ]
+      },
+      "id": "way/609055786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609058090",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1590",
+        "addr:postcode": "44190",
+        "addr:street": "Avenida Niños Héroes",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BanBajío",
+        "operator": "Banco del Bajío"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3610344,
+              20.6672292
+            ],
+            [
+              -103.3610281,
+              20.6670114
+            ],
+            [
+              -103.3609265,
+              20.667014
+            ],
+            [
+              -103.3609295,
+              20.667115
+            ],
+            [
+              -103.3608754,
+              20.6671164
+            ],
+            [
+              -103.3608788,
+              20.6672331
+            ],
+            [
+              -103.3610344,
+              20.6672292
+            ]
+          ]
+        ]
+      },
+      "id": "way/609058090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618107039",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Centro Sur",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "building": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4004879,
+              20.6050356
+            ],
+            [
+              -103.4003716,
+              20.6048138
+            ],
+            [
+              -103.4002156,
+              20.6049571
+            ],
+            [
+              -103.4002149,
+              20.60503
+            ],
+            [
+              -103.4003518,
+              20.6051606
+            ],
+            [
+              -103.4004879,
+              20.6050356
+            ]
+          ]
+        ]
+      },
+      "id": "way/618107039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/630843230",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6703",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Scotiabank",
+        "opening_hours": "Mo-Fr 08:30-16:00",
+        "phone": "+52 33 10022098",
+        "website": "https://www.scotiabank.com.mx/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.445462,
+              20.6589421
+            ],
+            [
+              -103.4454664,
+              20.6588571
+            ],
+            [
+              -103.4452524,
+              20.6588475
+            ],
+            [
+              -103.4452481,
+              20.6589324
+            ],
+            [
+              -103.445462,
+              20.6589421
+            ]
+          ]
+        ]
+      },
+      "id": "way/630843230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637373303",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Banamex",
+        "opening_hours": "Mo-Fr 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4493093,
+              20.6295552
+            ],
+            [
+              -103.4493871,
+              20.6292113
+            ],
+            [
+              -103.4490438,
+              20.6292239
+            ],
+            [
+              -103.4489687,
+              20.6295728
+            ],
+            [
+              -103.4493093,
+              20.6295552
+            ]
+          ]
+        ]
+      },
+      "id": "way/637373303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648807100",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2989045,
+              20.6898296
+            ],
+            [
+              -103.2989367,
+              20.6896941
+            ],
+            [
+              -103.2987624,
+              20.6896514
+            ],
+            [
+              -103.2987382,
+              20.6897969
+            ],
+            [
+              -103.2989045,
+              20.6898296
+            ]
+          ]
+        ]
+      },
+      "id": "way/648807100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661392383",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banco Santander",
+        "brand:wikidata": "Q6496310",
+        "brand:wikipedia": "es:Banco Santander",
+        "building": "yes",
+        "name": "Banco Santander",
+        "official_name": "Santander Group"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3475215,
+              20.6699478
+            ],
+            [
+              -103.3476556,
+              20.6699904
+            ],
+            [
+              -103.3477522,
+              20.6696592
+            ],
+            [
+              -103.3475403,
+              20.669604
+            ],
+            [
+              -103.3474652,
+              20.6698223
+            ],
+            [
+              -103.3475215,
+              20.6699478
+            ]
+          ]
+        ]
+      },
+      "id": "way/661392383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749047404",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "785",
+        "addr:postcode": "44190",
+        "addr:street": "Avenida Enrique Díaz de León Sur",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "building": "yes",
+        "drive_through": "yes",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "operator": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3591612,
+              20.6642737
+            ],
+            [
+              -103.359056,
+              20.6645109
+            ],
+            [
+              -103.3594134,
+              20.6646512
+            ],
+            [
+              -103.3594682,
+              20.6645285
+            ],
+            [
+              -103.3594249,
+              20.664426
+            ],
+            [
+              -103.3594437,
+              20.6643869
+            ],
+            [
+              -103.3591612,
+              20.6642737
+            ]
+          ]
+        ]
+      },
+      "id": "way/749047404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790784293",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "3481",
+        "addr:postcode": "44500",
+        "addr:street": "Calzada Lázaro Cárdenas",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "building": "commercial",
+        "name": "Banorte",
+        "operator": "Banorte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4000284,
+              20.6678624
+            ],
+            [
+              -103.4001563,
+              20.6676436
+            ],
+            [
+              -103.3999785,
+              20.6675608
+            ],
+            [
+              -103.3998471,
+              20.6677704
+            ],
+            [
+              -103.4000284,
+              20.6678624
+            ]
+          ]
+        ]
+      },
+      "id": "way/790784293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790821633",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "45120",
+        "addr:street": "Av. México 3870, México, 45120 Zapopan, Jal.",
+        "amenity": "bank",
+        "brand": "Banco Santander",
+        "brand:en": "Santander Bank",
+        "brand:es": "Banco Santander",
+        "brand:wikidata": "Q6496310",
+        "brand:wikipedia": "es:Banco Santander",
+        "building": "yes",
+        "name": "Banco Santander",
+        "name:en": "Santander Bank",
+        "name:es": "Banco Santander",
+        "official_name": "Santander Group",
+        "website": "https://www.santander.com.mx/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4047922,
+              20.6782741
+            ],
+            [
+              -103.4047898,
+              20.6780476
+            ],
+            [
+              -103.4046759,
+              20.678041
+            ],
+            [
+              -103.4046824,
+              20.6782676
+            ],
+            [
+              -103.4047922,
+              20.6782741
+            ]
+          ]
+        ]
+      },
+      "id": "way/790821633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/817976137",
+        "amenity": "bank",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2838562,
+              20.6346669
+            ],
+            [
+              -103.2839152,
+              20.6345013
+            ],
+            [
+              -103.283765,
+              20.6344485
+            ],
+            [
+              -103.2837007,
+              20.6346142
+            ],
+            [
+              -103.2838562,
+              20.6346669
+            ]
+          ]
+        ]
+      },
+      "id": "way/817976137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824928881",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1580",
+        "addr:postcode": "44350",
+        "addr:street": "Circunvalación Doctor Atl",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3125865,
+              20.6918847
+            ],
+            [
+              -103.3126229,
+              20.6916818
+            ],
+            [
+              -103.3125477,
+              20.6916764
+            ],
+            [
+              -103.312553,
+              20.6916275
+            ],
+            [
+              -103.3123936,
+              20.6916517
+            ],
+            [
+              -103.3123128,
+              20.6916646
+            ],
+            [
+              -103.3122898,
+              20.691757
+            ],
+            [
+              -103.3123586,
+              20.6917693
+            ],
+            [
+              -103.3123411,
+              20.691837
+            ],
+            [
+              -103.3125865,
+              20.6918847
+            ]
+          ]
+        ]
+      },
+      "id": "way/824928881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996699",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "293",
+        "addr:postcode": "44100",
+        "addr:street": "Avenida Ramón Corona",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banregio",
+        "brand:wikidata": "Q4853573",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3462668,
+              20.6724464
+            ],
+            [
+              -103.3461943,
+              20.6724214
+            ],
+            [
+              -103.3460963,
+              20.6724214
+            ],
+            [
+              -103.3460785,
+              20.6726405
+            ],
+            [
+              -103.3462719,
+              20.6726536
+            ],
+            [
+              -103.3462668,
+              20.6724464
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996700",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2430",
+        "addr:postcode": "44940",
+        "addr:street": "Avenida 8 de Julio",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3641215,
+              20.6419278
+            ],
+            [
+              -103.3640125,
+              20.641888
+            ],
+            [
+              -103.3639201,
+              20.6420989
+            ],
+            [
+              -103.3640291,
+              20.6421318
+            ],
+            [
+              -103.3641215,
+              20.6419278
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996701",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1076",
+        "addr:postcode": "44530",
+        "addr:street": "Avenida Mandarina",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.381695,
+              20.6578964
+            ],
+            [
+              -103.3817615,
+              20.6578203
+            ],
+            [
+              -103.3819204,
+              20.6576492
+            ],
+            [
+              -103.3821458,
+              20.6574694
+            ],
+            [
+              -103.3819185,
+              20.6573276
+            ],
+            [
+              -103.3816045,
+              20.6578445
+            ],
+            [
+              -103.381695,
+              20.6578964
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996702",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1512",
+        "addr:postcode": "44160",
+        "addr:street": "Avenida Ignacio L. Vallarta",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banregio",
+        "brand:wikidata": "Q4853573",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.370079,
+              20.6746818
+            ],
+            [
+              -103.3699191,
+              20.6746818
+            ],
+            [
+              -103.3699293,
+              20.6749809
+            ],
+            [
+              -103.3700853,
+              20.6749821
+            ],
+            [
+              -103.370079,
+              20.6746818
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996703",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4124",
+        "addr:postcode": "45040",
+        "addr:street": "Calzada Lázaro Cárdenas",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4082068,
+              20.6718379
+            ],
+            [
+              -103.4080217,
+              20.6717446
+            ],
+            [
+              -103.4078678,
+              20.6720247
+            ],
+            [
+              -103.4080259,
+              20.6721045
+            ],
+            [
+              -103.4082068,
+              20.6718379
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996704",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "5561",
+        "addr:postcode": "45080",
+        "addr:street": "Lateral de López Mateos Sur",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banregio",
+        "brand:wikidata": "Q4853573",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4184097,
+              20.6272151
+            ],
+            [
+              -103.4181154,
+              20.6270389
+            ],
+            [
+              -103.41804,
+              20.6271579
+            ],
+            [
+              -103.4183202,
+              20.6273407
+            ],
+            [
+              -103.4184097,
+              20.6272151
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/879996705",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "5000",
+        "addr:postcode": "45070",
+        "addr:street": "Avenida Mariano Otero",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banregio",
+        "brand:wikidata": "Q4853573",
+        "building": "yes",
+        "name": "Banregio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco Regional, S.A. IBM, BGF."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.420039,
+              20.6383309
+            ],
+            [
+              -103.4199537,
+              20.6380799
+            ],
+            [
+              -103.4197063,
+              20.6382448
+            ],
+            [
+              -103.4197662,
+              20.6383961
+            ],
+            [
+              -103.420039,
+              20.6383309
+            ]
+          ]
+        ]
+      },
+      "id": "way/879996705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899630232",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Caja Popular Oblatos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4302683,
+              20.6024608
+            ],
+            [
+              -103.4302675,
+              20.6024385
+            ],
+            [
+              -103.4302665,
+              20.602368
+            ],
+            [
+              -103.4301674,
+              20.6023366
+            ],
+            [
+              -103.4301586,
+              20.6024393
+            ],
+            [
+              -103.4302683,
+              20.6024608
+            ]
+          ]
+        ]
+      },
+      "id": "way/899630232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/941909037",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "drive_through": "yes",
+        "name": "BanBajio",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Banco del Bajío"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3939296,
+              20.6797796
+            ],
+            [
+              -103.3938836,
+              20.6797366
+            ],
+            [
+              -103.3938411,
+              20.6797747
+            ],
+            [
+              -103.3937402,
+              20.679773
+            ],
+            [
+              -103.3937367,
+              20.6796886
+            ],
+            [
+              -103.3935774,
+              20.6796836
+            ],
+            [
+              -103.3935739,
+              20.6799137
+            ],
+            [
+              -103.3935916,
+              20.6799171
+            ],
+            [
+              -103.3935951,
+              20.6800462
+            ],
+            [
+              -103.3937048,
+              20.6800594
+            ],
+            [
+              -103.3937084,
+              20.6801008
+            ],
+            [
+              -103.3937792,
+              20.6800959
+            ],
+            [
+              -103.3937756,
+              20.6799204
+            ],
+            [
+              -103.3939296,
+              20.6797796
+            ]
+          ]
+        ]
+      },
+      "id": "way/941909037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1095792421",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4523956,
+              20.7294861
+            ],
+            [
+              -103.4526979,
+              20.7295266
+            ],
+            [
+              -103.452722,
+              20.729416
+            ],
+            [
+              -103.4524142,
+              20.7293763
+            ],
+            [
+              -103.4523956,
+              20.7294861
+            ]
+          ]
+        ]
+      },
+      "id": "way/1095792421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182283226",
+        "amenity": "bank",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "building": "yes",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4410235,
+              20.7302419
+            ],
+            [
+              -103.4409035,
+              20.7302316
+            ],
+            [
+              -103.4408925,
+              20.7303592
+            ],
+            [
+              -103.4410028,
+              20.7303734
+            ],
+            [
+              -103.4410235,
+              20.7302419
+            ]
+          ]
+        ]
+      },
+      "id": "way/1182283226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182283227",
+        "amenity": "bank",
+        "brand": "Banco Santander",
+        "brand:wikidata": "Q6496310",
+        "building": "yes",
+        "name": "Banco Santander",
+        "official_name": "Santander Group"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4412559,
+              20.7304169
+            ],
+            [
+              -103.4412736,
+              20.730267
+            ],
+            [
+              -103.4411269,
+              20.7302578
+            ],
+            [
+              -103.4411155,
+              20.7304096
+            ],
+            [
+              -103.4412559,
+              20.7304169
+            ]
+          ]
+        ]
+      },
+      "id": "way/1182283227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482020056",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2972543,
+          20.6945568
+        ]
+      },
+      "id": "node/1482020056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482030607",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2949377,
+          20.6875684
+        ]
+      },
+      "id": "node/1482030607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504176220",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.382536,
+          20.697831
+        ]
+      },
+      "id": "node/1504176220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504219559",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Corporativo del Bajio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3767693,
+          20.7037147
+        ]
+      },
+      "id": "node/1504219559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504274472",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "IXE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3746263,
+          20.6983579
+        ]
+      },
+      "id": "node/1504274472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685287811",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.418864,
+          20.6275363
+        ]
+      },
+      "id": "node/1685287811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685287823",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.418805,
+          20.6279706
+        ]
+      },
+      "id": "node/1685287823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685299156",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426052,
+          20.6336478
+        ]
+      },
+      "id": "node/1685299156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685303325",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.421047,
+          20.6241261
+        ]
+      },
+      "id": "node/1685303325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686155742",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426179,
+          20.6335621
+        ]
+      },
+      "id": "node/1686155742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686155744",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.427241,
+          20.632927
+        ]
+      },
+      "id": "node/1686155744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686157800",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426281,
+          20.6341003
+        ]
+      },
+      "id": "node/1686157800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686185936",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "name": "Scotiabank",
+        "opening_hours": "Mo-Fr 08:30-16:00; Sa 10:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40138,
+          20.6528187
+        ]
+      },
+      "id": "node/1686185936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686185941",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401914,
+          20.6529467
+        ]
+      },
+      "id": "node/1686185941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686185944",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "opening_hours": "Mo-Fr 09:00-16:00; Sa 09:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401635,
+          20.6534964
+        ]
+      },
+      "id": "node/1686185944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694074973",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.311578,
+          20.6390897
+        ]
+      },
+      "id": "node/1694074973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694075696",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3112215,
+          20.6393512
+        ]
+      },
+      "id": "node/1694075696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694076425",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3105454,
+          20.6391277
+        ]
+      },
+      "id": "node/1694076425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694077217",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BBVA-Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3115594,
+          20.6383371
+        ]
+      },
+      "id": "node/1694077217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694077557",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco del Bajio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3108728,
+          20.6383095
+        ]
+      },
+      "id": "node/1694077557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1694078347",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3158121,
+          20.6383422
+        ]
+      },
+      "id": "node/1694078347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696886008",
+        "amenity": "bank",
+        "name": "banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2657149,
+          20.63111
+        ]
+      },
+      "id": "node/1696886008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700532845",
+        "amenity": "bank",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2664609,
+          20.6306604
+        ]
+      },
+      "id": "node/1700532845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712141207",
+        "amenity": "bank",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA México",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.375264,
+          20.6298656
+        ]
+      },
+      "id": "node/1712141207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242852",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2879165,
+          20.6724018
+        ]
+      },
+      "id": "node/1715242852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242865",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2863501,
+          20.6721132
+        ]
+      },
+      "id": "node/1715242865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342442",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2918781,
+          20.6722864
+        ]
+      },
+      "id": "node/1715342442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715360059",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2925433,
+          20.6722764
+        ]
+      },
+      "id": "node/1715360059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715430266",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4245588,
+          20.6698123
+        ]
+      },
+      "id": "node/1715430266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715430271",
+        "amenity": "bank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4298054,
+          20.6748594
+        ]
+      },
+      "id": "node/1715430271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1716994054",
+        "amenity": "bank",
+        "name": "BANCOMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4202437,
+          20.6875825
+        ]
+      },
+      "id": "node/1716994054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717044981",
+        "amenity": "bank",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41487,
+          20.6918984
+        ]
+      },
+      "id": "node/1717044981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717045023",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.418205,
+          20.68949
+        ]
+      },
+      "id": "node/1717045023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717045025",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.417864,
+          20.689608
+        ]
+      },
+      "id": "node/1717045025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717074998",
+        "amenity": "bank",
+        "name": "IXE Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4157483,
+          20.6981261
+        ]
+      },
+      "id": "node/1717074998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717075034",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4111789,
+          20.7079955
+        ]
+      },
+      "id": "node/1717075034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717075053",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4142924,
+          20.7029198
+        ]
+      },
+      "id": "node/1717075053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719725504",
+        "amenity": "bank",
+        "name": "Compartamos Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3667616,
+          20.7251309
+        ]
+      },
+      "id": "node/1719725504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719728419",
+        "amenity": "bank",
+        "name": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3680169,
+          20.7285426
+        ]
+      },
+      "id": "node/1719728419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719728761",
+        "amenity": "bank",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3675019,
+          20.7268969
+        ]
+      },
+      "id": "node/1719728761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1730020504",
+        "amenity": "bank",
+        "name": "Bancomer Suc. Santa Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2925135,
+          20.7039537
+        ]
+      },
+      "id": "node/1730020504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762332543",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4470254,
+          20.6008887
+        ]
+      },
+      "id": "node/1762332543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941644375",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3469,
+          20.703767
+        ]
+      },
+      "id": "node/1941644375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941644416",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347112,
+          20.7033412
+        ]
+      },
+      "id": "node/1941644416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944569846",
+        "amenity": "bank",
+        "atm": "yes",
+        "is_in:building": "CEDA",
+        "level": "1",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3802002,
+          20.7395299
+        ]
+      },
+      "id": "node/1944569846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944639161",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banco Santander",
+        "brand:wikidata": "Q6496310",
+        "name": "Banco Santander",
+        "official_name": "Santander Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385333,
+          20.7407638
+        ]
+      },
+      "id": "node/1944639161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956423732",
+        "addr:postcode": "45010",
+        "addr:street": "Calzada Norte",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445566,
+          20.6825615
+        ]
+      },
+      "id": "node/1956423732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041149505",
+        "addr:housename": "Sucursal Niños Heroes",
+        "addr:housenumber": "2967",
+        "addr:postcode": "44520",
+        "addr:street": "NIÑOS HEROES",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3888273,
+          20.6662918
+        ]
+      },
+      "id": "node/2041149505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041156417",
+        "addr:housename": "Sucursal Banamex",
+        "addr:postcode": "44520",
+        "addr:street": "Niños Heroes",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3857596,
+          20.6664308
+        ]
+      },
+      "id": "node/2041156417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296572487",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4231038,
+          20.6191121
+        ]
+      },
+      "id": "node/2296572487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338719835",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4236912,
+          20.6791148
+        ]
+      },
+      "id": "node/2338719835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338724119",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387277,
+          20.6982075
+        ]
+      },
+      "id": "node/2338724119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402802805",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4900",
+        "addr:street": "Avenida Adolfo López Mateos Sur",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.413263,
+          20.6358266
+        ]
+      },
+      "id": "node/2402802805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402848026",
+        "addr:city": "Zapopan",
+        "addr:street": "Avenida Adolfo López Mateos Sur",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41246,
+          20.6361408
+        ]
+      },
+      "id": "node/2402848026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802314054",
+        "amenity": "bank",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3966966,
+          20.6789694
+        ]
+      },
+      "id": "node/2802314054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806767939",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3896562,
+          20.7212539
+        ]
+      },
+      "id": "node/2806767939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806786858",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.399193,
+          20.6513506
+        ]
+      },
+      "id": "node/2806786858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807645776",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.381116,
+          20.6731626
+        ]
+      },
+      "id": "node/2807645776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807655749",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.374595,
+          20.6747036
+        ]
+      },
+      "id": "node/2807655749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807676501",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.373039,
+          20.6888542
+        ]
+      },
+      "id": "node/2807676501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2807843335",
+        "amenity": "bank",
+        "name": "BANORTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3933888,
+          20.7218612
+        ]
+      },
+      "id": "node/2807843335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809945170",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3904072,
+          20.6662889
+        ]
+      },
+      "id": "node/2809945170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809956729",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander",
+        "operator": "Grupo Financiero Santander México, S.A.B. de C.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.349535,
+          20.6741923
+        ]
+      },
+      "id": "node/2809956729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809963723",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.331245,
+          20.6953854
+        ]
+      },
+      "id": "node/2809963723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825159434",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.418839,
+          20.6264531
+        ]
+      },
+      "id": "node/2825159434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825200921",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.390381,
+          20.6465216
+        ]
+      },
+      "id": "node/2825200921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825222107",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.402451,
+          20.6522518
+        ]
+      },
+      "id": "node/2825222107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2858224126",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4079966,
+          20.6640946
+        ]
+      },
+      "id": "node/2858224126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868571088",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.349842,
+          20.6774199
+        ]
+      },
+      "id": "node/2868571088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868572762",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4074962,
+          20.6629123
+        ]
+      },
+      "id": "node/2868572762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874690943",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385285,
+          20.6976744
+        ]
+      },
+      "id": "node/2874690943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874690944",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385124,
+          20.6977092
+        ]
+      },
+      "id": "node/2874690944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882789422",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.416763,
+          20.6897605
+        ]
+      },
+      "id": "node/2882789422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899330590",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385186,
+          20.6784312
+        ]
+      },
+      "id": "node/2899330590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2969343347",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4137057,
+          20.6915408
+        ]
+      },
+      "id": "node/2969343347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973469977",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.339998,
+          20.6766636
+        ]
+      },
+      "id": "node/2973469977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986665226",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "625",
+        "addr:postcode": "44190",
+        "addr:street": "Avenida Chapultepec",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "website": "http://banamex.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.368173,
+          20.6661089
+        ]
+      },
+      "id": "node/2986665226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986700385",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "505",
+        "addr:postcode": "44160",
+        "addr:street": "Avenida Chapultepec",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+52 33 3825 7040",
+        "website": "https://www.banorte.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.368216,
+          20.6683543
+        ]
+      },
+      "id": "node/2986700385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2989978444",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.351777,
+          20.6969884
+        ]
+      },
+      "id": "node/2989978444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688886",
+        "amenity": "bank",
+        "name": "BBVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3192428,
+          20.7193435
+        ]
+      },
+      "id": "node/3163688886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688887",
+        "amenity": "bank",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3186098,
+          20.7198151
+        ]
+      },
+      "id": "node/3163688887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170710089",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3473587,
+          20.6714669
+        ]
+      },
+      "id": "node/3170710089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170759932",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347561,
+          20.704351
+        ]
+      },
+      "id": "node/3170759932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170759949",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "brand:wikipedia": "en:Scotiabank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3485438,
+          20.7054589
+        ]
+      },
+      "id": "node/3170759949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170759951",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348287,
+          20.7053259
+        ]
+      },
+      "id": "node/3170759951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170759952",
+        "amenity": "bank",
+        "brand": "Inbursa",
+        "brand:wikidata": "Q731123",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348078,
+          20.7050412
+        ]
+      },
+      "id": "node/3170759952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3172317892",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37305,
+          20.6896931
+        ]
+      },
+      "id": "node/3172317892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429598810",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3473247,
+          20.67081
+        ]
+      },
+      "id": "node/3429598810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627856126",
+        "amenity": "bank",
+        "name": "BBVA Bancomer",
+        "operator": "BBVA Bancomer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4474642,
+          20.6773269
+        ]
+      },
+      "id": "node/3627856126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793394304",
+        "amenity": "bank",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3824372,
+          20.7172811
+        ]
+      },
+      "id": "node/3793394304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4033027312",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.386541,
+          20.7414559
+        ]
+      },
+      "id": "node/4033027312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035920738",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Caja Popular Mexicana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3739402,
+          20.5302213
+        ]
+      },
+      "id": "node/4035920738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4106362192",
+        "addr:street": "Avenida Américas",
+        "amenity": "bank",
+        "name": "IXe",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "ixe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3783703,
+          20.708454
+        ]
+      },
+      "id": "node/4106362192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164207825",
+        "amenity": "bank",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3197043,
+          20.648018
+        ]
+      },
+      "id": "node/4164207825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4176686391",
+        "addr:street": "Avenida Mariano Otero",
+        "amenity": "bank",
+        "name": "Banco Azteca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4031204,
+          20.6479254
+        ]
+      },
+      "id": "node/4176686391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271672940",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.359683,
+          20.6661738
+        ]
+      },
+      "id": "node/4271672940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4297612625",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3875421,
+          20.6261396
+        ]
+      },
+      "id": "node/4297612625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341216667",
+        "amenity": "bank",
+        "name": "Sucursal Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3737849,
+          20.6856588
+        ]
+      },
+      "id": "node/4341216667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341229674",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Sucursal Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3742167,
+          20.6794481
+        ]
+      },
+      "id": "node/4341229674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343150797",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca AFIRME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3731516,
+          20.6868878
+        ]
+      },
+      "id": "node/4343150797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4461119790",
+        "addr:housenumber": "613",
+        "addr:postcode": "45050",
+        "addr:street": "Avenida Netzahualcoyotl",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "name": "Santander",
+        "name:es": "Santander",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "013336696269",
+        "website": "https://www.santander.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.406289,
+          20.6509593
+        ]
+      },
+      "id": "node/4461119790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466835592",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC",
+        "name:en": "Español",
+        "name:es": "Banco HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3985048,
+          20.6355273
+        ]
+      },
+      "id": "node/4466835592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466850489",
+        "amenity": "bank",
+        "name": "Bancomer",
+        "name:es": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3970978,
+          20.6365339
+        ]
+      },
+      "id": "node/4466850489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4473489890",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC",
+        "name:es": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.416292,
+          20.6304445
+        ]
+      },
+      "id": "node/4473489890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4478077479",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "180",
+        "addr:postcode": "44100",
+        "addr:street": "Santa Mónica",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "BANJERCITO",
+        "operator": "Banco Nacional del Ejército Fuerza Aérea y Armada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348953,
+          20.6791597
+        ]
+      },
+      "id": "node/4478077479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527150302",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.368967,
+          20.676946
+        ]
+      },
+      "id": "node/4527150302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527151500",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.359395,
+          20.6787135
+        ]
+      },
+      "id": "node/4527151500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527153526",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35543,
+          20.6994584
+        ]
+      },
+      "id": "node/4527153526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591240589",
+        "amenity": "bank",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "Bancomer",
+        "name:en": "BANCOMER CHAPULTEPEC",
+        "name:es": "BANCOMER CHAPULTEPEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.367144,
+          20.6746872
+        ]
+      },
+      "id": "node/4591240589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087597",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4137323,
+          20.7082725
+        ]
+      },
+      "id": "node/4603087597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087657",
+        "amenity": "bank",
+        "name": "CI Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4152102,
+          20.7081584
+        ]
+      },
+      "id": "node/4603087657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087682",
+        "amenity": "bank",
+        "name": "Monex Grupo Financiero Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41506,
+          20.7069591
+        ]
+      },
+      "id": "node/4603087682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087708",
+        "amenity": "bank",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4111654,
+          20.7109784
+        ]
+      },
+      "id": "node/4603087708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087709",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4110206,
+          20.7115704
+        ]
+      },
+      "id": "node/4603087709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107803",
+        "amenity": "bank",
+        "name": "Banco del Bajío Acueducto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4080621,
+          20.7090929
+        ]
+      },
+      "id": "node/4603107803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107874",
+        "amenity": "bank",
+        "name": "Finetxe Casa de Bolsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4097291,
+          20.7102992
+        ]
+      },
+      "id": "node/4603107874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692408",
+        "amenity": "bank",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "brand:wikipedia": "en:Scotiabank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.434729,
+          20.7298389
+        ]
+      },
+      "id": "node/4612692408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692412",
+        "amenity": "bank",
+        "name": "Bansi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4353868,
+          20.7297812
+        ]
+      },
+      "id": "node/4612692412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692418",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4372268,
+          20.7299743
+        ]
+      },
+      "id": "node/4612692418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692422",
+        "amenity": "bank",
+        "name": "IXE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.438643,
+          20.7299693
+        ]
+      },
+      "id": "node/4612692422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613197963",
+        "amenity": "bank",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4204055,
+          20.7493943
+        ]
+      },
+      "id": "node/4613197963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619406480",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4437906,
+          20.5913724
+        ]
+      },
+      "id": "node/4619406480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619406482",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4440463,
+          20.590923
+        ]
+      },
+      "id": "node/4619406482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629830987",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4590164,
+          20.5670351
+        ]
+      },
+      "id": "node/4629830987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831092",
+        "amenity": "bank",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4591023,
+          20.5669497
+        ]
+      },
+      "id": "node/4629831092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831112",
+        "amenity": "bank",
+        "name": "Banco del Bajío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4606311,
+          20.5646594
+        ]
+      },
+      "id": "node/4629831112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831113",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.459767,
+          20.5655584
+        ]
+      },
+      "id": "node/4629831113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831114",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46025,
+          20.5652069
+        ]
+      },
+      "id": "node/4629831114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906053",
+        "amenity": "bank",
+        "name": "Banregio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4580723,
+          20.5686121
+        ]
+      },
+      "id": "node/4629906053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644507689",
+        "addr:city": "Guadalajara",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.329972,
+          20.6976382
+        ]
+      },
+      "id": "node/4644507689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684513579",
+        "amenity": "bank",
+        "name": "Citibanamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3644606,
+          20.5737921
+        ]
+      },
+      "id": "node/4684513579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684513580",
+        "amenity": "bank",
+        "name": "Compartamos Banco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3647423,
+          20.5736665
+        ]
+      },
+      "id": "node/4684513580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714406211",
+        "amenity": "bank",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4142016,
+          20.7468129
+        ]
+      },
+      "id": "node/4714406211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4719454139",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3848933,
+          20.7551197
+        ]
+      },
+      "id": "node/4719454139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4719454140",
+        "amenity": "bank",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3847397,
+          20.7549316
+        ]
+      },
+      "id": "node/4719454140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4720948406",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6000-16",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte",
+        "phone": "+52-33-31254390",
+        "website": "https://www.banorte.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4365029,
+          20.6593673
+        ]
+      },
+      "id": "node/4720948406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724263235",
+        "amenity": "bank",
+        "name": "citiBanamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3897302,
+          20.7283172
+        ]
+      },
+      "id": "node/4724263235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746157442",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2781912,
+          20.6406869
+        ]
+      },
+      "id": "node/4746157442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746157479",
+        "amenity": "bank",
+        "name": "Afirme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2840492,
+          20.6377752
+        ]
+      },
+      "id": "node/4746157479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748069806",
+        "amenity": "bank",
+        "name": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2814065,
+          20.6452311
+        ]
+      },
+      "id": "node/4748069806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757134960",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.321151,
+          20.6166644
+        ]
+      },
+      "id": "node/4757134960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995971021",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.346315,
+          20.6750184
+        ]
+      },
+      "id": "node/4995971021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135891976",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42124,
+          20.662294
+        ]
+      },
+      "id": "node/5135891976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135896423",
+        "amenity": "bank",
+        "name": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4098758,
+          20.6731322
+        ]
+      },
+      "id": "node/5135896423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322599149",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "fee": "Banorte",
+        "name": "Banorte",
+        "operator": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3019991,
+          20.6903458
+        ]
+      },
+      "id": "node/5322599149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752738835",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Multiplaza del Valle",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.362017,
+          20.5421604
+        ]
+      },
+      "id": "node/5752738835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752738914",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Multiplaza del Valle",
+        "name": "Citibanamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3616924,
+          20.5420599
+        ]
+      },
+      "id": "node/5752738914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778245417",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.331335,
+          20.6952005
+        ]
+      },
+      "id": "node/5778245417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5788253630",
+        "amenity": "bank",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2781034,
+          20.6409624
+        ]
+      },
+      "id": "node/5788253630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842651829",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Periférico Colón",
+        "name": "Scotiabank",
+        "opening_hours": "Mo-Fr 08:30-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4015353,
+          20.6045536
+        ]
+      },
+      "id": "node/5842651829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842651831",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Centro Sur",
+        "name": "Citibanamex",
+        "opening_hours": "Mo-Sa 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4013663,
+          20.6046238
+        ]
+      },
+      "id": "node/5842651831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001673271",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "950",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "bank",
+        "atm": "yes",
+        "level": "1",
+        "name": "BanCoppel",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+52 33 36289606",
+        "website": "https://www.bancoppel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4328065,
+          20.6562181
+        ]
+      },
+      "id": "node/6001673271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6121930961",
+        "addr:city": "Guadalajara",
+        "addr:housename": "First Cash",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "name": "First Cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3298763,
+          20.6978589
+        ]
+      },
+      "id": "node/6121930961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6121930962",
+        "addr:city": "Guadalajara",
+        "addr:housename": "HSBC",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banco HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3297824,
+          20.69816
+        ]
+      },
+      "id": "node/6121930962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6121930963",
+        "addr:city": "Guadalajara",
+        "addr:housename": "BBVA Bancomer",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.329318,
+          20.6978589
+        ]
+      },
+      "id": "node/6121930963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6121930964",
+        "addr:city": "Guadalajara",
+        "addr:housename": "Banca Afirme",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Banca Afirme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3297736,
+          20.6980257
+        ]
+      },
+      "id": "node/6121930964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6121941159",
+        "addr:city": "Guadalajara",
+        "addr:housename": "Banorte",
+        "addr:street": "Calzada Independencia",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.329838,
+          20.6979492
+        ]
+      },
+      "id": "node/6121941159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196364386",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3663518,
+          20.6358747
+        ]
+      },
+      "id": "node/6196364386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6659797876",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4033066,
+          20.6657476
+        ]
+      },
+      "id": "node/6659797876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6765478886",
+        "addr:housename": "Crédito Familiar",
+        "amenity": "bank",
+        "name": "Crédito Familiar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.346463,
+          20.6672651
+        ]
+      },
+      "id": "node/6765478886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392732980",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "drive_through": "no",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4000483,
+          20.667722
+        ]
+      },
+      "id": "node/7392732980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7599170797",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44100",
+        "addr:street": "Avenida 16 de Septiembre",
+        "amenity": "bank",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "brand:wikipedia": "en:BBVA Bancomer",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3471458,
+          20.6745157
+        ]
+      },
+      "id": "node/7599170797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7639079728",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banco Santander",
+        "brand:en": "Santander Bank",
+        "brand:es": "Banco Santander",
+        "brand:wikidata": "Q6496310",
+        "brand:wikipedia": "es:Banco Santander",
+        "drive_through": "yes",
+        "name": "Banco Santander",
+        "name:en": "Santander Bank",
+        "name:es": "Banco Santander",
+        "official_name": "Santander Group",
+        "opening_hours": "Mo-Su 09:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2838133,
+          20.6345565
+        ]
+      },
+      "id": "node/7639079728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8236004417",
+        "amenity": "bank",
+        "name": "Citibanamex ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3662039,
+          20.6745191
+        ]
+      },
+      "id": "node/8236004417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350156902",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4483559,
+          20.6009888
+        ]
+      },
+      "id": "node/8350156902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350158169",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4484813,
+          20.6009888
+        ]
+      },
+      "id": "node/8350158169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854745",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.421753,
+          20.6584202
+        ]
+      },
+      "id": "node/8355854745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854746",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte ATM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4217123,
+          20.6586218
+        ]
+      },
+      "id": "node/8355854746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365498814",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4715402,
+          20.5550332
+        ]
+      },
+      "id": "node/8365498814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506624",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4028518,
+          20.650224
+        ]
+      },
+      "id": "node/8365506624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506625",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4018244,
+          20.651535
+        ]
+      },
+      "id": "node/8365506625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365536551",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4524762,
+          20.5682883
+        ]
+      },
+      "id": "node/8365536551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365536552",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4523221,
+          20.5681659
+        ]
+      },
+      "id": "node/8365536552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815652",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3785061,
+          20.7127027
+        ]
+      },
+      "id": "node/8365815652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815653",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3784202,
+          20.7125873
+        ]
+      },
+      "id": "node/8365815653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815654",
+        "amenity": "bank",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "brand:wikipedia": "en:Scotiabank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3784095,
+          20.7124217
+        ]
+      },
+      "id": "node/8365815654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815655",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3790371,
+          20.7118397
+        ]
+      },
+      "id": "node/8365815655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815656",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "brand:wikipedia": "en:Grupo Financiero Banamex",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "official_name:en": "Banamex Financial Group",
+        "official_name:es": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3782969,
+          20.7128783
+        ]
+      },
+      "id": "node/8365815656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439386",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4014435,
+          20.6035229
+        ]
+      },
+      "id": "node/8369439386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369475821",
+        "amenity": "bank",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4010626,
+          20.6035405
+        ]
+      },
+      "id": "node/8369475821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843164",
+        "amenity": "bank",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "brand:wikipedia": "en:Santander Bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387094,
+          20.6461898
+        ]
+      },
+      "id": "node/8376843164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843169",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3860666,
+          20.6472211
+        ]
+      },
+      "id": "node/8376843169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400710933",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4482815,
+          20.6006587
+        ]
+      },
+      "id": "node/8400710933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400710934",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4481275,
+          20.6007266
+        ]
+      },
+      "id": "node/8400710934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400710935",
+        "amenity": "bank",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "brand:wikipedia": "en:HSBC",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4481912,
+          20.6007001
+        ]
+      },
+      "id": "node/8400710935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430093530",
+        "amenity": "bank",
+        "brand": "Banco Azteca",
+        "brand:en": "Aztec Bank",
+        "brand:es": "Banco Azteca",
+        "brand:wikidata": "Q4854076",
+        "brand:wikipedia": "en:Banco Azteca",
+        "name": "Banco Azteca",
+        "name:en": "Aztec Bank",
+        "name:es": "Banco Azteca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3981046,
+          20.6357715
+        ]
+      },
+      "id": "node/8430093530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430093532",
+        "amenity": "bank",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "brand:wikipedia": "en:Banorte",
+        "name": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3983451,
+          20.6356208
+        ]
+      },
+      "id": "node/8430093532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430099293",
+        "amenity": "bank",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "brand:wikipedia": "en:Scotiabank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4183106,
+          20.6291969
+        ]
+      },
+      "id": "node/8430099293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295268",
+        "amenity": "bank",
+        "name": "Caja San Rafael"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4013371,
+          20.7382116
+        ]
+      },
+      "id": "node/8459295268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295272",
+        "amenity": "bank",
+        "name": "Financiera Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401836,
+          20.7380661
+        ]
+      },
+      "id": "node/8459295272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295308",
+        "amenity": "bank",
+        "brand": "BBVA",
+        "brand:wikidata": "Q806189",
+        "brand:wikipedia": "en:Banco Bilbao Vizcaya Argentaria",
+        "name": "BBVA",
+        "official_name": "Banco Bilbao Vizcaya Argentaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4009321,
+          20.738766
+        ]
+      },
+      "id": "node/8459295308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8851672645",
+        "amenity": "bank",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "brand:wikipedia": "en:Scotiabank",
+        "name": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4482505,
+          20.580273
+        ]
+      },
+      "id": "node/8851672645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778133117",
+        "amenity": "bank",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.402066,
+          20.6411069
+        ]
+      },
+      "id": "node/9778133117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9809704617",
+        "amenity": "bank",
+        "brand": "Inbursa",
+        "brand:wikidata": "Q731123",
+        "name": "Inbursa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.377974,
+          20.6742864
+        ]
+      },
+      "id": "node/9809704617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10035134617",
+        "addr:housenumber": "4035",
+        "addr:street": "Porta Real",
+        "amenity": "bank",
+        "name": "BanBajío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4529505,
+          20.7279233
+        ]
+      },
+      "id": "node/10035134617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303923310",
+        "addr:street": "Boulevard Bosques de San Isidro",
+        "amenity": "bank",
+        "branch": "San Isidro",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "8000212345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387325,
+          20.7420872
+        ]
+      },
+      "id": "node/10303923310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303934109",
+        "addr:housenumber": "893",
+        "addr:postcode": "45132",
+        "addr:street": "Anillo Periférico Norte Manuel Gómez Morín",
+        "amenity": "bank",
+        "brand": "Banco Azteca",
+        "brand:wikidata": "Q4854076",
+        "name": "Banco Azteca",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "8000407777",
+        "website": "http://bancoazteca.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387337,
+          20.7419048
+        ]
+      },
+      "id": "node/10303934109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312565609",
+        "addr:housenumber": "2660",
+        "addr:postcode": "44940",
+        "addr:street": "Avenida 8 de Julio",
+        "amenity": "bank",
+        "name": "Santander",
+        "name:en": "Sastander",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "+523338100179",
+        "website": "https://www.santander.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3601691,
+          20.6494287
+        ]
+      },
+      "id": "node/10312565609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10945326764",
+        "amenity": "bank",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "BBVA Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2426955,
+          20.62306
+        ]
+      },
+      "id": "node/10945326764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10979138904",
+        "amenity": "bank",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.429378,
+          20.7323114
+        ]
+      },
+      "id": "node/10979138904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10979143005",
+        "amenity": "bank",
+        "brand": "Banregio",
+        "brand:wikidata": "Q4853573",
+        "name": "Banregio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4292235,
+          20.7321794
+        ]
+      },
+      "id": "node/10979143005"
+    }
+  ]
+}

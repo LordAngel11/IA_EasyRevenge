@@ -1,0 +1,2177 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:21:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482518770",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2123",
+        "addr:postcode": "44160",
+        "addr:street": "Avenida de la Paz",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "6 m",
+        "name": "Kölsch Gastro Pub",
+        "opening_hours": "Mo-We 18:30-02:00, Th-Sa 15:00-02:30",
+        "website": "https://www.facebook.com/KoelschGastroPub/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3710383,
+              20.6721173
+            ],
+            [
+              -103.3710332,
+              20.6718533
+            ],
+            [
+              -103.3709355,
+              20.6718549
+            ],
+            [
+              -103.3709406,
+              20.6721189
+            ],
+            [
+              -103.3710383,
+              20.6721173
+            ]
+          ]
+        ]
+      },
+      "id": "way/482518770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589115718",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Aloha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3250619,
+              20.6519964
+            ],
+            [
+              -103.3251466,
+              20.6521259
+            ],
+            [
+              -103.3252459,
+              20.6520726
+            ],
+            [
+              -103.3251628,
+              20.6519461
+            ],
+            [
+              -103.3250619,
+              20.6519964
+            ]
+          ]
+        ]
+      },
+      "id": "way/589115718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627680600",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6601",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Cervecería Cayo Santo",
+        "opening_hours": "Mo-Su 13:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+52 33 16040058",
+        "website": "https://www.facebook.com/Cayosantoo/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4437534,
+              20.6587192
+            ],
+            [
+              -103.4437032,
+              20.658717
+            ],
+            [
+              -103.4436996,
+              20.6587913
+            ],
+            [
+              -103.4436944,
+              20.6588948
+            ],
+            [
+              -103.4437441,
+              20.658897
+            ],
+            [
+              -103.443748,
+              20.6588179
+            ],
+            [
+              -103.4437532,
+              20.6587242
+            ],
+            [
+              -103.4437534,
+              20.6587192
+            ]
+          ]
+        ]
+      },
+      "id": "way/627680600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/664745703",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4990",
+        "addr:postcode": "45034",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "retail",
+        "cuisine": "taco;mexican;burguer",
+        "name": "Cervecería Tepeyac",
+        "opening_hours": "Mo-We, Su 13:00-01:00, Th-Sa 13:00-03:00",
+        "outdoor_seating": "terrace",
+        "phone": "+52-33-23049456",
+        "website": "https://www.facebook.com/CerveceriaTepeyac/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4233716,
+              20.6558164
+            ],
+            [
+              -103.4233505,
+              20.6556854
+            ],
+            [
+              -103.4232138,
+              20.6557071
+            ],
+            [
+              -103.4232085,
+              20.6556697
+            ],
+            [
+              -103.4231591,
+              20.6556756
+            ],
+            [
+              -103.4231843,
+              20.6558518
+            ],
+            [
+              -103.4232542,
+              20.6558434
+            ],
+            [
+              -103.4233716,
+              20.6558164
+            ]
+          ]
+        ]
+      },
+      "id": "way/664745703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699142196",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "712",
+        "addr:postcode": "44500",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "name": "Cheleros",
+        "opening_hours": "Su-We 12:00-01:00, Th-Sa 12:00-02:00",
+        "outdoor_seating": "terrace",
+        "phone": "+52-33-17165018",
+        "website": "https://www.facebook.com/chelerosbar/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3995517,
+              20.6665354
+            ],
+            [
+              -103.3994315,
+              20.6665508
+            ],
+            [
+              -103.3994504,
+              20.6666802
+            ],
+            [
+              -103.3995706,
+              20.6666648
+            ],
+            [
+              -103.3995517,
+              20.6665354
+            ]
+          ]
+        ]
+      },
+      "id": "way/699142196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073387741",
+        "amenity": "bar",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4258089,
+              20.5335912
+            ],
+            [
+              -103.4258273,
+              20.5335296
+            ],
+            [
+              -103.4258573,
+              20.5334208
+            ],
+            [
+              -103.4257662,
+              20.533398
+            ],
+            [
+              -103.4257551,
+              20.5334412
+            ],
+            [
+              -103.4257213,
+              20.533573
+            ],
+            [
+              -103.4258089,
+              20.5335912
+            ]
+          ]
+        ]
+      },
+      "id": "way/1073387741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686457157",
+        "amenity": "bar",
+        "name": "El Grillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3683774,
+          20.672719
+        ]
+      },
+      "id": "node/1686457157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686461356",
+        "amenity": "bar",
+        "name": "El Pony Pisador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3769673,
+          20.6756938
+        ]
+      },
+      "id": "node/1686461356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697022790",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2949524,
+          20.6634336
+        ]
+      },
+      "id": "node/1697022790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699897144",
+        "amenity": "bar",
+        "name": "La Más Querida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2656415,
+          20.6310648
+        ]
+      },
+      "id": "node/1699897144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342371",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2922724,
+          20.6725148
+        ]
+      },
+      "id": "node/1715342371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2396921566",
+        "alt_name": "Wing's Army ITESO",
+        "amenity": "bar",
+        "branch": "ITESO",
+        "int_name": "Wing's Army",
+        "name": "Wing's Army",
+        "website": "http://www.wingsarmy.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4157123,
+          20.6126172
+        ]
+      },
+      "id": "node/2396921566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2654733110",
+        "addr:city": "Tlajomulco de Zuñiga",
+        "addr:housename": "Plaza San Ignacio",
+        "addr:housenumber": "889",
+        "addr:postcode": "45645",
+        "addr:street": "Antiguo Camino Real a Colima",
+        "amenity": "bar",
+        "name": "Wingman Santa Anita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4500545,
+          20.5601017
+        ]
+      },
+      "id": "node/2654733110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882072825",
+        "amenity": "bar",
+        "name": "Mascusia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3361638,
+          20.6738942
+        ]
+      },
+      "id": "node/2882072825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882073058",
+        "amenity": "bar",
+        "name": "Mascusia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3278386,
+          20.6779962
+        ]
+      },
+      "id": "node/2882073058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882171866",
+        "amenity": "bar",
+        "name": "Los Famosos Equipales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.352287,
+          20.6845207
+        ]
+      },
+      "id": "node/2882171866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882210308",
+        "amenity": "bar",
+        "name": "La Maestranza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3455073,
+          20.6739658
+        ]
+      },
+      "id": "node/2882210308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882216401",
+        "addr:housenumber": "28",
+        "addr:street": "Calle Coronilla",
+        "amenity": "bar",
+        "name": "Escarabajo Scratch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.352788,
+          20.6767501
+        ]
+      },
+      "id": "node/2882216401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3590434851",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "63046-7",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bar",
+        "brewery": "various",
+        "cuisine": "wings",
+        "name": "Vancouver Wings",
+        "opening_hours": "Mo-Su 13:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+52 33 3125-5381",
+        "website": "https://vancouverwings.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4414572,
+          20.6593765
+        ]
+      },
+      "id": "node/3590434851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627307331",
+        "amenity": "bar",
+        "name": "Wingman Ciudad Granja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445875,
+          20.682116
+        ]
+      },
+      "id": "node/3627307331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978427313",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "854",
+        "addr:postcode": "44170",
+        "addr:street": "Pedro Moreno",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Xtreme Pool",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "sport": "billiards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.356542,
+          20.6757463
+        ]
+      },
+      "id": "node/3978427313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348639596",
+        "amenity": "bar",
+        "name": "Wings Army Alitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4026978,
+          20.6671563
+        ]
+      },
+      "id": "node/4348639596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348672491",
+        "amenity": "bar",
+        "name": "Barezzito Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3952692,
+          20.6855342
+        ]
+      },
+      "id": "node/4348672491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402059091",
+        "amenity": "bar",
+        "name": "Vancouver wings",
+        "name:es": "Vancouver wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4124662,
+          20.6037869
+        ]
+      },
+      "id": "node/4402059091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419600692",
+        "amenity": "bar",
+        "name": "Wingman",
+        "name:en": "Wingman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4063732,
+          20.6450551
+        ]
+      },
+      "id": "node/4419600692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107889",
+        "amenity": "bar",
+        "name": "La Real Licorería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4092302,
+          20.7119174
+        ]
+      },
+      "id": "node/4603107889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107902",
+        "amenity": "bar",
+        "name": "Reyes Salón Cantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4097452,
+          20.7119927
+        ]
+      },
+      "id": "node/4603107902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613561277",
+        "amenity": "bar",
+        "name": "D'Klub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4486391,
+          20.6911459
+        ]
+      },
+      "id": "node/4613561277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482307",
+        "amenity": "bar",
+        "name": "Barezzito Sur GDL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4468809,
+          20.5865612
+        ]
+      },
+      "id": "node/4624482307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906052",
+        "amenity": "bar",
+        "name": "Vancouver Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4580669,
+          20.5682957
+        ]
+      },
+      "id": "node/4629906052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650583392",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.327989,
+          20.6962896
+        ]
+      },
+      "id": "node/4650583392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4653090092",
+        "addr:street": "Pedro Moreno",
+        "amenity": "bar",
+        "cuisine": "barbecue",
+        "name": "Pedro y El Leon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3602245,
+          20.6756546
+        ]
+      },
+      "id": "node/4653090092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4673841092",
+        "amenity": "bar",
+        "name": "La Katorra Bar",
+        "name:es": "La Katorra Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3160967,
+          20.6393358
+        ]
+      },
+      "id": "node/4673841092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679331702",
+        "addr:street": "Calle Coronilla",
+        "amenity": "bar",
+        "name": "la lupita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.352896,
+          20.67651
+        ]
+      },
+      "id": "node/4679331702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688144894",
+        "addr:street": "Calle Bernardo de Balbuena",
+        "amenity": "bar",
+        "name": "Black beard's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3727913,
+          20.6779513
+        ]
+      },
+      "id": "node/4688144894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4738630845",
+        "amenity": "bar",
+        "name": "Cantina Mexicaltzingo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3688498,
+          20.6682189
+        ]
+      },
+      "id": "node/4738630845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780238023",
+        "addr:postcode": "44100",
+        "addr:street": "Calle López Cotilla",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "cervecería chapultepec",
+        "name:en": "cervecería chapultepec",
+        "name:es": "cervecería chapultepec",
+        "name:it": "Cerveceria Chapultepec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3765206,
+          20.6734699
+        ]
+      },
+      "id": "node/4780238023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4831759821",
+        "amenity": "bar",
+        "name": "kelpi",
+        "name:es": "kelpi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4709822,
+          20.6241879
+        ]
+      },
+      "id": "node/4831759821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894258537",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "3407",
+        "addr:postcode": "45079",
+        "addr:street": "Calle Felipe Zetter",
+        "amenity": "bar",
+        "ele": "1",
+        "name": "Drünkentap",
+        "opening_hours": "Mo-Sa 17:00-00:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4324624,
+          20.6338425
+        ]
+      },
+      "id": "node/4894258537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5091752630",
+        "addr:housenumber": "1903",
+        "addr:street": "Avenida Libertad",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.366202,
+          20.673108
+        ]
+      },
+      "id": "node/5091752630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170255321",
+        "amenity": "bar",
+        "name": "Cantina La Occidental",
+        "opening_hours": "Fr-Sa 12:00-02:00; Su, Tu-Th 12:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3488071,
+          20.66967
+        ]
+      },
+      "id": "node/5170255321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5218306017",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44190",
+        "addr:street": "Avenida Niños Héroes",
+        "amenity": "bar",
+        "name": "Que Pues Resto-Bar",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3601507,
+          20.6669974
+        ]
+      },
+      "id": "node/5218306017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242175676",
+        "amenity": "bar",
+        "name": "McCarthy's Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4309202,
+          20.6777397
+        ]
+      },
+      "id": "node/5242175676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5292000680",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2190",
+        "addr:postcode": "44610",
+        "addr:street": "Diagonal Manuel Cambre",
+        "amenity": "bar",
+        "name": "Cerveceria Zero Country",
+        "operator": "Cerverceria Zero",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3693386,
+          20.6962499
+        ]
+      },
+      "id": "node/5292000680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322736822",
+        "amenity": "bar",
+        "name": "El Chacal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3725769,
+          20.6781714
+        ]
+      },
+      "id": "node/5322736822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5347235221",
+        "amenity": "bar",
+        "name:en": "Red Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3671745,
+          20.6770056
+        ]
+      },
+      "id": "node/5347235221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5670639933",
+        "amenity": "bar",
+        "name": "Craft Tap Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3996796,
+          20.6639508
+        ]
+      },
+      "id": "node/5670639933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921866815",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6340-1",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bar",
+        "brewery": "various",
+        "cuisine": "wings",
+        "level": "0,_1",
+        "name": "Wings Army",
+        "opening_hours": "Mo-Su 13:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+52-33-13800183",
+        "smoking": "isolated",
+        "website": "http://www.wingsarmy.com/mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4421469,
+          20.6593073
+        ]
+      },
+      "id": "node/5921866815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921902985",
+        "amenity": "bar",
+        "name": "Hudson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3703059,
+          20.6712847
+        ]
+      },
+      "id": "node/5921902985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674494",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "17",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "bar",
+        "brewery": "various;Colima;Cuauhtémoc_Moctezuma;Heineken;Coors",
+        "cuisine": "wings",
+        "level": "1;2",
+        "name": "Punto Wings Copérnico",
+        "outdoor_seating": "yes",
+        "phone": "+52 33 20800934",
+        "smoking": "separated",
+        "website": "http://punto-wings.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4324738,
+          20.6551033
+        ]
+      },
+      "id": "node/6001674494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139559655",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1-A",
+        "addr:street": "Calle Misión San Francisco",
+        "amenity": "bar",
+        "brewery": "yes",
+        "cuisine": "wings",
+        "name": "La Cawamería",
+        "outdoor_seating": "terrace",
+        "phone": "+52 33 28002641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4365477,
+          20.6528839
+        ]
+      },
+      "id": "node/6139559655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6222161686",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "5000",
+        "addr:postcode": "45034",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "La Célebre",
+        "opening_hours": "Th 21:00-2:00, Fr-Sa 21:00-4:00",
+        "outdoor_seating": "no",
+        "website": "https://lacelebre.negocio.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4235515,
+          20.6557169
+        ]
+      },
+      "id": "node/6222161686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6246552228",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Coyote Rojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.358629,
+          20.6726254
+        ]
+      },
+      "id": "node/6246552228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6246552229",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Primer Piso Jazz Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3585097,
+          20.674776
+        ]
+      },
+      "id": "node/6246552229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6246552230",
+        "amenity": "bar",
+        "brewery": "Pulque",
+        "name": "La Chukirruki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3584574,
+          20.6764272
+        ]
+      },
+      "id": "node/6246552230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448866594",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6000-2",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "bar",
+        "brewery": "yes",
+        "cuisine": "pizza;wings;burger",
+        "name": "King Buffalo",
+        "opening_hours": "14:00-01:00",
+        "outdoor_seating": "sidewalk",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+52-33-16652103",
+        "website": "https://www.facebook.com/kingbuffaloGDL",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4369313,
+          20.6590797
+        ]
+      },
+      "id": "node/6448866594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6693385153",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "443",
+        "addr:postcode": "45134",
+        "addr:street": "Privada Bugambilias",
+        "amenity": "bar",
+        "brewery": "various",
+        "description": "Terraza para eventos.",
+        "name": "Terraza Pineda",
+        "outdoor_seating": "yes",
+        "phone": "+5213334952066",
+        "website": "https://www.facebook.com/terrazapineda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4333545,
+          20.7692014
+        ]
+      },
+      "id": "node/6693385153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6984058896",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1140-C",
+        "addr:postcode": "45034",
+        "addr:street": "Avenida De La Patria",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Starwings",
+        "opening_hours": "13:00-02:00",
+        "phone": "+52-33-15610564",
+        "website": "http://starwings.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.423359,
+          20.6560108
+        ]
+      },
+      "id": "node/6984058896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098530285",
+        "addr:housenumber": "1132",
+        "addr:postcode": "44180",
+        "addr:street": "Calle Epigmenio González",
+        "amenity": "bar",
+        "name": "Bar Morelia’s",
+        "name:en": "Morelia’s Bar",
+        "name:es": "La Bar Morelia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3518662,
+          20.666518
+        ]
+      },
+      "id": "node/7098530285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7237883427",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "405",
+        "addr:postcode": "45017",
+        "addr:street": "Avenida Prolongación Tepeyac",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Half-Time Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4623985,
+          20.6741764
+        ]
+      },
+      "id": "node/7237883427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7254236618",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "215",
+        "addr:street": "Avenida Chapultepec",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Socialista",
+        "opening_hours": "Mo-Su 09:00-02:30",
+        "website": "https://www.facebook.com/lanachapultepec/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3683805,
+          20.6727593
+        ]
+      },
+      "id": "node/7254236618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7254236619",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2028",
+        "addr:postcode": "44140",
+        "addr:street": "Calle José Guadalupe Montenegro",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Redneck",
+        "opening_hours": "Mo-Th 13:00-23:00, Fr 13:00-01:00, Sa 15:00-01:00, Su 16:00-22:00",
+        "website": "https://www.facebook.com/RedneckGDL/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3692253,
+          20.6693604
+        ]
+      },
+      "id": "node/7254236619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725243863",
+        "addr:city": "Guadalajara, Jalisco",
+        "addr:housenumber": "21",
+        "addr:street": "Avenida Enrique Díaz de León Norte",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "brewery": "various;yes",
+        "description": "It has a mini-movie theather",
+        "min_age": "18",
+        "name": "Red Rum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.359521,
+          20.6766663
+        ]
+      },
+      "id": "node/7725243863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7732024103",
+        "addr:housenumber": "634-3",
+        "addr:street": "Calle Rafael Sanzio",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "brewery": "various",
+        "level": "1",
+        "name": "Gallo Bravo",
+        "opening_hours": "Mo-Sa 13:00-01:00, Su 13:00-22:30",
+        "opening_hours:covid19": "same",
+        "website": "https://gallobravo.mx/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.431822,
+          20.6639272
+        ]
+      },
+      "id": "node/7732024103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844866943",
+        "amenity": "bar",
+        "name": "ZPN5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4623877,
+          20.6742773
+        ]
+      },
+      "id": "node/7844866943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8421741318",
+        "amenity": "bar",
+        "name": "The Sunset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3706756,
+          20.6975404
+        ]
+      },
+      "id": "node/8421741318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8422748317",
+        "amenity": "bar",
+        "name": "Alas & Chelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3630873,
+          20.7067233
+        ]
+      },
+      "id": "node/8422748317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8442571876",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "5635A",
+        "addr:postcode": "45070",
+        "addr:street": "Avenida Mariano Otero",
+        "amenity": "bar",
+        "brewery": "moctezuma;Heineken;amstel_ultra;xx_lager;indio;carta_blanca;caguamita_carta_blanca;tecate;strongbow;superior;Miller;coors_light",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "min_age": "12",
+        "name": "La Tertulia",
+        "opening_hours": "Tu-Su 16:00-23:00",
+        "phone": "+13320507011",
+        "start_date": "20210219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4288688,
+          20.6319262
+        ]
+      },
+      "id": "node/8442571876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8757375919",
+        "amenity": "bar",
+        "name": "La Santa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4098375,
+          20.7118376
+        ]
+      },
+      "id": "node/8757375919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833833917",
+        "amenity": "bar",
+        "name": "Amargo Cervezeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3578277,
+          20.6726877
+        ]
+      },
+      "id": "node/8833833917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9733701817",
+        "amenity": "bar",
+        "name:en": "Vietnam Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3637935,
+          20.6756023
+        ]
+      },
+      "id": "node/9733701817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9752673118",
+        "amenity": "bar",
+        "name": "Pulqueria Dona Lala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3911038,
+          20.7222798
+        ]
+      },
+      "id": "node/9752673118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755798818",
+        "amenity": "bar",
+        "name": "Tejuino con nieve de limon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3105877,
+          20.6401955
+        ]
+      },
+      "id": "node/9755798818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9759998718",
+        "amenity": "bar",
+        "name": "El Trapiche Tejuino Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3485059,
+          20.6838921
+        ]
+      },
+      "id": "node/9759998718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9759998818",
+        "amenity": "bar",
+        "name": "La Pulcata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3489398,
+          20.6876672
+        ]
+      },
+      "id": "node/9759998818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9790518317",
+        "amenity": "bar",
+        "name": "Pulqueria La Mestiza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3566394,
+          20.6726072
+        ]
+      },
+      "id": "node/9790518317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799738017",
+        "amenity": "bar",
+        "name": "Tejuino con nieve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3709821,
+          20.6841802
+        ]
+      },
+      "id": "node/9799738017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810108417",
+        "amenity": "bar",
+        "name": "El Cardenal Cervecería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3584666,
+          20.6726474
+        ]
+      },
+      "id": "node/9810108417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950949817",
+        "amenity": "bar",
+        "name": "La Vaca De Troya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3808641,
+          20.6739348
+        ]
+      },
+      "id": "node/9950949817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950965718",
+        "amenity": "bar",
+        "name": "Segundo Piso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3584813,
+          20.6755628
+        ]
+      },
+      "id": "node/9950965718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10892139805",
+        "amenity": "bar",
+        "name": "Tap Station Craft Beer & Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4241163,
+          20.631593
+        ]
+      },
+      "id": "node/10892139805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927713205",
+        "amenity": "bar",
+        "name": "Pigalle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3622605,
+          20.6742074
+        ]
+      },
+      "id": "node/10927713205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927717305",
+        "amenity": "bar",
+        "name": "Rayuela Bodega de Vino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3646821,
+          20.6660441
+        ]
+      },
+      "id": "node/10927717305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927717306",
+        "amenity": "bar",
+        "name": "Barra Matilde Mi Amor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3658648,
+          20.6725406
+        ]
+      },
+      "id": "node/10927717306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927718209",
+        "amenity": "bar",
+        "name": "AGUAFUERTE BAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3611522,
+          20.6754819
+        ]
+      },
+      "id": "node/10927718209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927718210",
+        "amenity": "bar",
+        "name": "De La O Cantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3614482,
+          20.6750972
+        ]
+      },
+      "id": "node/10927718210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927720406",
+        "amenity": "bar",
+        "name": "Gulden Draak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3635324,
+          20.6755975
+        ]
+      },
+      "id": "node/10927720406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927724406",
+        "amenity": "bar",
+        "name": "HALLERTAUER Tap House & Beer Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3647562,
+          20.6761945
+        ]
+      },
+      "id": "node/10927724406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927724408",
+        "amenity": "bar",
+        "name": "Pare de Sufrir Mezcalería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3614578,
+          20.6752197
+        ]
+      },
+      "id": "node/10927724408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927725205",
+        "amenity": "bar",
+        "name": "Patan Ale House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3646045,
+          20.676038
+        ]
+      },
+      "id": "node/10927725205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927923605",
+        "amenity": "bar",
+        "name": "La Ultima Lucha Pulqueria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3584628,
+          20.6759508
+        ]
+      },
+      "id": "node/10927923605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927923805",
+        "amenity": "bar",
+        "name": "El Corcho Wine Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3613247,
+          20.6759012
+        ]
+      },
+      "id": "node/10927923805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927925407",
+        "amenity": "bar",
+        "name": "Loba Restaurante, UMHO -cocina y cerveza en la fábrica-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3611923,
+          20.6778895
+        ]
+      },
+      "id": "node/10927925407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927925408",
+        "amenity": "bar",
+        "name": "Almacén de Botellas Americana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3623474,
+          20.6767537
+        ]
+      },
+      "id": "node/10927925408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927933405",
+        "amenity": "bar",
+        "name": "El Puesto Ambulante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3677262,
+          20.6789117
+        ]
+      },
+      "id": "node/10927933405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927945608",
+        "amenity": "bar",
+        "name": "Luperca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3889435,
+          20.6794085
+        ]
+      },
+      "id": "node/10927945608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927945609",
+        "amenity": "bar",
+        "name": "Cerveza Zorra Bistro Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3949452,
+          20.6808537
+        ]
+      },
+      "id": "node/10927945609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927951105",
+        "amenity": "bar",
+        "name": "PIMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3697966,
+          20.6738184
+        ]
+      },
+      "id": "node/10927951105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927960506",
+        "amenity": "bar",
+        "name": "Almacén de Botellas Providencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3853792,
+          20.6865654
+        ]
+      },
+      "id": "node/10927960506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927963809",
+        "amenity": "bar",
+        "name": "Shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3725589,
+          20.6974644
+        ]
+      },
+      "id": "node/10927963809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927964808",
+        "amenity": "bar",
+        "name": "Galgo Speakeasy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3878756,
+          20.6973869
+        ]
+      },
+      "id": "node/10927964808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927981105",
+        "amenity": "bar",
+        "name": "Tap Station Craft Beer & Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4240206,
+          20.6316029
+        ]
+      },
+      "id": "node/10927981105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927981407",
+        "amenity": "bar",
+        "name": "CRU Wine & Deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4047239,
+          20.6625156
+        ]
+      },
+      "id": "node/10927981407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927983705",
+        "amenity": "bar",
+        "name": "Lalli Mia Wine bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4273183,
+          20.6686676
+        ]
+      },
+      "id": "node/10927983705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927990805",
+        "amenity": "bar",
+        "name": "El Maltés"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4053641,
+          20.6618346
+        ]
+      },
+      "id": "node/10927990805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928005307",
+        "amenity": "bar",
+        "name": "La Ultima Lucha Tlaquepaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3124888,
+          20.6402276
+        ]
+      },
+      "id": "node/10928005307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928008108",
+        "amenity": "bar",
+        "name": "Pulqueria \"El amante de Mayahuel\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.353518,
+          20.6769263
+        ]
+      },
+      "id": "node/10928008108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928018805",
+        "amenity": "bar",
+        "name": "Aguamiel y Pulque La Central vieja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3441545,
+          20.6613105
+        ]
+      },
+      "id": "node/10928018805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928019105",
+        "amenity": "bar",
+        "name": "Cerveceria Barriochico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3415748,
+          20.6627431
+        ]
+      },
+      "id": "node/10928019105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928020405",
+        "amenity": "bar",
+        "name": "Santa Cantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3507045,
+          20.6652575
+        ]
+      },
+      "id": "node/10928020405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10928021205",
+        "amenity": "bar",
+        "name": "La Pulmex \" Pulqueria\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3432024,
+          20.6722068
+        ]
+      },
+      "id": "node/10928021205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10935536305",
+        "amenity": "bar",
+        "name": "Rock It Rojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.356578,
+          20.6745835
+        ]
+      },
+      "id": "node/10935536305"
+    }
+  ]
+}

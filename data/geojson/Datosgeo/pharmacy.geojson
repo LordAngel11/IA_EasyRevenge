@@ -1,0 +1,4392 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:19:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157966182",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44987",
+        "addr:street": "Avenida Jaime Torres Bodet",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3945764,
+              20.6237739
+            ],
+            [
+              -103.394444,
+              20.6237179
+            ],
+            [
+              -103.3943901,
+              20.6237604
+            ],
+            [
+              -103.394359,
+              20.6239003
+            ],
+            [
+              -103.3943588,
+              20.6239016
+            ],
+            [
+              -103.3943361,
+              20.6240203
+            ],
+            [
+              -103.3945061,
+              20.624052
+            ],
+            [
+              -103.3945764,
+              20.6237739
+            ]
+          ]
+        ]
+      },
+      "id": "way/157966182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264243609",
+        "addr:housename": "Farmacia Bienavides",
+        "addr:housenumber": "2488",
+        "addr:postcode": "44130",
+        "addr:street": "Avenida Ignacio L. Vallarta",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "healthcare": "pharmacy",
+        "name": "Benavides",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3825413,
+              20.6747661
+            ],
+            [
+              -103.382544,
+              20.674608
+            ],
+            [
+              -103.3823858,
+              20.6746056
+            ],
+            [
+              -103.382383,
+              20.6747637
+            ],
+            [
+              -103.3825413,
+              20.6747661
+            ]
+          ]
+        ]
+      },
+      "id": "way/264243609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293316437",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "3590",
+        "addr:postcode": "45070",
+        "addr:street": "Avenida de La Calma",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "operator": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4140959,
+              20.6352243
+            ],
+            [
+              -103.4139323,
+              20.6354634
+            ],
+            [
+              -103.4140749,
+              20.6355488
+            ],
+            [
+              -103.4142385,
+              20.6353097
+            ],
+            [
+              -103.4140959,
+              20.6352243
+            ]
+          ]
+        ]
+      },
+      "id": "way/293316437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303058448",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Benavides"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3605266,
+              20.7023548
+            ],
+            [
+              -103.3603188,
+              20.7022238
+            ],
+            [
+              -103.3602417,
+              20.7023308
+            ],
+            [
+              -103.3604425,
+              20.7024662
+            ],
+            [
+              -103.3605266,
+              20.7023548
+            ]
+          ]
+        ]
+      },
+      "id": "way/303058448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/343789809",
+        "addr:city": "Zalatitan",
+        "addr:postcode": "45409",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacias guadalajara suc Zalatitan",
+        "operator": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2644166,
+              20.6579968
+            ],
+            [
+              -103.2644046,
+              20.6581414
+            ],
+            [
+              -103.2644068,
+              20.6581545
+            ],
+            [
+              -103.2645612,
+              20.6581609
+            ],
+            [
+              -103.2646578,
+              20.6581007
+            ],
+            [
+              -103.2646753,
+              20.6580214
+            ],
+            [
+              -103.2644166,
+              20.6579968
+            ]
+          ]
+        ]
+      },
+      "id": "way/343789809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352400987",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3695493,
+              20.7181245
+            ],
+            [
+              -103.3694588,
+              20.7181072
+            ],
+            [
+              -103.3694206,
+              20.7182825
+            ],
+            [
+              -103.3695111,
+              20.7182997
+            ],
+            [
+              -103.3695493,
+              20.7181245
+            ]
+          ]
+        ]
+      },
+      "id": "way/352400987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340642",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4011324,
+              20.6638823
+            ],
+            [
+              -103.4010788,
+              20.6637769
+            ],
+            [
+              -103.4008884,
+              20.6638497
+            ],
+            [
+              -103.400942,
+              20.6639551
+            ],
+            [
+              -103.4011324,
+              20.6638823
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362340793",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Benavides"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4019398,
+              20.6665927
+            ],
+            [
+              -103.4018915,
+              20.6664923
+            ],
+            [
+              -103.4014945,
+              20.6664898
+            ],
+            [
+              -103.4016233,
+              20.6667232
+            ],
+            [
+              -103.4019398,
+              20.6665927
+            ]
+          ]
+        ]
+      },
+      "id": "way/362340793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374140743",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3778035,
+              20.528602
+            ],
+            [
+              -103.3775906,
+              20.5285934
+            ],
+            [
+              -103.377575,
+              20.5288962
+            ],
+            [
+              -103.3777228,
+              20.5288997
+            ],
+            [
+              -103.3777844,
+              20.5288548
+            ],
+            [
+              -103.3778035,
+              20.528602
+            ]
+          ]
+        ]
+      },
+      "id": "way/374140743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401135585",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3354893,
+              20.6509702
+            ],
+            [
+              -103.3352763,
+              20.6510734
+            ],
+            [
+              -103.3353228,
+              20.6511423
+            ],
+            [
+              -103.3355455,
+              20.6512311
+            ],
+            [
+              -103.3355958,
+              20.6511242
+            ],
+            [
+              -103.3354893,
+              20.6509702
+            ]
+          ]
+        ]
+      },
+      "id": "way/401135585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415379672",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3607037,
+              20.5420157
+            ],
+            [
+              -103.3604879,
+              20.5418393
+            ],
+            [
+              -103.3604005,
+              20.5419416
+            ],
+            [
+              -103.3604224,
+              20.5419978
+            ],
+            [
+              -103.3606081,
+              20.5421257
+            ],
+            [
+              -103.3607037,
+              20.5420157
+            ]
+          ]
+        ]
+      },
+      "id": "way/415379672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/473870809",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.346428,
+              20.5702718
+            ],
+            [
+              -103.3461747,
+              20.570294
+            ],
+            [
+              -103.3461891,
+              20.5704039
+            ],
+            [
+              -103.346241,
+              20.5704484
+            ],
+            [
+              -103.3464361,
+              20.5704294
+            ],
+            [
+              -103.346428,
+              20.5702718
+            ]
+          ]
+        ]
+      },
+      "id": "way/473870809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563704963",
+        "addr:street": "Zapata y Constitución",
+        "amenity": "pharmacy",
+        "branch": "San Sebastián El Grande",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.423835,
+              20.5303307
+            ],
+            [
+              -103.4237507,
+              20.5301744
+            ],
+            [
+              -103.4237144,
+              20.5301653
+            ],
+            [
+              -103.4236782,
+              20.5301561
+            ],
+            [
+              -103.4235353,
+              20.530217
+            ],
+            [
+              -103.4236661,
+              20.5304207
+            ],
+            [
+              -103.423835,
+              20.5303307
+            ]
+          ]
+        ]
+      },
+      "id": "way/563704963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589685505",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Guadalajara",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3202625,
+              20.655096
+            ],
+            [
+              -103.3201293,
+              20.6551566
+            ],
+            [
+              -103.3202625,
+              20.655356
+            ],
+            [
+              -103.3203171,
+              20.6553893
+            ],
+            [
+              -103.3204389,
+              20.6553382
+            ],
+            [
+              -103.3202625,
+              20.655096
+            ]
+          ]
+        ]
+      },
+      "id": "way/589685505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604059074",
+        "addr:city": "Guadalajara",
+        "addr:full": "Esquina con Lázaro Cárdenas, Calle Primo Feliciano Velázquez 3608, Jardines de Los Arcos, 45040 Guadalajara, Jal.",
+        "addr:postcode": "45040",
+        "addr:street": "Calzada Lázaro Cárdenas",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Benavides",
+        "opening_hours": "Mo-Su 08:00-24:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4017116,
+              20.6697563
+            ],
+            [
+              -103.4017681,
+              20.6696655
+            ],
+            [
+              -103.4017861,
+              20.6696366
+            ],
+            [
+              -103.4016709,
+              20.669569
+            ],
+            [
+              -103.4016491,
+              20.6695655
+            ],
+            [
+              -103.4016303,
+              20.6695725
+            ],
+            [
+              -103.4015716,
+              20.6696781
+            ],
+            [
+              -103.4017116,
+              20.6697563
+            ]
+          ]
+        ]
+      },
+      "id": "way/604059074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636703687",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4615425,
+              20.6271736
+            ],
+            [
+              -103.4614794,
+              20.6270341
+            ],
+            [
+              -103.4614168,
+              20.6268851
+            ],
+            [
+              -103.4610194,
+              20.6270305
+            ],
+            [
+              -103.4611589,
+              20.6273468
+            ],
+            [
+              -103.4615425,
+              20.6271736
+            ]
+          ]
+        ]
+      },
+      "id": "way/636703687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771754141",
+        "addr:city": "Tlaquepaque",
+        "addr:postcode": "45608",
+        "addr:street": "Avenida Jaime Torres Bodet",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3951009,
+              20.6232908
+            ],
+            [
+              -103.3950747,
+              20.6233543
+            ],
+            [
+              -103.395064,
+              20.623435
+            ],
+            [
+              -103.3951472,
+              20.6234927
+            ],
+            [
+              -103.3952313,
+              20.6233601
+            ],
+            [
+              -103.3951009,
+              20.6232908
+            ]
+          ]
+        ]
+      },
+      "id": "way/771754141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790821070",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "45120",
+        "addr:street": "Av. México 3700, Monraz, 45120 Zapopan, Jal.",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "Abierto las 24 horas",
+        "website": "https://www.fahorro.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4045762,
+              20.6782852
+            ],
+            [
+              -103.404683,
+              20.6782897
+            ],
+            [
+              -103.4046824,
+              20.6782676
+            ],
+            [
+              -103.4046759,
+              20.678041
+            ],
+            [
+              -103.4045596,
+              20.6780365
+            ],
+            [
+              -103.4045762,
+              20.6782852
+            ]
+          ]
+        ]
+      },
+      "id": "way/790821070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/817976576",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "check_date": "2023-06-09",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.284036,
+              20.6370666
+            ],
+            [
+              -103.2841003,
+              20.6368758
+            ],
+            [
+              -103.2839796,
+              20.6368382
+            ],
+            [
+              -103.2839099,
+              20.6370214
+            ],
+            [
+              -103.284036,
+              20.6370666
+            ]
+          ]
+        ]
+      },
+      "id": "way/817976576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/819187915",
+        "addr:city": "Guadalajara",
+        "addr:housename": "Farmacia La Más Barata",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia La Más Barata"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3784456,
+              20.6873002
+            ],
+            [
+              -103.3784534,
+              20.6872179
+            ],
+            [
+              -103.3784751,
+              20.6871422
+            ],
+            [
+              -103.3785124,
+              20.6870649
+            ],
+            [
+              -103.3785449,
+              20.6870142
+            ],
+            [
+              -103.3783783,
+              20.6870172
+            ],
+            [
+              -103.3783354,
+              20.6872957
+            ],
+            [
+              -103.3784456,
+              20.6873002
+            ]
+          ]
+        ]
+      },
+      "id": "way/819187915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823983126",
+        "addr:street": "Calzada Independencia Norte",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3133322,
+              20.7324742
+            ],
+            [
+              -103.3133644,
+              20.7323613
+            ],
+            [
+              -103.3133335,
+              20.7323036
+            ],
+            [
+              -103.3131858,
+              20.7322707
+            ],
+            [
+              -103.3131831,
+              20.7322814
+            ],
+            [
+              -103.3131148,
+              20.7322605
+            ],
+            [
+              -103.3131,
+              20.7322561
+            ],
+            [
+              -103.3130613,
+              20.7324115
+            ],
+            [
+              -103.3133322,
+              20.7324742
+            ]
+          ]
+        ]
+      },
+      "id": "way/823983126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/860141979",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2083",
+        "addr:postcode": "44950",
+        "addr:street": "Calle Francisco Vázquez Coronado",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Benavides"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3806604,
+              20.6436816
+            ],
+            [
+              -103.3808063,
+              20.6434782
+            ],
+            [
+              -103.3806733,
+              20.6433853
+            ],
+            [
+              -103.3805235,
+              20.6435813
+            ],
+            [
+              -103.3806604,
+              20.6436816
+            ]
+          ]
+        ]
+      },
+      "id": "way/860141979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/898583695",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.430761,
+              20.6079184
+            ],
+            [
+              -103.4307751,
+              20.607872
+            ],
+            [
+              -103.4306672,
+              20.6078389
+            ],
+            [
+              -103.4306158,
+              20.6079995
+            ],
+            [
+              -103.4308919,
+              20.6081138
+            ],
+            [
+              -103.4309397,
+              20.6080923
+            ],
+            [
+              -103.4309963,
+              20.6080028
+            ],
+            [
+              -103.430761,
+              20.6079184
+            ]
+          ]
+        ]
+      },
+      "id": "way/898583695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/902092279",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4661358,
+              20.543743
+            ],
+            [
+              -103.4662813,
+              20.5436749
+            ],
+            [
+              -103.4663229,
+              20.5434673
+            ],
+            [
+              -103.4662362,
+              20.5434413
+            ],
+            [
+              -103.4660249,
+              20.5435711
+            ],
+            [
+              -103.4661358,
+              20.543743
+            ]
+          ]
+        ]
+      },
+      "id": "way/902092279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/959570102",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3950808,
+              20.6280836
+            ],
+            [
+              -103.3950483,
+              20.6281978
+            ],
+            [
+              -103.3950432,
+              20.6283129
+            ],
+            [
+              -103.3952851,
+              20.6282967
+            ],
+            [
+              -103.3952749,
+              20.6280722
+            ],
+            [
+              -103.3950808,
+              20.6280836
+            ]
+          ]
+        ]
+      },
+      "id": "way/959570102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1096876423",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4517414,
+              20.7294348
+            ],
+            [
+              -103.4518042,
+              20.7292468
+            ],
+            [
+              -103.4517686,
+              20.7292438
+            ],
+            [
+              -103.4516786,
+              20.7292363
+            ],
+            [
+              -103.451629,
+              20.7294181
+            ],
+            [
+              -103.4516665,
+              20.7294237
+            ],
+            [
+              -103.4517414,
+              20.7294348
+            ]
+          ]
+        ]
+      },
+      "id": "way/1096876423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1163458455",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3919594,
+              20.747395
+            ],
+            [
+              -103.3920977,
+              20.7474015
+            ],
+            [
+              -103.3921018,
+              20.7473252
+            ],
+            [
+              -103.3922486,
+              20.7473321
+            ],
+            [
+              -103.3922565,
+              20.7471854
+            ],
+            [
+              -103.3921518,
+              20.7472085
+            ],
+            [
+              -103.3921534,
+              20.747197
+            ],
+            [
+              -103.3920041,
+              20.7472255
+            ],
+            [
+              -103.3919654,
+              20.7472841
+            ],
+            [
+              -103.3919594,
+              20.747395
+            ]
+          ]
+        ]
+      },
+      "id": "way/1163458455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1481541525",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.302597,
+          20.6898696
+        ]
+      },
+      "id": "node/1481541525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482039303",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29499,
+          20.6854332
+        ]
+      },
+      "id": "node/1482039303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504619249",
+        "addr:street": "Enrique Díaz de León",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.359425,
+          20.6801221
+        ]
+      },
+      "id": "node/1504619249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504642892",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.388153,
+          20.6972942
+        ]
+      },
+      "id": "node/1504642892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504642908",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385991,
+          20.6976708
+        ]
+      },
+      "id": "node/1504642908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685278385",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4551036,
+          20.6294014
+        ]
+      },
+      "id": "node/1685278385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685298801",
+        "amenity": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4660253,
+          20.6267767
+        ]
+      },
+      "id": "node/1685298801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685299157",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426139,
+          20.6350877
+        ]
+      },
+      "id": "node/1685299157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685303327",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.419923,
+          20.6258406
+        ]
+      },
+      "id": "node/1685303327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686157799",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.417213,
+          20.6352715
+        ]
+      },
+      "id": "node/1686157799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686467439",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41856,
+          20.638323
+        ]
+      },
+      "id": "node/1686467439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696451711",
+        "amenity": "pharmacy",
+        "name": "Farmacia del Angel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2849489,
+          20.660711
+        ]
+      },
+      "id": "node/1696451711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700529344",
+        "amenity": "pharmacy",
+        "name": "Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2658086,
+          20.6318201
+        ]
+      },
+      "id": "node/1700529344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1700533017",
+        "amenity": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2655593,
+          20.6309869
+        ]
+      },
+      "id": "node/1700533017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705334174",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.417235,
+          20.6298443
+        ]
+      },
+      "id": "node/1705334174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705342592",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.429957,
+          20.6318349
+        ]
+      },
+      "id": "node/1705342592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707894400",
+        "addr:street": "Santa Rosalia",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Guadalajara Santa Rosalia II",
+        "opening_hours": "24/7",
+        "website": "https://www.farmaciasguadalajara.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2758487,
+          20.6351406
+        ]
+      },
+      "id": "node/1707894400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712140963",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.375685,
+          20.6296748
+        ]
+      },
+      "id": "node/1712140963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712141206",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.379826,
+          20.6315725
+        ]
+      },
+      "id": "node/1712141206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242754",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2879969,
+          20.6723968
+        ]
+      },
+      "id": "node/1715242754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242756",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.286283,
+          20.6722764
+        ]
+      },
+      "id": "node/1715242756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242859",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2865164,
+          20.673762
+        ]
+      },
+      "id": "node/1715242859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242906",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.288005,
+          20.6721358
+        ]
+      },
+      "id": "node/1715242906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715303139",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2949653,
+          20.6740581
+        ]
+      },
+      "id": "node/1715303139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715303173",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2902768,
+          20.6737369
+        ]
+      },
+      "id": "node/1715303173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342382",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2924253,
+          20.6722889
+        ]
+      },
+      "id": "node/1715342382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342396",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2920766,
+          20.6725097
+        ]
+      },
+      "id": "node/1715342396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342432",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2922616,
+          20.6722738
+        ]
+      },
+      "id": "node/1715342432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715450938",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2789606,
+          20.6742137
+        ]
+      },
+      "id": "node/1715450938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715564750",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2832789,
+          20.6737821
+        ]
+      },
+      "id": "node/1715564750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717012460",
+        "amenity": "pharmacy",
+        "name": "FARMACIAS ABC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4203134,
+          20.687173
+        ]
+      },
+      "id": "node/1717012460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717074990",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4151979,
+          20.7012343
+        ]
+      },
+      "id": "node/1717074990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729990795",
+        "amenity": "pharmacy",
+        "name": "farmacia ABC "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2927629,
+          20.7036301
+        ]
+      },
+      "id": "node/1729990795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729990808",
+        "amenity": "pharmacy",
+        "name": "farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29239,
+          20.7037428
+        ]
+      },
+      "id": "node/1729990808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756292249",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.424667,
+          20.678128
+        ]
+      },
+      "id": "node/1756292249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759831368",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3704,
+          20.6279691
+        ]
+      },
+      "id": "node/1759831368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762276864",
+        "addr:housename": "Farmacia Benavides",
+        "addr:housenumber": "2081",
+        "addr:postcode": "45238",
+        "addr:street": "Circuito de las Flores Oriente",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Benavides",
+        "website": "www.benavides.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.441317,
+          20.6024772
+        ]
+      },
+      "id": "node/1762276864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956429257",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445376,
+          20.682485
+        ]
+      },
+      "id": "node/1956429257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2272216647",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3858546,
+          20.742108
+        ]
+      },
+      "id": "node/2272216647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296578978",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "operator": "Farmacia Guadalajara",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348246,
+          20.6772194
+        ]
+      },
+      "id": "node/2296578978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2458804461",
+        "addr:street": "Francisco de orellana",
+        "amenity": "pharmacy",
+        "name": "Farmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3724065,
+          20.6352278
+        ]
+      },
+      "id": "node/2458804461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2606498822",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41631,
+          20.747218
+        ]
+      },
+      "id": "node/2606498822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806776157",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.415147,
+          20.6240244
+        ]
+      },
+      "id": "node/2806776157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810104782",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4122302,
+          20.7065821
+        ]
+      },
+      "id": "node/2810104782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2827239408",
+        "addr:housenumber": "5414",
+        "addr:street": "Avenida Sierra de Mazamitla",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.413953,
+          20.6258885
+        ]
+      },
+      "id": "node/2827239408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874699013",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.384985,
+          20.699448
+        ]
+      },
+      "id": "node/2874699013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885574409",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia ABC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.382621,
+          20.6990124
+        ]
+      },
+      "id": "node/2885574409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688883",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3198007,
+          20.7167745
+        ]
+      },
+      "id": "node/3163688883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170759950",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3484485,
+          20.7054413
+        ]
+      },
+      "id": "node/3170759950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3506150627",
+        "addr:postcode": "45405",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara suc Zalatitan",
+        "operator": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2645351,
+          20.6580882
+        ]
+      },
+      "id": "node/3506150627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611724090",
+        "addr:housenumber": "4",
+        "addr:postcode": "45405",
+        "addr:street": "Privada Alatorre",
+        "amenity": "pharmacy",
+        "name": "Farmacias Familiares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2643018,
+          20.6581911
+        ]
+      },
+      "id": "node/3611724090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627307334",
+        "amenity": "pharmacy",
+        "name": "Farmacia del Ahorro",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.442566,
+          20.6850125
+        ]
+      },
+      "id": "node/3627307334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665087812",
+        "amenity": "pharmacy",
+        "name": "Farmapronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2619147,
+          20.6571328
+        ]
+      },
+      "id": "node/3665087812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898482357",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4400319,
+          20.6937667
+        ]
+      },
+      "id": "node/3898482357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035936297",
+        "amenity": "pharmacy",
+        "name": "Farmacias Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3748271,
+          20.5296462
+        ]
+      },
+      "id": "node/4035936297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128365389",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.409271,
+          20.6032738
+        ]
+      },
+      "id": "node/4128365389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168018590",
+        "amenity": "pharmacy",
+        "name": "Farmacias G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.361581,
+          20.5751116
+        ]
+      },
+      "id": "node/4168018590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175125189",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "24/7",
+        "phone": "96280001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.403492,
+          20.6010829
+        ]
+      },
+      "id": "node/4175125189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175141889",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4093697,
+          20.6032881
+        ]
+      },
+      "id": "node/4175141889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340336634",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Famarcia Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21514,
+          20.6666073
+        ]
+      },
+      "id": "node/4340336634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341216665",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.378807,
+          20.6867558
+        ]
+      },
+      "id": "node/4341216665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343150795",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.373157,
+          20.687337
+        ]
+      },
+      "id": "node/4343150795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343150807",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "MAYPO Farmacias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.373653,
+          20.6873746
+        ]
+      },
+      "id": "node/4343150807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343389853",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacias DG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.221148,
+          20.6694433
+        ]
+      },
+      "id": "node/4343389853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348672493",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4078173,
+          20.6295276
+        ]
+      },
+      "id": "node/4348672493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348681193",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.408072,
+          20.6291159
+        ]
+      },
+      "id": "node/4348681193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348681689",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia del Guero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41128,
+          20.6267177
+        ]
+      },
+      "id": "node/4348681689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349365016",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Guadalajara 24 Horas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2313858,
+          20.6612954
+        ]
+      },
+      "id": "node/4349365016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446599689",
+        "addr:street": "Guadalajara - Jiquilpan",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "name:es": "Farmacia del Ahorro",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4562173,
+          20.5708049
+        ]
+      },
+      "id": "node/4446599689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497027691",
+        "addr:street": "Avenida de La Calma",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "name:es": "Farmacias del ahorro",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.416016,
+          20.6359128
+        ]
+      },
+      "id": "node/4497027691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4610688988",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.454549,
+          20.7184526
+        ]
+      },
+      "id": "node/4610688988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4611241045",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4571828,
+          20.7260301
+        ]
+      },
+      "id": "node/4611241045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612547690",
+        "amenity": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4753537,
+          20.5338291
+        ]
+      },
+      "id": "node/4612547690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692409",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.43489,
+          20.7298037
+        ]
+      },
+      "id": "node/4612692409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692425",
+        "amenity": "pharmacy",
+        "brand": "Benavides",
+        "brand:wikidata": "Q5435613",
+        "healthcare": "pharmacy",
+        "name": "Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.439394,
+          20.7300947
+        ]
+      },
+      "id": "node/4612692425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692445",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.443192,
+          20.7306541
+        ]
+      },
+      "id": "node/4612692445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4615656727",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.461404,
+          20.6115894
+        ]
+      },
+      "id": "node/4615656727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619406484",
+        "amenity": "pharmacy",
+        "name": "Laboratorio Médico del Chopo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4446787,
+          20.5900492
+        ]
+      },
+      "id": "node/4619406484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624514131",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4536883,
+          20.5733732
+        ]
+      },
+      "id": "node/4624514131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625738218",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4422044,
+          20.575728
+        ]
+      },
+      "id": "node/4625738218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625788873",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4407318,
+          20.5696209
+        ]
+      },
+      "id": "node/4625788873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831111",
+        "amenity": "pharmacy",
+        "name": "Farmacias Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4604648,
+          20.5645891
+        ]
+      },
+      "id": "node/4629831111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682215694",
+        "addr:housenumber": "1059",
+        "addr:postcode": "44220",
+        "addr:street": "Calle Irene Robledo García",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Santa Elena",
+        "name:es": "Farmacia Santa Elena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347452,
+          20.7141685
+        ]
+      },
+      "id": "node/4682215694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684513574",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.364508,
+          20.572991
+        ]
+      },
+      "id": "node/4684513574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688778691",
+        "addr:housenumber": "1199",
+        "addr:postcode": "44298",
+        "addr:street": "Fidel Velázquez Sánchez",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "name:es": "Farmacias Guadalajara",
+        "phone": "38181818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.349949,
+          20.7125736
+        ]
+      },
+      "id": "node/4688778691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698424991",
+        "addr:housenumber": "3090",
+        "addr:postcode": "45040",
+        "addr:street": "Calle 12 de Diciembre",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "name:es": "Farmacia Guadalajara",
+        "opening_hours": "24/7",
+        "phone": "(33) 38181818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.397879,
+          20.6581279
+        ]
+      },
+      "id": "node/4698424991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714425555",
+        "amenity": "pharmacy",
+        "name": "Farmacias Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4008303,
+          20.7515492
+        ]
+      },
+      "id": "node/4714425555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4735317557",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.322538,
+          20.6953674
+        ]
+      },
+      "id": "node/4735317557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739892026",
+        "addr:street": "Avenida de las Américas",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "name:es": "Farmacias Guadalajara",
+        "operator": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.373726,
+          20.683498
+        ]
+      },
+      "id": "node/4739892026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753551277",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2735628,
+          20.6365414
+        ]
+      },
+      "id": "node/4753551277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4951801122",
+        "addr:housenumber": "1005",
+        "addr:street": "Prol Av Lopez Mateos Sur",
+        "amenity": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.432487,
+          20.6069394
+        ]
+      },
+      "id": "node/4951801122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017187822",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3459782,
+          20.7122969
+        ]
+      },
+      "id": "node/5017187822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063082645",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.349548,
+          20.6786324
+        ]
+      },
+      "id": "node/5063082645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135891977",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4099627,
+          20.6726372
+        ]
+      },
+      "id": "node/5135891977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135896421",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4235452,
+          20.6621421
+        ]
+      },
+      "id": "node/5135896421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5163797144",
+        "amenity": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3726669,
+          20.6208027
+        ]
+      },
+      "id": "node/5163797144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322573382",
+        "addr:city": "Guadalajara",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Maritza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.299727,
+          20.6866178
+        ]
+      },
+      "id": "node/5322573382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5343315659",
+        "addr:street": "Federalistas",
+        "amenity": "pharmacy",
+        "name": "Farmacias Benavides",
+        "name:en": "Benavides Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4307866,
+          20.7417434
+        ]
+      },
+      "id": "node/5343315659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425713367",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35233,
+          20.6748613
+        ]
+      },
+      "id": "node/5425713367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5443296009",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2012",
+        "addr:postcode": "44190",
+        "addr:street": "Circunvalación Agustín Yáñez",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://fahorro.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.368714,
+          20.6642983
+        ]
+      },
+      "id": "node/5443296009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5534985429",
+        "addr:housenumber": "273",
+        "addr:postcode": "45500",
+        "addr:street": "Progreso",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Super Farmacia Progreso",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "website": "https://super-farmacia-progreso.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3114606,
+          20.6344483
+        ]
+      },
+      "id": "node/5534985429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584872940",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.282924,
+          20.6366939
+        ]
+      },
+      "id": "node/5584872940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5788038849",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2241869,
+          20.6702219
+        ]
+      },
+      "id": "node/5788038849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5859617315",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1332",
+        "addr:postcode": "45053",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7",
+        "operator": "Farmacias Guadalajara S.A. de C.V.",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+52 33 3628 3367",
+        "website": "https://www.farmaciasguadalajara.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4407891,
+          20.6519744
+        ]
+      },
+      "id": "node/5859617315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5925629856",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6266",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "Mo-Su, PH 07:00-24:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.fahorro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.441362,
+          20.6592472
+        ]
+      },
+      "id": "node/5925629856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5925630785",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6451-2",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares",
+        "opening_hours": "Mo-Su, PH 08:00-21:00",
+        "website": "https://farmaciasdesimilares.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4429692,
+          20.6587365
+        ]
+      },
+      "id": "node/5925630785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004022587",
+        "addr:housenumber": "3456",
+        "addr:postcode": "44720",
+        "addr:street": "Ma. Gpe. Martínez de Hernández Loza",
+        "amenity": "pharmacy",
+        "name": "Farmacias Familiares",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-15:00",
+        "phone": "018007082272",
+        "website": "https://farmaciasfamiliares.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2799527,
+          20.6938624
+        ]
+      },
+      "id": "node/6004022587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004041085",
+        "addr:housenumber": "3074",
+        "addr:postcode": "44720",
+        "addr:street": "Ma. Gpe. Martínez de Hernández Loza",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara",
+        "opening_hours": "24/7",
+        "phone": "(01)3336048800",
+        "website": "https://www.farmaciasguadalajara.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2800238,
+          20.6940515
+        ]
+      },
+      "id": "node/6004041085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090482710",
+        "amenity": "pharmacy",
+        "name": "Farmacia La+Barata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3108134,
+          20.6916287
+        ]
+      },
+      "id": "node/6090482710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6511678207",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia La+Barata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.326088,
+          20.69504
+        ]
+      },
+      "id": "node/6511678207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6511679642",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.326135,
+          20.6954947
+        ]
+      },
+      "id": "node/6511679642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564101886",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3186473,
+          20.6314027
+        ]
+      },
+      "id": "node/6564101886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565203587",
+        "amenity": "pharmacy",
+        "name": "Yza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3882991,
+          20.7572025
+        ]
+      },
+      "id": "node/6565203587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6653489285",
+        "amenity": "pharmacy",
+        "name": "Farmacias Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.369091,
+          20.6290317
+        ]
+      },
+      "id": "node/6653489285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6751352642",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44350",
+        "addr:street": "Calzada Juan Pablo II",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3116203,
+          20.6912765
+        ]
+      },
+      "id": "node/6751352642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053687827",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385183,
+          20.5849097
+        ]
+      },
+      "id": "node/7053687827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7610643424",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3330865,
+          20.6655745
+        ]
+      },
+      "id": "node/7610643424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7639011800",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Dr. Simi",
+        "brand:wikidata": "Q62564610",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Dr. Simi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2841395,
+          20.6366784
+        ]
+      },
+      "id": "node/7639011800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7639062784",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "check_date": "2023-06-09",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2839957,
+          20.6369461
+        ]
+      },
+      "id": "node/7639062784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7677868099",
+        "addr:street": "Calle Volcán Zacapu",
+        "amenity": "pharmacy",
+        "name": "Farmacias Genericos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3167882,
+          20.7392684
+        ]
+      },
+      "id": "node/7677868099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678202878",
+        "addr:housenumber": "310",
+        "addr:street": "Calle Volcán Zacapu",
+        "amenity": "pharmacy",
+        "name": "Farmacias Gi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3166166,
+          20.73939
+        ]
+      },
+      "id": "node/7678202878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7688229191",
+        "addr:housenumber": "109",
+        "addr:street": "Calle Volcán San Francisco",
+        "amenity": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3152473,
+          20.7317517
+        ]
+      },
+      "id": "node/7688229191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692028503",
+        "addr:street": "Calle María del Carmen Frías",
+        "amenity": "pharmacy",
+        "name": "Farmacia del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3233368,
+          20.7252294
+        ]
+      },
+      "id": "node/7692028503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692363220",
+        "addr:street": "Calle Guillermo Chávez",
+        "amenity": "pharmacy",
+        "name": "Farmacia el Paraiso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3294402,
+          20.7239964
+        ]
+      },
+      "id": "node/7692363220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692987967",
+        "addr:street": "Calzada Independencia Norte",
+        "amenity": "pharmacy",
+        "name": "Farmacia Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3147953,
+          20.7276126
+        ]
+      },
+      "id": "node/7692987967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7949562786",
+        "amenity": "pharmacy",
+        "name": "Doctor Simi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2828601,
+          20.5624063
+        ]
+      },
+      "id": "node/7949562786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7960617586",
+        "addr:housename": "Super Farmacia",
+        "amenity": "pharmacy",
+        "name": "Super Farmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.50367,
+          20.7247214
+        ]
+      },
+      "id": "node/7960617586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8086596148",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4664782,
+          20.5541151
+        ]
+      },
+      "id": "node/8086596148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8230069818",
+        "amenity": "pharmacy",
+        "name": "Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2828824,
+          20.5623294
+        ]
+      },
+      "id": "node/8230069818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8230070018",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2831419,
+          20.5680549
+        ]
+      },
+      "id": "node/8230070018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8230070117",
+        "amenity": "pharmacy",
+        "name": "Diana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2865406,
+          20.5693228
+        ]
+      },
+      "id": "node/8230070117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8286401054",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Mederic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4490599,
+          20.7074126
+        ]
+      },
+      "id": "node/8286401054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350166129",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "2299",
+        "addr:postcode": "45120",
+        "addr:street": "Boulevard Bugambilias",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4482836,
+          20.6013079
+        ]
+      },
+      "id": "node/8350166129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350867473",
+        "addr:street": "Av. Jesús Michel González",
+        "amenity": "pharmacy",
+        "name": "Farmacia genérica Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3860111,
+          20.5807003
+        ]
+      },
+      "id": "node/8350867473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8350910201",
+        "addr:street": "Av. Jesús Michel González",
+        "amenity": "pharmacy",
+        "name": "Farmacia genérica Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3860137,
+          20.5806948
+        ]
+      },
+      "id": "node/8350910201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358741568",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Agua Blanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4325781,
+          20.6038215
+        ]
+      },
+      "id": "node/8358741568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506618",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4015816,
+          20.6498395
+        ]
+      },
+      "id": "node/8365506618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506619",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4016563,
+          20.6509101
+        ]
+      },
+      "id": "node/8365506619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506629",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.419502,
+          20.6282602
+        ]
+      },
+      "id": "node/8365506629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365513216",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4437272,
+          20.5916502
+        ]
+      },
+      "id": "node/8365513216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815645",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3786992,
+          20.7120304
+        ]
+      },
+      "id": "node/8365815645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815713",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4042843,
+          20.6734114
+        ]
+      },
+      "id": "node/8365815713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843158",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Benavides",
+        "brand:wikidata": "Q5435613",
+        "brand:wikipedia": "en:Farmacias Benavides",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3859685,
+          20.6485234
+        ]
+      },
+      "id": "node/8376843158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843159",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3859685,
+          20.649747
+        ]
+      },
+      "id": "node/8376843159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843168",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3861367,
+          20.6466967
+        ]
+      },
+      "id": "node/8376843168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8379259680",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4540404,
+          20.5700013
+        ]
+      },
+      "id": "node/8379259680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416544434",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4293414,
+          20.6117222
+        ]
+      },
+      "id": "node/8416544434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295288",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "MEDIMARCAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4017475,
+          20.7383345
+        ]
+      },
+      "id": "node/8459295288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295301",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "SANAPIEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4016643,
+          20.7387785
+        ]
+      },
+      "id": "node/8459295301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523157532",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3551641,
+          20.6200393
+        ]
+      },
+      "id": "node/8523157532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8523160221",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.412623,
+          20.5934694
+        ]
+      },
+      "id": "node/8523160221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695505708",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "brand:wikipedia": "en:Farmacias Guadalajara",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3992671,
+          20.6793286
+        ]
+      },
+      "id": "node/8695505708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9123271627",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4316928,
+          20.6029298
+        ]
+      },
+      "id": "node/9123271627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9123271628",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4322135,
+          20.6029154
+        ]
+      },
+      "id": "node/9123271628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559251609",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.377011,
+          20.6302431
+        ]
+      },
+      "id": "node/9559251609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9652996318",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.352082,
+          20.6889549
+        ]
+      },
+      "id": "node/9652996318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800513717",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35952,
+          20.6769879
+        ]
+      },
+      "id": "node/9800513717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10556291611",
+        "addr:housenumber": "950",
+        "addr:postcode": "45160",
+        "addr:street": "Avenida Manuel Ávila Camacho",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara - Av. Ávila Camacho",
+        "opening_hours": "24/7",
+        "phone": "+523338337759",
+        "website": "http://farmaciasguadalajara.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3841264,
+          20.7176365
+        ]
+      },
+      "id": "node/10556291611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595764505",
+        "addr:housenumber": "1752",
+        "addr:postcode": "45060",
+        "addr:street": "Calle Puerto Tampico",
+        "amenity": "pharmacy",
+        "name": "Farmacia Guadalajara",
+        "opening_hours": "24/7",
+        "phone": "+523310281109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4574363,
+          20.6416685
+        ]
+      },
+      "id": "node/10595764505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10605120615",
+        "amenity": "pharmacy",
+        "brand": "Farmacias Similares",
+        "brand:wikidata": "Q62564610",
+        "healthcare": "pharmacy",
+        "name": "Farmacias Similares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4323738,
+          20.6034572
+        ]
+      },
+      "id": "node/10605120615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10717983376",
+        "amenity": "pharmacy",
+        "brand": "Farmacias del Ahorro",
+        "brand:wikidata": "Q62086647",
+        "healthcare": "pharmacy",
+        "name": "Farmacias del Ahorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4162153,
+          20.7220812
+        ]
+      },
+      "id": "node/10717983376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10903210605",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia San Pablo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.422876,
+          20.6218859
+        ]
+      },
+      "id": "node/10903210605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10920285492",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4518816,
+          20.730831
+        ]
+      },
+      "id": "node/10920285492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10946831114",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3378113,
+          20.6112267
+        ]
+      },
+      "id": "node/10946831114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948869448",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3299272,
+          20.6270574
+        ]
+      },
+      "id": "node/10948869448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948911413",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.308269,
+          20.623733
+        ]
+      },
+      "id": "node/10948911413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10949382402",
+        "amenity": "pharmacy",
+        "brand": "Farmacia Guadalajara",
+        "brand:wikidata": "Q5435609",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2729632,
+          20.6463101
+        ]
+      },
+      "id": "node/10949382402"
+    }
+  ]
+}

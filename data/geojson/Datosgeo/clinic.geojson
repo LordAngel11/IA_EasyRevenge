@@ -1,0 +1,1287 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:33:49Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331470851",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Clinica 1 ISSSTE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3302219,
+              20.6880797
+            ],
+            [
+              -103.3301039,
+              20.6879518
+            ],
+            [
+              -103.3295918,
+              20.6876754
+            ],
+            [
+              -103.3294626,
+              20.687929
+            ],
+            [
+              -103.3297013,
+              20.688057
+            ],
+            [
+              -103.3298962,
+              20.6881464
+            ],
+            [
+              -103.3300995,
+              20.688272
+            ],
+            [
+              -103.3302092,
+              20.6881279
+            ],
+            [
+              -103.3302219,
+              20.6880797
+            ]
+          ]
+        ]
+      },
+      "id": "way/331470851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389474082",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "997",
+        "addr:street": "Mariano de la Bárcena",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ćruz Verde Delgadillo Araujo",
+        "phone": "33-12018648"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3522036,
+              20.6915776
+            ],
+            [
+              -103.3522415,
+              20.6908157
+            ],
+            [
+              -103.3519754,
+              20.6908042
+            ],
+            [
+              -103.3519377,
+              20.6915661
+            ],
+            [
+              -103.3522036,
+              20.6915776
+            ]
+          ]
+        ]
+      },
+      "id": "way/389474082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402259258",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44240",
+        "addr:street": "Calle Juan B. Berdeja",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Salud Rancho Nuevo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3266969,
+              20.7184886
+            ],
+            [
+              -103.326695,
+              20.7182894
+            ],
+            [
+              -103.3262589,
+              20.7182805
+            ],
+            [
+              -103.3262661,
+              20.718474
+            ],
+            [
+              -103.3266079,
+              20.7184856
+            ],
+            [
+              -103.3266969,
+              20.7184886
+            ]
+          ]
+        ]
+      },
+      "id": "way/402259258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477556866",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Salud San Pedrito"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2877888,
+              20.6167317
+            ],
+            [
+              -103.2880681,
+              20.6164442
+            ],
+            [
+              -103.2878133,
+              20.6162308
+            ],
+            [
+              -103.287529,
+              20.6164868
+            ],
+            [
+              -103.2877888,
+              20.6167317
+            ]
+          ]
+        ]
+      },
+      "id": "way/477556866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/478968493",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Salud Nuevo Vergel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3629884,
+              20.7526446
+            ],
+            [
+              -103.3629509,
+              20.7526371
+            ],
+            [
+              -103.3629683,
+              20.752518
+            ],
+            [
+              -103.3630072,
+              20.752518
+            ],
+            [
+              -103.3630152,
+              20.7524578
+            ],
+            [
+              -103.3629844,
+              20.7524553
+            ],
+            [
+              -103.3629844,
+              20.7524377
+            ],
+            [
+              -103.3628932,
+              20.7524189
+            ],
+            [
+              -103.362849,
+              20.7526622
+            ],
+            [
+              -103.3629013,
+              20.752671
+            ],
+            [
+              -103.3628999,
+              20.7527462
+            ],
+            [
+              -103.362975,
+              20.7527525
+            ],
+            [
+              -103.3629884,
+              20.7526446
+            ]
+          ]
+        ]
+      },
+      "id": "way/478968493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479402378",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Unidad Médica Dr. Mario Rivas Souza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.311558,
+              20.7171606
+            ],
+            [
+              -103.3113098,
+              20.7171656
+            ],
+            [
+              -103.3112328,
+              20.7171656
+            ],
+            [
+              -103.3112146,
+              20.7172409
+            ],
+            [
+              -103.3112897,
+              20.7172559
+            ],
+            [
+              -103.31133,
+              20.7173061
+            ],
+            [
+              -103.3113112,
+              20.7174315
+            ],
+            [
+              -103.3112361,
+              20.7175218
+            ],
+            [
+              -103.311169,
+              20.7175871
+            ],
+            [
+              -103.3109652,
+              20.717557
+            ],
+            [
+              -103.3109652,
+              20.7176197
+            ],
+            [
+              -103.3112119,
+              20.717705
+            ],
+            [
+              -103.3113782,
+              20.7177903
+            ],
+            [
+              -103.3115177,
+              20.7175018
+            ],
+            [
+              -103.311558,
+              20.7171606
+            ]
+          ]
+        ]
+      },
+      "id": "way/479402378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480504184",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Salud Santa Cecilia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2909808,
+              20.704201
+            ],
+            [
+              -103.2908714,
+              20.7042678
+            ],
+            [
+              -103.2908967,
+              20.704385
+            ],
+            [
+              -103.2909529,
+              20.7043761
+            ],
+            [
+              -103.2910475,
+              20.7043137
+            ],
+            [
+              -103.2909808,
+              20.704201
+            ]
+          ]
+        ]
+      },
+      "id": "way/480504184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482939418",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Salud Las Juntas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3366204,
+              20.6094308
+            ],
+            [
+              -103.336328,
+              20.609456
+            ],
+            [
+              -103.3363334,
+              20.6096493
+            ],
+            [
+              -103.3366445,
+              20.6096267
+            ],
+            [
+              -103.3366204,
+              20.6094308
+            ]
+          ]
+        ]
+      },
+      "id": "way/482939418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483269961",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Unidad de Medicina Familiar 92 IMSS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3433615,
+              20.6144102
+            ],
+            [
+              -103.3432679,
+              20.6141735
+            ],
+            [
+              -103.3430743,
+              20.6142612
+            ],
+            [
+              -103.343168,
+              20.6144511
+            ],
+            [
+              -103.3430712,
+              20.6144861
+            ],
+            [
+              -103.3430057,
+              20.6144043
+            ],
+            [
+              -103.3428215,
+              20.6144774
+            ],
+            [
+              -103.3428246,
+              20.6145066
+            ],
+            [
+              -103.3427029,
+              20.6145621
+            ],
+            [
+              -103.3427154,
+              20.6146001
+            ],
+            [
+              -103.3426217,
+              20.6146351
+            ],
+            [
+              -103.3426779,
+              20.6147286
+            ],
+            [
+              -103.342756,
+              20.6146965
+            ],
+            [
+              -103.3428434,
+              20.6148864
+            ],
+            [
+              -103.3431368,
+              20.6147549
+            ],
+            [
+              -103.3431742,
+              20.6148016
+            ],
+            [
+              -103.3434676,
+              20.6146673
+            ],
+            [
+              -103.3433615,
+              20.6144102
+            ]
+          ]
+        ]
+      },
+      "id": "way/483269961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539043361",
+        "addr:city": "Guadalajara",
+        "addr:street": "Boulevard General Marcelino García Barragán",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Clínica 52",
+        "operator": "IMSS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3284111,
+              20.6564848
+            ],
+            [
+              -103.3292403,
+              20.6552286
+            ],
+            [
+              -103.3290635,
+              20.6551398
+            ],
+            [
+              -103.3289378,
+              20.655335
+            ],
+            [
+              -103.3286717,
+              20.6551717
+            ],
+            [
+              -103.328808,
+              20.6549685
+            ],
+            [
+              -103.3286144,
+              20.6547949
+            ],
+            [
+              -103.3279302,
+              20.6558501
+            ],
+            [
+              -103.3284111,
+              20.6564848
+            ]
+          ]
+        ]
+      },
+      "id": "way/539043361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662266161",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "11",
+        "addr:postcode": "45010",
+        "addr:street": "Vía Láctea",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry;surgery;urology;paediatrics;otolaryngology;emergency;gastroenterology",
+        "name": "Antares Médica",
+        "opening_hours": "Mo-Fr 09:30-14:00, 16:00-20:00; Sa 09:30-14:30",
+        "phone": "+52-33-22648747",
+        "website": "http://www.antaresmedica.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4509547,
+              20.6578281
+            ],
+            [
+              -103.4509907,
+              20.6577092
+            ],
+            [
+              -103.4509267,
+              20.6576925
+            ],
+            [
+              -103.4509092,
+              20.657752
+            ],
+            [
+              -103.4508917,
+              20.6578114
+            ],
+            [
+              -103.4509547,
+              20.6578281
+            ]
+          ]
+        ]
+      },
+      "id": "way/662266161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790806185",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "3483",
+        "addr:postcode": "44500",
+        "addr:street": "Calzada Lázaro Cárdenas",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Fisoterapia",
+        "name": "SIGUE FISIOTERAPIA EFECTIVA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4002855,
+              20.6679672
+            ],
+            [
+              -103.400324,
+              20.6679164
+            ],
+            [
+              -103.400356,
+              20.6678742
+            ],
+            [
+              -103.4003062,
+              20.6678289
+            ],
+            [
+              -103.4002337,
+              20.667934
+            ],
+            [
+              -103.4002855,
+              20.6679672
+            ]
+          ]
+        ]
+      },
+      "id": "way/790806185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/885569130",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Salud Santa Margarita"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4225884,
+              20.7334989
+            ],
+            [
+              -103.422905,
+              20.7333693
+            ],
+            [
+              -103.422824,
+              20.7331961
+            ],
+            [
+              -103.4227663,
+              20.7330727
+            ],
+            [
+              -103.4227496,
+              20.7330371
+            ],
+            [
+              -103.4224323,
+              20.733167
+            ],
+            [
+              -103.4225884,
+              20.7334989
+            ]
+          ]
+        ]
+      },
+      "id": "way/885569130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1097527234",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4528991,
+              20.7285701
+            ],
+            [
+              -103.4529472,
+              20.7283273
+            ],
+            [
+              -103.452843,
+              20.7283112
+            ],
+            [
+              -103.4528345,
+              20.728358
+            ],
+            [
+              -103.4528255,
+              20.7283469
+            ],
+            [
+              -103.4527943,
+              20.7283739
+            ],
+            [
+              -103.4527768,
+              20.7283607
+            ],
+            [
+              -103.4527485,
+              20.7283909
+            ],
+            [
+              -103.4527179,
+              20.7284147
+            ],
+            [
+              -103.452757,
+              20.7284576
+            ],
+            [
+              -103.4527604,
+              20.7284613
+            ],
+            [
+              -103.4527847,
+              20.7284412
+            ],
+            [
+              -103.4527904,
+              20.7284454
+            ],
+            [
+              -103.4527723,
+              20.7285529
+            ],
+            [
+              -103.4528991,
+              20.7285701
+            ]
+          ]
+        ]
+      },
+      "id": "way/1097527234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627307329",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Ciudad Granja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4456854,
+          20.6794223
+        ]
+      },
+      "id": "node/3627307329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4355532289",
+        "addr:street": "Dr. Roberto Michel",
+        "amenity": "clinic",
+        "name": "IMSS UMF No. 39 Alamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3217994,
+          20.6263767
+        ]
+      },
+      "id": "node/4355532289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391826089",
+        "amenity": "clinic",
+        "name": "Unebi",
+        "name:es": "Unebi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3577268,
+          20.6635882
+        ]
+      },
+      "id": "node/4391826089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548433589",
+        "addr:housenumber": "1727",
+        "addr:street": "Federalistas",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "name": "Orbapie podólogo",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "phone": "19815568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.430381,
+          20.7429869
+        ]
+      },
+      "id": "node/4548433589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613477211",
+        "amenity": "clinic",
+        "name": "Unidad Médica del Valle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4269924,
+          20.7408106
+        ]
+      },
+      "id": "node/4613477211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677618209",
+        "amenity": "clinic",
+        "name": "Clínica Santa Rosa del Valle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3244142,
+          20.5655178
+        ]
+      },
+      "id": "node/4677618209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4734977670",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Hospital San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.296865,
+          20.7167913
+        ]
+      },
+      "id": "node/4734977670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739149444",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "2063",
+        "addr:postcode": "44910",
+        "addr:street": "Lázaro Cárdenas",
+        "amenity": "clinic",
+        "name": "Clinica #46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3607213,
+          20.6474972
+        ]
+      },
+      "id": "node/4739149444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5216596396",
+        "addr:city": "Guadalajara",
+        "addr:street": "Boulevard General Marcelino García Barragán",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica 52",
+        "operator": "IMSS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3282404,
+          20.65618
+        ]
+      },
+      "id": "node/5216596396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608328821",
+        "addr:housenumber": "#19",
+        "addr:postcode": "44130",
+        "addr:street": "Emilio Castelar",
+        "amenity": "clinic",
+        "name": "Bios Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3839447,
+          20.6751489
+        ]
+      },
+      "id": "node/5608328821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5908823036",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1044-A",
+        "addr:postcode": "45030",
+        "addr:street": "Misión de Santo Tomás",
+        "amenity": "clinic",
+        "email": "docvega13@hotmail.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dermatology;psychology;homeopathy;burnout",
+        "name": "Núcleo Médico Vives",
+        "opening_hours": "24/7",
+        "phone": "+52 33 3628 0753",
+        "website": "https://www.facebook.com/Nucleomedicovives/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.442941,
+          20.655547
+        ]
+      },
+      "id": "node/5908823036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674505",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "25",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychology;sexual_health",
+        "level": "1",
+        "name": "Núcleo Médico Copérnico",
+        "opening_hours": "Mo-Fr 09:30-14:00, 16:00-20:00; Sa 08:30-13:30",
+        "phone": "+52 33 36281590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4325079,
+          20.6546822
+        ]
+      },
+      "id": "node/6001674505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139559664",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "383",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "clinic",
+        "building:levels": "2",
+        "description": "Grupo de profesionales de la salud respaldándote. \nMedicina general y del deporte, psicología y nutrición.\n",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychology;psychiatry;nutrition;sports;dentist;physiotherapy",
+        "name": "Núcleo Médico La Roca",
+        "opening_hours": "24/7",
+        "phone": "+52 33 15317926",
+        "website": "https://www.facebook.com/1707131559341526/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4342468,
+          20.6534286
+        ]
+      },
+      "id": "node/6139559664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6340911099",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1183",
+        "addr:postcode": "45030",
+        "addr:street": "Calle Misión Santo Tomás",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "alternative",
+        "name": "Alphabiotico",
+        "opening_hours": "Mo, We, Fr 09:00-20:00; Tu, Th 14:00-20:00",
+        "phone": "+52-33-36288893",
+        "website": "https://www.alphabioticoenguadalajara.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4428418,
+          20.6536349
+        ]
+      },
+      "id": "node/6340911099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6340911100",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1175",
+        "addr:postcode": "45030",
+        "addr:street": "Calle Misión Santo Tomás",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Nucleo Médico Santo Tomás"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.442811,
+          20.6537091
+        ]
+      },
+      "id": "node/6340911100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6394443585",
+        "amenity": "clinic",
+        "name": "Orto family"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2808888,
+          20.6145586
+        ]
+      },
+      "id": "node/6394443585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6751375573",
+        "addr:city": "Guadalajara",
+        "addr:street": "Avenida Belisario Domínguez",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Clinica IMSS No. 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3270674,
+          20.6850394
+        ]
+      },
+      "id": "node/6751375573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6769186786",
+        "addr:street": "Calle Silvano Pratt",
+        "amenity": "clinic",
+        "healthcare": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.363893,
+          20.6258774
+        ]
+      },
+      "id": "node/6769186786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6814877475",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "487-1",
+        "addr:postcode": "45030",
+        "addr:street": "Calle Misión De San Lorenzo",
+        "amenity": "clinic",
+        "email": "info@siguefisioterapia.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapy",
+        "level": "0",
+        "name": "Sigue Fisioterapia Efectiva Centro Acuático",
+        "opening_hours": "Mo-Fr 08:30-19:30, Sa 08:00-14:00",
+        "phone": "+52-33-18142001",
+        "website": "https://www.siguefisioterapia.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4453382,
+          20.663331
+        ]
+      },
+      "id": "node/6814877475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042436585",
+        "addr:street": "Avenida Naciones Unidas",
+        "amenity": "clinic",
+        "name": "Aloe Home Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4283432,
+          20.6888916
+        ]
+      },
+      "id": "node/7042436585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506645",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Juan Sandoval Íñiguez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4234209,
+          20.6070843
+        ]
+      },
+      "id": "node/8365506645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415473218",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "870-A",
+        "addr:postcode": "44600",
+        "addr:street": "Calle Pedro Antonio Buzeta",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "description": "Instituto Urológico de Invasión Mínima.\nEn UROMIN ofrecemos atención integral a personas que padecen enfermedades urológicas, conjuntando a médicos de primer nivel, certificados, utilizando la más alta tecnología y con calidez humana.",
+        "email": "info@uromin.mx",
+        "healthcare": "clinic",
+        "healthcare:speciality": "urology",
+        "image": "https://uromin.mx/aj./webmaster/getfile/70ee821f7757c9e2864b752b28b04a20?.jpg",
+        "name": "UROMIN - Instituto Urológico De Invasión Mínima S.C.",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "operator:type": "private",
+        "phone": "+523318142090",
+        "website": "https://uromin.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3691909,
+          20.6908931
+        ]
+      },
+      "id": "node/8415473218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10605120613",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Punto Salud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4303598,
+          20.6026386
+        ]
+      },
+      "id": "node/10605120613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10800195442",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1982",
+        "addr:postcode": "44730",
+        "addr:street": "Puerto Melaque",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "BEMI Cosmetología - Nutrición - Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3070113,
+          20.6815376
+        ]
+      },
+      "id": "node/10800195442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10813005555",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "518",
+        "addr:postcode": "44100",
+        "addr:street": "Calle Santa Mónica",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "analisis",
+        "name": "AHF México - Wellness Center Guadalajara",
+        "opening_hours": "Mo-Fr 11:00-18:00",
+        "operator": "AHF México",
+        "operator:type": "public",
+        "website": "https://pruebadevih.org.mx/guadalajara/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3493515,
+          20.6827997
+        ]
+      },
+      "id": "node/10813005555"
+    }
+  ]
+}

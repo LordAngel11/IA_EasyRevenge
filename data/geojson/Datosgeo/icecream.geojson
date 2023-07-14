@@ -1,0 +1,965 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:23:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/630843223",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6637",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "ice_cream",
+        "building": "retail",
+        "delivery": "no",
+        "name": "Helados Thrifty",
+        "opening_hours": "Mo-Su, PH 10:00-22:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "website": "https://heladosthrifty.com.mx/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4447489,
+              20.6589292
+            ],
+            [
+              -103.4447551,
+              20.6587968
+            ],
+            [
+              -103.4446962,
+              20.658794
+            ],
+            [
+              -103.4446889,
+              20.6589274
+            ],
+            [
+              -103.4447489,
+              20.6589292
+            ]
+          ]
+        ]
+      },
+      "id": "way/630843223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1097445051",
+        "amenity": "ice_cream",
+        "building": "yes",
+        "name": "Dolphy"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4576206,
+              20.7345452
+            ],
+            [
+              -103.4577437,
+              20.7345492
+            ],
+            [
+              -103.4577461,
+              20.7345095
+            ],
+            [
+              -103.4576266,
+              20.7345044
+            ],
+            [
+              -103.4576206,
+              20.7345452
+            ]
+          ]
+        ]
+      },
+      "id": "way/1097445051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686386106",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "3439",
+        "addr:postcode": "45070",
+        "addr:street": "Orion",
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "cuisine": "ice_cream",
+        "name": "La Michoacana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41729,
+          20.6343634
+        ]
+      },
+      "id": "node/1686386106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686474528",
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "cuisine": "ice_cream",
+        "name": "La Michoacana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.42487,
+          20.6272161
+        ]
+      },
+      "id": "node/1686474528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687288169",
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "cuisine": "ice_cream",
+        "name": "La Michoacana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426863,
+          20.6282089
+        ]
+      },
+      "id": "node/1687288169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705342589",
+        "amenity": "ice_cream",
+        "brand": "La Michoacana",
+        "brand:wikidata": "Q17118857",
+        "cuisine": "ice_cream",
+        "name": "La Michoacana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.426599,
+          20.6346613
+        ]
+      },
+      "id": "node/1705342589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2789605266",
+        "amenity": "ice_cream",
+        "cuisine": "Nieve y raspado",
+        "name": "Moran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4040579,
+          20.6668693
+        ]
+      },
+      "id": "node/2789605266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2819566132",
+        "amenity": "ice_cream",
+        "name": "Paleterias Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3903116,
+          20.6775284
+        ]
+      },
+      "id": "node/2819566132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164172155",
+        "amenity": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3770176,
+          20.5292865
+        ]
+      },
+      "id": "node/4164172155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307682291",
+        "amenity": "ice_cream",
+        "name": "yogen früz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2281661,
+          20.6171339
+        ]
+      },
+      "id": "node/4307682291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4611241048",
+        "amenity": "ice_cream",
+        "name": "Thrifty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4574242,
+          20.7263662
+        ]
+      },
+      "id": "node/4611241048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612691976",
+        "amenity": "ice_cream",
+        "name": "Le Garraf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4331713,
+          20.7293397
+        ]
+      },
+      "id": "node/4612691976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714406213",
+        "amenity": "ice_cream",
+        "name": "Dolcenatura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4146522,
+          20.7471239
+        ]
+      },
+      "id": "node/4714406213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714406216",
+        "amenity": "ice_cream",
+        "name": "Thrifty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4149633,
+          20.7476005
+        ]
+      },
+      "id": "node/4714406216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4738630846",
+        "amenity": "ice_cream",
+        "name": "Le Mime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3692948,
+          20.6682064
+        ]
+      },
+      "id": "node/4738630846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5625868904",
+        "amenity": "ice_cream",
+        "name": "Dolce Natura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3246736,
+          20.6535446
+        ]
+      },
+      "id": "node/5625868904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5625905756",
+        "amenity": "ice_cream",
+        "delivery": "no",
+        "name": "La Michoacana",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3262576,
+          20.6535184
+        ]
+      },
+      "id": "node/5625905756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5700155757",
+        "amenity": "ice_cream",
+        "name": "Nevería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4002566,
+          20.7520717
+        ]
+      },
+      "id": "node/5700155757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921826531",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6542-B",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "ice_cream",
+        "name": "Nieves de Garrafa Mexicaltzingo",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "phone": "+52 33 2003 1125",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/nievedegarrafamexicaltzingo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4436134,
+          20.659331
+        ]
+      },
+      "id": "node/5921826531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674526",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "407",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "ice_cream",
+        "delivery": "no",
+        "description": "Nieves de garrafa tradicionales de Guadalajara con más de 85 sabores",
+        "email": "neveriasanantoniogdl@gmail.com",
+        "name": "Nevería San Antonio",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.432498,
+          20.653778
+        ]
+      },
+      "id": "node/6001674526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6141602047",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4570",
+        "addr:postcode": "45047",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "ice_cream",
+        "delivery": "no",
+        "level": "0",
+        "name": "Michoacana a Pedir de Boca",
+        "opening_hours": "Mo-Su 12:00-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/Michoacana-pedir-de-boca-222643868291187/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4168504,
+          20.6581145
+        ]
+      },
+      "id": "node/6141602047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448993328",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "221",
+        "addr:postcode": "44160",
+        "addr:street": "Calle Colonias",
+        "amenity": "ice_cream",
+        "level": "0",
+        "name": "La Bottega del Gelato",
+        "opening_hours": "Mo, We-Sa 11:30-17:30, Su 11:00-19:30",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+52-33-18586948",
+        "website": "https://www.facebook.com/La-Bottega-del-Gelato-1718279398400952/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.365864,
+          20.6727042
+        ]
+      },
+      "id": "node/6448993328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561129987",
+        "amenity": "ice_cream",
+        "name": "Paletería y Nevería Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3909622,
+          20.7623232
+        ]
+      },
+      "id": "node/6561129987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564114385",
+        "amenity": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3127123,
+          20.6401886
+        ]
+      },
+      "id": "node/6564114385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098519786",
+        "addr:housenumber": "700",
+        "addr:postcode": "44180",
+        "addr:street": "Calle Colón",
+        "amenity": "ice_cream",
+        "name": "Nieves de Garrafa Mexicaltzingo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3513347,
+          20.6664024
+        ]
+      },
+      "id": "node/7098519786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854744",
+        "amenity": "ice_cream",
+        "name": "Helados Dolphy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4218018,
+          20.6582452
+        ]
+      },
+      "id": "node/8355854744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358741579",
+        "amenity": "ice_cream",
+        "name": "Paletería y Nevería Rodríguez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4317292,
+          20.6027955
+        ]
+      },
+      "id": "node/8358741579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506672",
+        "amenity": "ice_cream",
+        "name": "Helados Dolphy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4491166,
+          20.6007026
+        ]
+      },
+      "id": "node/8365506672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506676",
+        "amenity": "ice_cream",
+        "name": "DOLCENATURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4486262,
+          20.6009256
+        ]
+      },
+      "id": "node/8365506676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815658",
+        "amenity": "ice_cream",
+        "name": "DOLCE NATURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3792153,
+          20.7128587
+        ]
+      },
+      "id": "node/8365815658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815659",
+        "amenity": "ice_cream",
+        "name": "Helados Dolphy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.378557,
+          20.7128654
+        ]
+      },
+      "id": "node/8365815659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815674",
+        "amenity": "ice_cream",
+        "name": "Dany Yo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3794949,
+          20.7127396
+        ]
+      },
+      "id": "node/8365815674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815679",
+        "amenity": "ice_cream",
+        "name": "Nutrisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3793498,
+          20.7130276
+        ]
+      },
+      "id": "node/8365815679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439406",
+        "amenity": "ice_cream",
+        "name": "Helados Dolphy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4019075,
+          20.6032995
+        ]
+      },
+      "id": "node/8369439406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439410",
+        "amenity": "ice_cream",
+        "name": "Nutrisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4022133,
+          20.6029129
+        ]
+      },
+      "id": "node/8369439410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843211",
+        "amenity": "ice_cream",
+        "brand": "Häagen-Dazs",
+        "brand:wikidata": "Q1143333",
+        "brand:wikipedia": "en:Häagen-Dazs",
+        "name": "Häagen-Dazs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4129398,
+          20.6448656
+        ]
+      },
+      "id": "node/8376843211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410587017",
+        "amenity": "ice_cream",
+        "name": "Chichilí Helado Vegano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3809778,
+          20.6908482
+        ]
+      },
+      "id": "node/8410587017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410592718",
+        "amenity": "ice_cream",
+        "name": "La Bottega del Gelato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3657862,
+          20.6725816
+        ]
+      },
+      "id": "node/8410592718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410592719",
+        "amenity": "ice_cream",
+        "name": "Caravellé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3659914,
+          20.6861543
+        ]
+      },
+      "id": "node/8410592719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410594419",
+        "amenity": "ice_cream",
+        "name": "Nevería Lara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3665505,
+          20.6830169
+        ]
+      },
+      "id": "node/8410594419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295271",
+        "amenity": "ice_cream",
+        "name": "Helados Dolphy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4014712,
+          20.7379357
+        ]
+      },
+      "id": "node/8459295271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295289",
+        "amenity": "ice_cream",
+        "name": "Michoacana Delicatessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4018548,
+          20.738628
+        ]
+      },
+      "id": "node/8459295289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295294",
+        "amenity": "ice_cream",
+        "name": "Nutrisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4014041,
+          20.7385177
+        ]
+      },
+      "id": "node/8459295294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742374217",
+        "amenity": "ice_cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4060163,
+          20.6615574
+        ]
+      },
+      "id": "node/9742374217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755802217",
+        "amenity": "ice_cream",
+        "name": "INDULGENTE Helados sin culpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3135726,
+          20.6397786
+        ]
+      },
+      "id": "node/9755802217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10713395865",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "44430",
+        "addr:street": "Avenida Salvador López Chávez",
+        "amenity": "ice_cream",
+        "name": "Heladeria El Puerto",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3305943,
+          20.6566212
+        ]
+      },
+      "id": "node/10713395865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10793729806",
+        "addr:housenumber": "628",
+        "addr:postcode": "45138",
+        "addr:street": "Avenida Santa Margarita",
+        "amenity": "ice_cream",
+        "name": "Paletería y Nevería La Michoacana",
+        "name:en": "La Michoacana's Ice Cream",
+        "opening_hours": "Su-Th 10:00-21:00; Fr-Sa 10:00-22:00",
+        "phone": "+523338617000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4254714,
+          20.7300608
+        ]
+      },
+      "id": "node/10793729806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927711706",
+        "amenity": "ice_cream",
+        "name": "Artesanieves"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3594363,
+          20.6732097
+        ]
+      },
+      "id": "node/10927711706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927916507",
+        "amenity": "ice_cream",
+        "name": "Bella Ciao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3581577,
+          20.673972
+        ]
+      },
+      "id": "node/10927916507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927956305",
+        "amenity": "ice_cream",
+        "name": "Espada Helada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3785392,
+          20.6727439
+        ]
+      },
+      "id": "node/10927956305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927960507",
+        "amenity": "ice_cream",
+        "name": "MADE IN HEAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3909763,
+          20.6957025
+        ]
+      },
+      "id": "node/10927960507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10945447165",
+        "amenity": "ice_cream",
+        "name": "Dolphin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2458417,
+          20.6269779
+        ]
+      },
+      "id": "node/10945447165"
+    }
+  ]
+}

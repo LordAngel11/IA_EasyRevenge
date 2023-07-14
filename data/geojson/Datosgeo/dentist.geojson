@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:33:49Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611775201",
+        "addr:city": "Zalatitan",
+        "addr:street": "González Ortega",
+        "amenity": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2630976,
+          20.6570868
+        ]
+      },
+      "id": "node/3611775201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262969592",
+        "addr:housenumber": "580",
+        "addr:postcode": "45120",
+        "addr:street": "Abedules",
+        "amenity": "dentist",
+        "email": "echauri.lorena@gmail.com",
+        "name": "Dra. Lorena Echauri",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "15930236",
+        "website": "https://m.facebook.com/dralorena83/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4052096,
+          20.682814
+        ]
+      },
+      "id": "node/4262969592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721053496",
+        "amenity": "dentist",
+        "name": "Unidad Médico Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4333086,
+          20.6583069
+        ]
+      },
+      "id": "node/4721053496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4866946120",
+        "addr:housenumber": "Gran Terraza Belenes Local 40 Planta Baja",
+        "addr:street": "Av. Laureles 1300. Col. Parque Industrial Belenes. Zapopan, Jalisco",
+        "amenity": "dentist",
+        "description": "Consultorio Dental",
+        "name": "Diente Sano",
+        "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-02:00",
+        "phone": "31654625",
+        "website": "www.diente-sano.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4011527,
+          20.7383233
+        ]
+      },
+      "id": "node/4866946120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4892891621",
+        "amenity": "dentist",
+        "name": "Dr. Celina",
+        "name:en": "Dr. Celina",
+        "name:es": "Dr. Celina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3103833,
+          20.6466896
+        ]
+      },
+      "id": "node/4892891621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304105426",
+        "addr:housenumber": "4677",
+        "addr:postcode": "45050",
+        "addr:street": "Avenida Moctezuma",
+        "amenity": "dentist",
+        "email": "ortolasersc2015@gmail.com",
+        "name": "OrtoLaser",
+        "opening_hours": "Mo-Su 10:00-14:00, 16:00-20:00",
+        "phone": "3336348393",
+        "website": "http://OrtoLaser.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4180936,
+          20.65021
+        ]
+      },
+      "id": "node/5304105426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5899752388",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Javier Torres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.353306,
+          20.6694788
+        ]
+      },
+      "id": "node/5899752388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565137230",
+        "amenity": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3917684,
+          20.762916
+        ]
+      },
+      "id": "node/6565137230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6689302387",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name:en": "Jaliscience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2428165,
+          20.5206501
+        ]
+      },
+      "id": "node/6689302387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983984972",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6000-20",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "dentist",
+        "email": "drpabloquaiotti@gmail.com",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentist",
+        "name": "Dental Live",
+        "phone": "+52-33-12019746",
+        "website": "https://dentallive.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4364117,
+          20.6593662
+        ]
+      },
+      "id": "node/6983984972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506646",
+        "amenity": "dentist",
+        "healthcare": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4233731,
+          20.6071505
+        ]
+      },
+      "id": "node/8365506646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369475819",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Clínica Dental La Zapopana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4015883,
+          20.603415
+        ]
+      },
+      "id": "node/8369475819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400697307",
+        "amenity": "dentist",
+        "healthcare": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4302696,
+          20.6025767
+        ]
+      },
+      "id": "node/8400697307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459223428",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "MF DENTAL CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3891614,
+          20.7221741
+        ]
+      },
+      "id": "node/8459223428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10772361553",
+        "addr:housenumber": "1012",
+        "addr:street": "Calle Arco de Tito",
+        "amenity": "dentist",
+        "name": "BioDentaq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4097328,
+          20.7399791
+        ]
+      },
+      "id": "node/10772361553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10811493907",
+        "amenity": "dentist",
+        "name": "PS Dental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4033524,
+          20.6658051
+        ]
+      },
+      "id": "node/10811493907"
+    }
+  ]
+}

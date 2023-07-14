@@ -1,0 +1,6386 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:23:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179079657",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Taquería Minerva",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3893258,
+              20.6748562
+            ],
+            [
+              -103.3893731,
+              20.6748539
+            ],
+            [
+              -103.3893734,
+              20.6748421
+            ],
+            [
+              -103.3893986,
+              20.6748421
+            ],
+            [
+              -103.3893996,
+              20.6748208
+            ],
+            [
+              -103.3894116,
+              20.6748205
+            ],
+            [
+              -103.3894119,
+              20.6746373
+            ],
+            [
+              -103.3893258,
+              20.6746361
+            ],
+            [
+              -103.3893258,
+              20.6748562
+            ]
+          ]
+        ]
+      },
+      "id": "way/179079657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401139561",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Little Caesars"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3793937,
+              20.5287165
+            ],
+            [
+              -103.3792737,
+              20.5287073
+            ],
+            [
+              -103.37926,
+              20.5288651
+            ],
+            [
+              -103.37938,
+              20.5288742
+            ],
+            [
+              -103.3793937,
+              20.5287165
+            ]
+          ]
+        ]
+      },
+      "id": "way/401139561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482714305",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Mercado Panamericano"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4430712,
+              20.6827102
+            ],
+            [
+              -103.4423335,
+              20.683046
+            ],
+            [
+              -103.4424944,
+              20.6833766
+            ],
+            [
+              -103.4432426,
+              20.6830545
+            ],
+            [
+              -103.4430712,
+              20.6827102
+            ]
+          ]
+        ]
+      },
+      "id": "way/482714305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536504541",
+        "addr:city": "San Pedro Tlaquepaque",
+        "addr:housenumber": "3650",
+        "addr:postcode": "45080",
+        "addr:street": "Avenida Camino al ITESO",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "fast_food;burger;breakfast",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "Carl's Jr.",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "01 33 3855 5289",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://carlsjr.com.mx/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4153156,
+              20.6115942
+            ],
+            [
+              -103.4152376,
+              20.6116674
+            ],
+            [
+              -103.4153696,
+              20.6117905
+            ],
+            [
+              -103.4154048,
+              20.6117575
+            ],
+            [
+              -103.41542,
+              20.6117718
+            ],
+            [
+              -103.4155054,
+              20.6116917
+            ],
+            [
+              -103.4154969,
+              20.6116838
+            ],
+            [
+              -103.4155132,
+              20.6116684
+            ],
+            [
+              -103.41553,
+              20.6116841
+            ],
+            [
+              -103.4156209,
+              20.6115988
+            ],
+            [
+              -103.4155616,
+              20.6115434
+            ],
+            [
+              -103.415538,
+              20.6115657
+            ],
+            [
+              -103.4154618,
+              20.6114946
+            ],
+            [
+              -103.4153873,
+              20.6115646
+            ],
+            [
+              -103.4153671,
+              20.6115458
+            ],
+            [
+              -103.4153156,
+              20.6115942
+            ]
+          ]
+        ]
+      },
+      "id": "way/536504541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542193116",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4311745,
+              20.678599
+            ],
+            [
+              -103.4308544,
+              20.6785363
+            ],
+            [
+              -103.4308255,
+              20.6786652
+            ],
+            [
+              -103.4311457,
+              20.678728
+            ],
+            [
+              -103.4311745,
+              20.678599
+            ]
+          ]
+        ]
+      },
+      "id": "way/542193116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563752138",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4307227,
+              20.7305633
+            ],
+            [
+              -103.4307227,
+              20.7304693
+            ],
+            [
+              -103.4305138,
+              20.7304692
+            ],
+            [
+              -103.430514,
+              20.7305579
+            ],
+            [
+              -103.4307227,
+              20.7305633
+            ]
+          ]
+        ]
+      },
+      "id": "way/563752138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563752140",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4307399,
+              20.7324614
+            ],
+            [
+              -103.4307426,
+              20.7323109
+            ],
+            [
+              -103.4304423,
+              20.7323085
+            ],
+            [
+              -103.4304449,
+              20.7324564
+            ],
+            [
+              -103.4307399,
+              20.7324614
+            ]
+          ]
+        ]
+      },
+      "id": "way/563752140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/582043222",
+        "addr:housename": "Burger King Ávila Camacho",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3635889,
+              20.7054913
+            ],
+            [
+              -103.3636268,
+              20.7053079
+            ],
+            [
+              -103.3636023,
+              20.7052054
+            ],
+            [
+              -103.3635245,
+              20.7051126
+            ],
+            [
+              -103.3633931,
+              20.7050097
+            ],
+            [
+              -103.3633072,
+              20.704947
+            ],
+            [
+              -103.363216,
+              20.7049294
+            ],
+            [
+              -103.3631544,
+              20.7049696
+            ],
+            [
+              -103.3631114,
+              20.705075
+            ],
+            [
+              -103.3630712,
+              20.705213
+            ],
+            [
+              -103.3631252,
+              20.7052452
+            ],
+            [
+              -103.3633421,
+              20.7053183
+            ],
+            [
+              -103.3633689,
+              20.705366
+            ],
+            [
+              -103.3635889,
+              20.7054913
+            ]
+          ]
+        ]
+      },
+      "id": "way/582043222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611331671",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2806227,
+              20.6433517
+            ],
+            [
+              -103.2807503,
+              20.6431213
+            ],
+            [
+              -103.2806464,
+              20.6430635
+            ],
+            [
+              -103.2806331,
+              20.6430707
+            ],
+            [
+              -103.2803881,
+              20.6429581
+            ],
+            [
+              -103.2803335,
+              20.6430772
+            ],
+            [
+              -103.280558,
+              20.643203
+            ],
+            [
+              -103.2805082,
+              20.6432988
+            ],
+            [
+              -103.2806227,
+              20.6433517
+            ]
+          ]
+        ]
+      },
+      "id": "way/611331671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611331675",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2812691,
+              20.6441529
+            ],
+            [
+              -103.2810607,
+              20.6441436
+            ],
+            [
+              -103.2810548,
+              20.6442577
+            ],
+            [
+              -103.2812633,
+              20.644267
+            ],
+            [
+              -103.2812691,
+              20.6441529
+            ]
+          ]
+        ]
+      },
+      "id": "way/611331675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615307814",
+        "amenity": "fast_food",
+        "branch": "El Palomar",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4428944,
+              20.5914618
+            ],
+            [
+              -103.4430432,
+              20.5912259
+            ],
+            [
+              -103.4427676,
+              20.5910736
+            ],
+            [
+              -103.4426425,
+              20.591272
+            ],
+            [
+              -103.4426608,
+              20.5913328
+            ],
+            [
+              -103.4428944,
+              20.5914618
+            ]
+          ]
+        ]
+      },
+      "id": "way/615307814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617539686",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2908494,
+              20.6276581
+            ],
+            [
+              -103.2909177,
+              20.627517
+            ],
+            [
+              -103.2908068,
+              20.62747
+            ],
+            [
+              -103.2907385,
+              20.6276111
+            ],
+            [
+              -103.2908494,
+              20.6276581
+            ]
+          ]
+        ]
+      },
+      "id": "way/617539686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637373306",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Vancouver Wings"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4480782,
+              20.6301752
+            ],
+            [
+              -103.4481023,
+              20.6300648
+            ],
+            [
+              -103.4480406,
+              20.6300497
+            ],
+            [
+              -103.4480218,
+              20.6301727
+            ],
+            [
+              -103.4480782,
+              20.6301752
+            ]
+          ]
+        ]
+      },
+      "id": "way/637373306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653212235",
+        "addr:city": "Guadalajara",
+        "addr:housename": "Carls Junior",
+        "addr:street": "Circunvalación División del Norte",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "Carls Junior"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3377329,
+              20.7005417
+            ],
+            [
+              -103.3377194,
+              20.7004037
+            ],
+            [
+              -103.3375102,
+              20.7004112
+            ],
+            [
+              -103.3375072,
+              20.7005003
+            ],
+            [
+              -103.3376842,
+              20.7006007
+            ],
+            [
+              -103.3377329,
+              20.7005417
+            ]
+          ]
+        ]
+      },
+      "id": "way/653212235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661392365",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3488557,
+              20.6633698
+            ],
+            [
+              -103.3488236,
+              20.663473
+            ],
+            [
+              -103.3489023,
+              20.6634944
+            ],
+            [
+              -103.3489344,
+              20.6633912
+            ],
+            [
+              -103.3488557,
+              20.6633698
+            ]
+          ]
+        ]
+      },
+      "id": "way/661392365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/745268143",
+        "amenity": "fast_food",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.2533794,
+              20.6248176
+            ],
+            [
+              -103.2533732,
+              20.6247983
+            ],
+            [
+              -103.2533603,
+              20.6247822
+            ],
+            [
+              -103.2533423,
+              20.6247711
+            ],
+            [
+              -103.2533234,
+              20.6247665
+            ],
+            [
+              -103.2533039,
+              20.6247677
+            ],
+            [
+              -103.2532857,
+              20.6247745
+            ],
+            [
+              -103.2532707,
+              20.6247862
+            ],
+            [
+              -103.2532603,
+              20.6248017
+            ],
+            [
+              -103.2532556,
+              20.6248195
+            ],
+            [
+              -103.2532569,
+              20.6248377
+            ],
+            [
+              -103.2532643,
+              20.6248547
+            ],
+            [
+              -103.2532769,
+              20.6248686
+            ],
+            [
+              -103.2532936,
+              20.6248783
+            ],
+            [
+              -103.2533146,
+              20.6248827
+            ],
+            [
+              -103.2533359,
+              20.6248802
+            ],
+            [
+              -103.2533551,
+              20.624871
+            ],
+            [
+              -103.2533698,
+              20.6248562
+            ],
+            [
+              -103.2533782,
+              20.6248377
+            ],
+            [
+              -103.2533794,
+              20.6248176
+            ]
+          ]
+        ]
+      },
+      "id": "way/745268143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/762705545",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3190734,
+              20.7189461
+            ],
+            [
+              -103.3191031,
+              20.7188378
+            ],
+            [
+              -103.3189437,
+              20.7187994
+            ],
+            [
+              -103.318914,
+              20.7189077
+            ],
+            [
+              -103.3190734,
+              20.7189461
+            ]
+          ]
+        ]
+      },
+      "id": "way/762705545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771754140",
+        "addr:postcode": "45608",
+        "addr:street": "Avenida Jaime Torres Bodet",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "building": "yes",
+        "cuisine": "pizza",
+        "drive_through": "yes",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3959359,
+              20.6241505
+            ],
+            [
+              -103.3960099,
+              20.6240366
+            ],
+            [
+              -103.3959159,
+              20.6239803
+            ],
+            [
+              -103.3958543,
+              20.6240567
+            ],
+            [
+              -103.3958589,
+              20.6241101
+            ],
+            [
+              -103.3959359,
+              20.6241505
+            ]
+          ]
+        ]
+      },
+      "id": "way/771754140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775846583",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6370",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "fast_food",
+        "building": "kiosk",
+        "cuisine": "mexican",
+        "drive_through": "no",
+        "name": "Marquesitas Las Originales",
+        "opening_hours": "Mo-Th 15:00-22:00, Fr 15:00-23:00, Sa 14:00-22:00, Su 14:00-21:30",
+        "phone": "+52-33-14424216",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/marquesitasoriginales"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4423341,
+              20.6592514
+            ],
+            [
+              -103.4423357,
+              20.659213
+            ],
+            [
+              -103.4422777,
+              20.6592109
+            ],
+            [
+              -103.4422761,
+              20.6592493
+            ],
+            [
+              -103.4423341,
+              20.6592514
+            ]
+          ]
+        ]
+      },
+      "id": "way/775846583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790820355",
+        "addr:city": "Guadalajara",
+        "addr:postcode": "45120",
+        "addr:street": "Av. México 3640, México, 45120 Guadalajara, Jal.",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4040897,
+              20.6780765
+            ],
+            [
+              -103.4038927,
+              20.6781076
+            ],
+            [
+              -103.40392,
+              20.6783275
+            ],
+            [
+              -103.4040699,
+              20.678329
+            ],
+            [
+              -103.4040864,
+              20.6781032
+            ],
+            [
+              -103.4040897,
+              20.6780765
+            ]
+          ]
+        ]
+      },
+      "id": "way/790820355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056775984",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "chicken"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4230672,
+              20.5372298
+            ],
+            [
+              -103.4230921,
+              20.5371554
+            ],
+            [
+              -103.4229765,
+              20.5371244
+            ],
+            [
+              -103.422979,
+              20.5371141
+            ],
+            [
+              -103.422943,
+              20.5371039
+            ],
+            [
+              -103.4229179,
+              20.5371876
+            ],
+            [
+              -103.4230672,
+              20.5372298
+            ]
+          ]
+        ]
+      },
+      "id": "way/1056775984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1097445050",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "building": "yes",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "not:brand:wikidata": "Q244457",
+        "website": "https://www.subway.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4576163,
+              20.7345946
+            ],
+            [
+              -103.4577394,
+              20.7346002
+            ],
+            [
+              -103.4577437,
+              20.7345492
+            ],
+            [
+              -103.4576206,
+              20.7345452
+            ],
+            [
+              -103.4576163,
+              20.7345946
+            ]
+          ]
+        ]
+      },
+      "id": "way/1097445050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182283225",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "building": "yes",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4332863,
+              20.729591
+            ],
+            [
+              -103.4333762,
+              20.7294874
+            ],
+            [
+              -103.4332734,
+              20.7294255
+            ],
+            [
+              -103.4331874,
+              20.7295309
+            ],
+            [
+              -103.4332863,
+              20.729591
+            ]
+          ]
+        ]
+      },
+      "id": "way/1182283225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685281684",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.423542,
+          20.6215392
+        ]
+      },
+      "id": "node/1685281684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685287807",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "5005",
+        "addr:postcode": "45070",
+        "addr:street": "Avenida López Mateos Sur",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "01 33 3631 5726",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41756,
+          20.6283572
+        ]
+      },
+      "id": "node/1685287807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685287808",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.422268,
+          20.630039
+        ]
+      },
+      "id": "node/1685287808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685301085",
+        "amenity": "fast_food",
+        "name": "Tacos el Paisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4260189,
+          20.6346635
+        ]
+      },
+      "id": "node/1685301085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685339040",
+        "addr:city": "San Pedro Tlaquepaque",
+        "addr:housenumber": "21",
+        "addr:postcode": "45080",
+        "addr:street": "Avenida Camino al ITESO",
+        "amenity": "fast_food",
+        "cuisine": "tacos",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Los Tarascos",
+        "opening_hours": "Mo-Su 12:00-00:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "source:date": "2015-05-31",
+        "takeaway": "yes",
+        "website": "https://lostarascos.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.415579,
+          20.610984
+        ]
+      },
+      "id": "node/1685339040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686107722",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos Naranja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4287908,
+          20.6317131
+        ]
+      },
+      "id": "node/1686107722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686231031",
+        "addr:housenumber": "2691",
+        "addr:street": "Avenida Mariano Otero",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3986219,
+          20.6505775
+        ]
+      },
+      "id": "node/1686231031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686395569",
+        "amenity": "fast_food",
+        "cuisine": "ice_cream",
+        "name": "Raspachos (Raspados y Papas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4223923,
+          20.6307162
+        ]
+      },
+      "id": "node/1686395569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686417400",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.419238,
+          20.6490458
+        ]
+      },
+      "id": "node/1686417400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686470783",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos La Pasadita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4065418,
+          20.6471933
+        ]
+      },
+      "id": "node/1686470783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686474529",
+        "amenity": "fast_food",
+        "cuisine": "chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4248876,
+          20.6271772
+        ]
+      },
+      "id": "node/1686474529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687288174",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tortas, lonches, papas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4268798,
+          20.6281487
+        ]
+      },
+      "id": "node/1687288174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687294712",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4698676,
+          20.6277747
+        ]
+      },
+      "id": "node/1687294712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696556324",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Pollo Rostisado Gabriel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2847458,
+          20.6608905
+        ]
+      },
+      "id": "node/1696556324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696606097",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos el Chino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2835985,
+          20.6617739
+        ]
+      },
+      "id": "node/1696606097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696749110",
+        "amenity": "fast_food",
+        "name": "Hot Dogs, Burgers, Tacos..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2819824,
+          20.6618341
+        ]
+      },
+      "id": "node/1696749110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696828833",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tortas Ahogadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.287894,
+          20.6627464
+        ]
+      },
+      "id": "node/1696828833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696828855",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos de Barbacoa Charly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2859307,
+          20.6610449
+        ]
+      },
+      "id": "node/1696828855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696828866",
+        "amenity": "fast_food",
+        "name": "Aguas Frescas y Nieves"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2834711,
+          20.6622972
+        ]
+      },
+      "id": "node/1696828866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696972807",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tortas Ahogadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2978322,
+          20.6640933
+        ]
+      },
+      "id": "node/1696972807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697002668",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2958845,
+          20.6619717
+        ]
+      },
+      "id": "node/1697002668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697242695",
+        "amenity": "fast_food",
+        "name": "Desayunos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2858803,
+          20.6611858
+        ]
+      },
+      "id": "node/1697242695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697267107",
+        "amenity": "fast_food",
+        "name": "Cenaduría"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2837667,
+          20.6592652
+        ]
+      },
+      "id": "node/1697267107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697267113",
+        "amenity": "fast_food",
+        "name": "Hot Dogs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2837962,
+          20.6600834
+        ]
+      },
+      "id": "node/1697267113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1698804192",
+        "amenity": "fast_food",
+        "cuisine": "fish",
+        "name": "Mariscos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2876337,
+          20.6593764
+        ]
+      },
+      "id": "node/1698804192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703846059",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.418604,
+          20.6279194
+        ]
+      },
+      "id": "node/1703846059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705334167",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.417111,
+          20.6301809
+        ]
+      },
+      "id": "node/1705334167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705340252",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza y Come"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4259903,
+          20.6336321
+        ]
+      },
+      "id": "node/1705340252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242767",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2861435,
+          20.6722437
+        ]
+      },
+      "id": "node/1715242767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242782",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2856151,
+          20.672304
+        ]
+      },
+      "id": "node/1715242782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715242800",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2856339,
+          20.672171
+        ]
+      },
+      "id": "node/1715242800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715303177",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2925379,
+          20.6739728
+        ]
+      },
+      "id": "node/1715303177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715303179",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2943109,
+          20.6740556
+        ]
+      },
+      "id": "node/1715303179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342348",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2869697,
+          20.6723391
+        ]
+      },
+      "id": "node/1715342348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342350",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2911459,
+          20.6724721
+        ]
+      },
+      "id": "node/1715342350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715360076",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2933855,
+          20.6725775
+        ]
+      },
+      "id": "node/1715360076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715450939",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.274315,
+          20.6750569
+        ]
+      },
+      "id": "node/1715450939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715450941",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2739572,
+          20.6751399
+        ]
+      },
+      "id": "node/1715450941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717012462",
+        "amenity": "fast_food",
+        "name": "BURGUER KING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4205022,
+          20.6862953
+        ]
+      },
+      "id": "node/1717012462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1720140590",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3729573,
+          20.6286556
+        ]
+      },
+      "id": "node/1720140590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729990810",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2909362,
+          20.7006645
+        ]
+      },
+      "id": "node/1729990810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762331596",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4469096,
+          20.6009318
+        ]
+      },
+      "id": "node/1762331596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941644368",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.346704,
+          20.7067533
+        ]
+      },
+      "id": "node/1941644368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941672726",
+        "amenity": "fast_food",
+        "name": "Carera 1",
+        "noexit": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3812585,
+          20.7409874
+        ]
+      },
+      "id": "node/1941672726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941675751",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3813634,
+          20.740505
+        ]
+      },
+      "id": "node/1941675751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941675752",
+        "amenity": "fast_food",
+        "name": "Carera 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3805695,
+          20.740801
+        ]
+      },
+      "id": "node/1941675752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1941679815",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3807292,
+          20.7403077
+        ]
+      },
+      "id": "node/1941679815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944642915",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "name": "Little Caesars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3838855,
+          20.7531389
+        ]
+      },
+      "id": "node/1944642915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1952927492",
+        "amenity": "fast_food",
+        "level": "1",
+        "name": "dulceria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3819585,
+          20.7406758
+        ]
+      },
+      "id": "node/1952927492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103749375",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "source": "Bing",
+        "website": "https://www.subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4164382,
+          20.6113079
+        ]
+      },
+      "id": "node/2103749375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296577531",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347985,
+          20.6750327
+        ]
+      },
+      "id": "node/2296577531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296577532",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348395,
+          20.6755225
+        ]
+      },
+      "id": "node/2296577532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2789311345",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4310813,
+          20.7223368
+        ]
+      },
+      "id": "node/2789311345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2824920856",
+        "amenity": "fast_food",
+        "name": "Lonches Amparito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3428117,
+          20.6765527
+        ]
+      },
+      "id": "node/2824920856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825288434",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Hamburguesas Garfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3648877,
+          20.6967859
+        ]
+      },
+      "id": "node/2825288434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825303520",
+        "amenity": "fast_food",
+        "cuisine": "hot_dog",
+        "name": "Hot Dogs Oscarin",
+        "phone": "3337002405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4189049,
+          20.6688374
+        ]
+      },
+      "id": "node/2825303520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874654692",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "771-C",
+        "addr:street": "Calle Rafael Sanzio",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Little Caesars",
+        "opening_hours": "Mo-Su 10:30-23:00",
+        "phone": "+52-33-36206170",
+        "takeaway": "yes",
+        "website": "https://mexico.littlecaesars.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.430533,
+          20.661638
+        ]
+      },
+      "id": "node/2874654692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874661461",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.412696,
+          20.6371408
+        ]
+      },
+      "id": "node/2874661461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874661462",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Little Caesars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3966014,
+          20.6368403
+        ]
+      },
+      "id": "node/2874661462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874673771",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.386096,
+          20.6982027
+        ]
+      },
+      "id": "node/2874673771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882191283",
+        "amenity": "fast_food",
+        "cuisine": "hot_dog",
+        "name": "Hot Dogs El Chino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3585035,
+          20.6757468
+        ]
+      },
+      "id": "node/2882191283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907845065",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Gualala Grill",
+        "opening_hours": "Mo-Su 14:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3881663,
+          20.6838706
+        ]
+      },
+      "id": "node/2907845065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2933268271",
+        "amenity": "fast_food",
+        "name": "Cenaduría Pelayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4125308,
+          20.627355
+        ]
+      },
+      "id": "node/2933268271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163629790",
+        "amenity": "fast_food",
+        "name": "Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3254795,
+          20.6866358
+        ]
+      },
+      "id": "node/3163629790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688882",
+        "amenity": "fast_food",
+        "name": "Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3185347,
+          20.7178382
+        ]
+      },
+      "id": "node/3163688882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688885",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3181592,
+          20.7196345
+        ]
+      },
+      "id": "node/3163688885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163688888",
+        "amenity": "fast_food",
+        "name": "Tortas Tom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3176553,
+          20.7180422
+        ]
+      },
+      "id": "node/3163688888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429598811",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "name": "La Playita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3461737,
+          20.6752435
+        ]
+      },
+      "id": "node/3429598811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452713806",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "702",
+        "addr:postcode": "45180",
+        "addr:street": "Venustiano Carranza",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Pizza y Come",
+        "opening_hours": "11:00-23:00",
+        "phone": "+3136339710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3729139,
+          20.7279716
+        ]
+      },
+      "id": "node/3452713806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500245451",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "drive_through": "no",
+        "name": "Subway",
+        "operator": "Subway",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.222131,
+          20.5852159
+        ]
+      },
+      "id": "node/3500245451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627307335",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.442898,
+          20.6849624
+        ]
+      },
+      "id": "node/3627307335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3667422551",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "82",
+        "addr:postcode": "44980",
+        "addr:street": "Calle José María de la Vega",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "no",
+        "name": "Luigui's Pizza",
+        "opening_hours": "2:00 - 11:00",
+        "phone": "36638723",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3816886,
+          20.6205857
+        ]
+      },
+      "id": "node/3667422551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3808769001",
+        "amenity": "fast_food",
+        "name": "Tacos Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3660572,
+          20.6844072
+        ]
+      },
+      "id": "node/3808769001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3814083024",
+        "amenity": "fast_food",
+        "name": "Tostadas La Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3639034,
+          20.7213064
+        ]
+      },
+      "id": "node/3814083024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3820214109",
+        "addr:street": "Primavera",
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Los Limones",
+        "phone": "+52 1 3312010168",
+        "smoking": "no",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4132712,
+          20.600835
+        ]
+      },
+      "id": "node/3820214109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3820214114",
+        "addr:street": "Primavera",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "drive_through": "no",
+        "name": "Don Paco Taquería",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4134843,
+          20.6009478
+        ]
+      },
+      "id": "node/3820214114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4011389273",
+        "amenity": "fast_food",
+        "name": "Gualala Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4191376,
+          20.6563146
+        ]
+      },
+      "id": "node/4011389273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035945395",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3743808,
+          20.5301461
+        ]
+      },
+      "id": "node/4035945395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4114683105",
+        "amenity": "fast_food",
+        "name": "La Típica Tostaderia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3718934,
+          20.6804805
+        ]
+      },
+      "id": "node/4114683105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4155995089",
+        "addr:city": "San Pedro Tlaquepaque",
+        "addr:housenumber": "8650",
+        "addr:postcode": "45601",
+        "addr:street": "Avenida Camino al ITESO",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Little Caesars",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "01 33 3855 5046",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "littlecaesars.com.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4162196,
+          20.6114402
+        ]
+      },
+      "id": "node/4155995089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164195299",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Speed Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3262855,
+          20.6535412
+        ]
+      },
+      "id": "node/4164195299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4176617391",
+        "addr:street": "Aurelio Aceves",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.388077,
+          20.6740459
+        ]
+      },
+      "id": "node/4176617391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242775706",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Los Sarapes",
+        "restaurant": "Tacos Los Sarapes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4277055,
+          20.6833424
+        ]
+      },
+      "id": "node/4242775706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4274840725",
+        "addr:city": "Zapopan",
+        "addr:street": "Avenida Mariano Otero",
+        "amenity": "fast_food",
+        "amenity_1": "wc",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Little Caesars",
+        "opening_hours": "11:00 - 11:00",
+        "operator": "Little Ceasars",
+        "parking_space": "4",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.393531,
+          20.6542363
+        ]
+      },
+      "id": "node/4274840725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4306491256",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "764",
+        "addr:street": "Enrique Diaz de Leon",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "name": "Sticks",
+        "website": "http://www.sticks.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3596209,
+          20.6650397
+        ]
+      },
+      "id": "node/4306491256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307718090",
+        "addr:street": "Guadalajara - Zapotlanejo",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "website": "https://www.subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2280647,
+          20.6171538
+        ]
+      },
+      "id": "node/4307718090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4308163108",
+        "addr:street": "Avenida Federalismo",
+        "amenity": "fast_food",
+        "name": "Goyos Burguer",
+        "opening_hours": "Tu-Su 18:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3563609,
+          20.7090837
+        ]
+      },
+      "id": "node/4308163108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4324663491",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "operator": "Subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2220781,
+          20.5854251
+        ]
+      },
+      "id": "node/4324663491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343448860",
+        "amenity": "fast_food",
+        "name": "Hamburguesas El Costeño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2213309,
+          20.6695562
+        ]
+      },
+      "id": "node/4343448860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348672495",
+        "amenity": "fast_food",
+        "name": "Pollo Geno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4070498,
+          20.6240219
+        ]
+      },
+      "id": "node/4348672495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368595690",
+        "addr:housenumber": "813",
+        "addr:postcode": "44770",
+        "addr:street": "Presa Oviachi",
+        "amenity": "fast_food",
+        "name": "Tostadas Sabrosam",
+        "name:es": "Tostadas Sabrosam",
+        "opening_hours": "Mo-Su 08:30-18:30",
+        "phone": "36084555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2816632,
+          20.6734686
+        ]
+      },
+      "id": "node/4368595690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413703193",
+        "addr:street": "Carretera Tepic-Guadalajara",
+        "amenity": "fast_food",
+        "name": "taquería kalitos",
+        "name:es": "taquería kalitos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4967483,
+          20.72181
+        ]
+      },
+      "id": "node/4413703193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432878085",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "cuisine": "burger",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.446243,
+          20.682273
+        ]
+      },
+      "id": "node/4432878085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432878086",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445999,
+          20.6821453
+        ]
+      },
+      "id": "node/4432878086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432878087",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445715,
+          20.68272
+        ]
+      },
+      "id": "node/4432878087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432886004",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4312024,
+          20.6770464
+        ]
+      },
+      "id": "node/4432886004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557010058",
+        "addr:street": "Avenida de los Arcos",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "internet_access": "wlan",
+        "name": "ok tortas Royers",
+        "opening_hours": "Mo-Su 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.384679,
+          20.6690058
+        ]
+      },
+      "id": "node/4557010058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580552528",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Pechugón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3764082,
+          20.7508825
+        ]
+      },
+      "id": "node/4580552528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602595089",
+        "addr:street": "José Clemente Orozco",
+        "amenity": "fast_food",
+        "name": "Lonches el barbas",
+        "name:es": "Lonches el barbas",
+        "opening_hours": "Mo-Sa 07:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2988623,
+          20.6328498
+        ]
+      },
+      "id": "node/4602595089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087611",
+        "amenity": "fast_food",
+        "name": "Tacos Don Rubenchón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4148749,
+          20.710089
+        ]
+      },
+      "id": "node/4603087611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107810",
+        "amenity": "fast_food",
+        "name": "Peter Pipper Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4108248,
+          20.7084757
+        ]
+      },
+      "id": "node/4603107810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107854",
+        "amenity": "fast_food",
+        "name": "Las Flautas Unicenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4112526,
+          20.710096
+        ]
+      },
+      "id": "node/4603107854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107857",
+        "amenity": "fast_food",
+        "name": "Lonches Karlo's Unicenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4114403,
+          20.7097874
+        ]
+      },
+      "id": "node/4603107857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107868",
+        "amenity": "fast_food",
+        "brand": "Krispy Kreme",
+        "brand:wikidata": "Q1192805",
+        "brand:wikipedia": "en:Krispy Kreme",
+        "cuisine": "donut",
+        "name": "Krispy Kreme",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4102682,
+          20.7097924
+        ]
+      },
+      "id": "node/4603107868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603107885",
+        "amenity": "fast_food",
+        "name": "Santos Pepitos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4095172,
+          20.7116339
+        ]
+      },
+      "id": "node/4603107885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4610774944",
+        "amenity": "fast_food",
+        "name": "El Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4636474,
+          20.7061599
+        ]
+      },
+      "id": "node/4610774944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612691905",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.430587,
+          20.7323818
+        ]
+      },
+      "id": "node/4612691905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612691911",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.428586,
+          20.7310674
+        ]
+      },
+      "id": "node/4612691911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612691972",
+        "amenity": "fast_food",
+        "name": "Tacos Don Miguelón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4325786,
+          20.7293898
+        ]
+      },
+      "id": "node/4612691972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692393",
+        "amenity": "fast_food",
+        "name": "Luca Deli Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4348155,
+          20.7292218
+        ]
+      },
+      "id": "node/4612692393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692410",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4140",
+        "addr:postcode": "45136",
+        "addr:street": "Avenida Santa Margarita",
+        "amenity": "fast_food",
+        "cuisine": "sushi",
+        "drive_through": "no",
+        "name": "Okuma Sushi",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "phone": "01 33 3624 8989",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://okuma.com.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4350972,
+          20.7298364
+        ]
+      },
+      "id": "node/4612692410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692411",
+        "amenity": "fast_food",
+        "name": "Los Tarascos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4352983,
+          20.7298364
+        ]
+      },
+      "id": "node/4612692411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692414",
+        "amenity": "fast_food",
+        "name": "Lonches Karlo's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4349791,
+          20.7299041
+        ]
+      },
+      "id": "node/4612692414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612692419",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.439238,
+          20.7300395
+        ]
+      },
+      "id": "node/4612692419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613197960",
+        "amenity": "fast_food",
+        "name": "Wings Army"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4204886,
+          20.7500339
+        ]
+      },
+      "id": "node/4613197960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613477192",
+        "amenity": "fast_food",
+        "name": "Wingman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4303077,
+          20.7386383
+        ]
+      },
+      "id": "node/4613477192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613477193",
+        "amenity": "fast_food",
+        "name": "Royal Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4303023,
+          20.7383473
+        ]
+      },
+      "id": "node/4613477193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482258",
+        "addr:city": "El Palomar",
+        "addr:housenumber": "1450",
+        "addr:postcode": "45643",
+        "addr:street": "Avenida López Mateos Sur",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "diet:vegetarian": "yes",
+        "name": "Cuarto de Kilo",
+        "outdoor_seating": "yes",
+        "phone": "+52 133 3188 2878",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://cuartodekilo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.44477,
+          20.5884456
+        ]
+      },
+      "id": "node/4624482258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482260",
+        "amenity": "fast_food",
+        "name": "Las Ro El Palomar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4447217,
+          20.5887683
+        ]
+      },
+      "id": "node/4624482260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482299",
+        "amenity": "fast_food",
+        "name": "Johnny Rockets Palomar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4476507,
+          20.5871864
+        ]
+      },
+      "id": "node/4624482299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482312",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Little Caesars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4474495,
+          20.5845826
+        ]
+      },
+      "id": "node/4624482312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625738212",
+        "amenity": "fast_food",
+        "name": "Farmville Galicia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4432182,
+          20.5765818
+        ]
+      },
+      "id": "node/4625738212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625788865",
+        "amenity": "fast_food",
+        "name": "Sushi Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4400076,
+          20.5704144
+        ]
+      },
+      "id": "node/4625788865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625788866",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.440211,
+          20.5702085
+        ]
+      },
+      "id": "node/4625788866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625788868",
+        "amenity": "fast_food",
+        "name": "Los Tarascos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4401096,
+          20.5703793
+        ]
+      },
+      "id": "node/4625788868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831093",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "website": "https://www.subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4598211,
+          20.5666383
+        ]
+      },
+      "id": "node/4629831093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629831110",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46032,
+          20.5645489
+        ]
+      },
+      "id": "node/4629831110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906036",
+        "amenity": "fast_food",
+        "name": "Chuck E Cheese Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4576485,
+          20.5696417
+        ]
+      },
+      "id": "node/4629906036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906037",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Carl's Jr."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4573052,
+          20.5695061
+        ]
+      },
+      "id": "node/4629906037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906054",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tacos Providencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4577236,
+          20.5686222
+        ]
+      },
+      "id": "node/4629906054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644507489",
+        "addr:street": "Calzada Independencia Norte",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.330454,
+          20.6968965
+        ]
+      },
+      "id": "node/4644507489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684513573",
+        "amenity": "fast_food",
+        "cuisine": "japanese",
+        "name": "Okuma Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.364812,
+          20.5729734
+        ]
+      },
+      "id": "node/4684513573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684513790",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tortas Ahogadas Las Famosas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.364584,
+          20.5724888
+        ]
+      },
+      "id": "node/4684513790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688228289",
+        "addr:street": "Avenida de La Paz",
+        "amenity": "fast_food",
+        "cuisine": "tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.350093,
+          20.6690195
+        ]
+      },
+      "id": "node/4688228289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692605889",
+        "addr:postcode": "45235",
+        "addr:street": "Calle Sinaloa",
+        "amenity": "fast_food",
+        "cuisine": "steak_house;chicken",
+        "name": "El Fogoncito",
+        "opening_hours": "Th-Tu 12:00-00:00",
+        "phone": "15666292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4230023,
+          20.6091798
+        ]
+      },
+      "id": "node/4692605889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698139362",
+        "amenity": "fast_food",
+        "name": "El Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2843489,
+          20.5617938
+        ]
+      },
+      "id": "node/4698139362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698139363",
+        "amenity": "fast_food",
+        "name": "Pippino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2844722,
+          20.5618039
+        ]
+      },
+      "id": "node/4698139363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714406210",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Los Tarascos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4139977,
+          20.7466624
+        ]
+      },
+      "id": "node/4714406210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4714406217",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "website": "https://www.subway.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4150169,
+          20.7477008
+        ]
+      },
+      "id": "node/4714406217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4722900663",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348418,
+          20.6906783
+        ]
+      },
+      "id": "node/4722900663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727125091",
+        "addr:street": "Calle Araceli Souza",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Cuarto De Kilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4264631,
+          20.6345893
+        ]
+      },
+      "id": "node/4727125091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727139189",
+        "addr:street": "Calle Araceli Souza",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Cuarto de Kilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4264838,
+          20.6345863
+        ]
+      },
+      "id": "node/4727139189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746157443",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Domino's Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2788587,
+          20.6411683
+        ]
+      },
+      "id": "node/4746157443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753551268",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2748645,
+          20.6397492
+        ]
+      },
+      "id": "node/4753551268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755153450",
+        "amenity": "fast_food",
+        "name": "Las Ensaladas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4454803,
+          20.682679
+        ]
+      },
+      "id": "node/4755153450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757134963",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.320744,
+          20.6166327
+        ]
+      },
+      "id": "node/4757134963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4860824526",
+        "addr:housenumber": "150-ff8",
+        "addr:street": "Calle Rafael Sanzio",
+        "amenity": "fast_food",
+        "cuisine": "japanese",
+        "email": "dfrancos@mac.com",
+        "name": "akai teriyaki express",
+        "opening_hours": "Mo-Su 11:00-20:45",
+        "phone": "3336730777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4314351,
+          20.6765564
+        ]
+      },
+      "id": "node/4860824526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4876812425",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Wrocco Wrowers Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.357382,
+          20.5519275
+        ]
+      },
+      "id": "node/4876812425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925266723",
+        "addr:housenumber": "2205",
+        "addr:street": "Enrique Diaz de León Norte",
+        "amenity": "fast_food",
+        "name": "Pizzas La Piletta",
+        "name:en": "La Piletta Pizzas",
+        "name:es": "Pizzas La Piletta",
+        "opening_hours": "We-Mo 11:00-10:00",
+        "phone": "32800198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3615029,
+          20.71425
+        ]
+      },
+      "id": "node/4925266723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925268224",
+        "addr:housenumber": "2097-B",
+        "addr:street": "Avenida de la Patria",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Bacon & Bread Pizza",
+        "name:en": "Bacon & Bread Pizza",
+        "name:es": "Bacon & Bread Pizza",
+        "opening_hours": "Mo-Sa 12:00-21:50",
+        "phone": "32802475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3618947,
+          20.712909
+        ]
+      },
+      "id": "node/4925268224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017379741",
+        "amenity": "fast_food",
+        "name": "Taquería La Esquina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.415617,
+          20.6231552
+        ]
+      },
+      "id": "node/5017379741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5069789321",
+        "addr:housenumber": "420",
+        "addr:postcode": "45235",
+        "addr:street": "Calle Felipe Ángeles",
+        "amenity": "fast_food",
+        "name": "Todo de pollo",
+        "name:en": "Everything of chicken",
+        "name:fr": "Tout du poulet",
+        "opening_hours": "Tu-Su 10:30-18:00",
+        "phone": "3322337700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4252037,
+          20.6104556
+        ]
+      },
+      "id": "node/5069789321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5117928529",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.420623,
+          20.6631514
+        ]
+      },
+      "id": "node/5117928529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135892051",
+        "amenity": "fast_food",
+        "name": "Tacos Compitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4098948,
+          20.6728555
+        ]
+      },
+      "id": "node/5135892051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322573388",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.298847,
+          20.6891077
+        ]
+      },
+      "id": "node/5322573388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5387903421",
+        "addr:housenumber": "1985",
+        "addr:street": "Avenida de la Paz",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizzas del perro negro",
+        "name:en": "Black Dog Pizzas",
+        "opening_hours": "Mo-Su 12:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3681091,
+          20.672289
+        ]
+      },
+      "id": "node/5387903421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425711537",
+        "amenity": "fast_food",
+        "name": "El Pechugon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4015098,
+          20.7285026
+        ]
+      },
+      "id": "node/5425711537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5443303985",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6033",
+        "addr:postcode": "45080",
+        "addr:street": "Avenida Sierra de Mazamitla",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Lonches Conchita",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "01 33 38558594",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4195485,
+          20.6176297
+        ]
+      },
+      "id": "node/5443303985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5551681221",
+        "addr:housenumber": "15",
+        "addr:postcode": "45185",
+        "addr:street": "Lázaro Cárdenas",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "email": "hectormobu@Hotmail.com",
+        "internet_access": "wlan",
+        "name": "pollos Bugarmo",
+        "opening_hours": "Mo-Sa 07:00-15:30",
+        "phone": "3315503531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.360223,
+          20.7513996
+        ]
+      },
+      "id": "node/5551681221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5625905754",
+        "amenity": "fast_food",
+        "cuisine": "sushi;salad;mexican",
+        "drive_through": "no",
+        "name": "Sushilakil",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3263431,
+          20.65361
+        ]
+      },
+      "id": "node/5625905754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5625905755",
+        "amenity": "fast_food",
+        "cuisine": "salad",
+        "name": "Salads",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.326311,
+          20.653579
+        ]
+      },
+      "id": "node/5625905755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5650694434",
+        "amenity": "fast_food",
+        "drive_through": "no",
+        "name": "La Casa del Elote",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3105184,
+          20.6503493
+        ]
+      },
+      "id": "node/5650694434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5700155761",
+        "amenity": "fast_food",
+        "name": "Pollería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401603,
+          20.7504655
+        ]
+      },
+      "id": "node/5700155761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778118783",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "450A",
+        "addr:postcode": "44340",
+        "addr:street": "Circunvalación Dr. Atl",
+        "amenity": "fast_food",
+        "cuisine": "regional;mexican;tacos",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Tacos Checo´s",
+        "opening_hours": "Mo-Su 09:00-15:00",
+        "phone": "01 33 3699 0966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.32507,
+          20.6944448
+        ]
+      },
+      "id": "node/5778118783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5785284104",
+        "amenity": "fast_food",
+        "name": "La Gordichila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2032654,
+          20.6653295
+        ]
+      },
+      "id": "node/5785284104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5788253595",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2778001,
+          20.6420974
+        ]
+      },
+      "id": "node/5788253595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837556457",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.291767,
+          20.6280147
+        ]
+      },
+      "id": "node/5837556457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857125919",
+        "amenity": "fast_food",
+        "cuisine": "japanese",
+        "name": "Okuma Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3777079,
+          20.5294019
+        ]
+      },
+      "id": "node/5857125919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5866470563",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1408 - 1410",
+        "addr:postcode": "44370",
+        "addr:street": "industria",
+        "amenity": "fast_food",
+        "cuisine": "japanese;fast_food;burger",
+        "delivery": "yes",
+        "name": "Sushi fuji",
+        "outdoor_seating": "yes",
+        "phone": "3322802830",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3162494,
+          20.6762723
+        ]
+      },
+      "id": "node/5866470563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5891897585",
+        "addr:housename": "Tortas Ahogadas Don José de la Bicicleta",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas Don José de la Bicicleta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3480084,
+          20.6654413
+        ]
+      },
+      "id": "node/5891897585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674486",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "19-B",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "fast_food",
+        "cuisine": "taco",
+        "drive_through": "no",
+        "name": "Tacos Don Many",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "phone": "+52 33 31586788",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/Tacos-Don-Many-309226666291606/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4324345,
+          20.6549824
+        ]
+      },
+      "id": "node/6001674486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674496",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "19-A",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "fast_food",
+        "cuisine": "chips",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Pin Pon Papas",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+52 33 38225369",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4324337,
+          20.6550088
+        ]
+      },
+      "id": "node/6001674496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001674518",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "37",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "fast_food",
+        "cuisine": "hot_dog",
+        "description": "Dogos estilo Sonora",
+        "drive_through": "no",
+        "name": "Dogos Huatson",
+        "opening_hours": "Mo-Sa 18:00-24:00",
+        "outdoor_seating": "no",
+        "phone": "+52 647 1194119",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/people/Huatson-Dogos/100016381745795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4325083,
+          20.6540073
+        ]
+      },
+      "id": "node/6001674518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001807935",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4976",
+        "addr:postcode": "45050",
+        "addr:street": "Calle Ocaso",
+        "amenity": "fast_food",
+        "cuisine": "hot_dog",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Dogos Huatson",
+        "opening_hours": "Su-Th 19:30-02:00, Fr-Sa 19:30-04:00",
+        "outdoor_seating": "terrace",
+        "phone": "+52 644 1520318",
+        "start_date": "2013",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/DogosHuatson1/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4223424,
+          20.6539203
+        ]
+      },
+      "id": "node/6001807935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090443013",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "short_name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2953,
+          20.6875993
+        ]
+      },
+      "id": "node/6090443013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090443018",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2954516,
+          20.6874239
+        ]
+      },
+      "id": "node/6090443018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196315973",
+        "amenity": "fast_food",
+        "name": "Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3824129,
+          20.6324524
+        ]
+      },
+      "id": "node/6196315973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196356023",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3848535,
+          20.6261652
+        ]
+      },
+      "id": "node/6196356023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196356024",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas las Famosas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3834095,
+          20.6258406
+        ]
+      },
+      "id": "node/6196356024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6196356025",
+        "amenity": "fast_food",
+        "name": "Tortas Chago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3800184,
+          20.6251731
+        ]
+      },
+      "id": "node/6196356025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6441976564",
+        "addr:city": "Jalisco",
+        "addr:housenumber": "320A",
+        "addr:postcode": "44340",
+        "addr:street": "Sierra Madre",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "diet:meat": "yes",
+        "drive_through": "no",
+        "name": "Carnitas \"EL BIGOTES\"",
+        "opening_hours": "Mo-Sa 09:00-16:00, Su 09:00-15:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "phone": "01 33 3638 9046",
+        "takeaway": "yes",
+        "website": "https://es-la.facebook.com/pg/Carnitas-El-BIGOTES-10150145349335604/about/?ref=page_internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3282957,
+          20.6920662
+        ]
+      },
+      "id": "node/6441976564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448866595",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6000-1",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Guadalupe",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza y Come",
+        "opening_hours": "12:00-23:00",
+        "phone": "+52-33-36201212",
+        "takeaway": "yes",
+        "website": "https://www.pizzaycome.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4369287,
+          20.6590271
+        ]
+      },
+      "id": "node/6448866595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448993313",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "221-23",
+        "addr:postcode": "44160",
+        "addr:street": "Calle Colonias",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "drive_through": "no",
+        "level": "1",
+        "name": "Tortería Chachita",
+        "opening_hours": "Tu-Fr 11:00-21:30, Sa 11:00-23:00, Su 11:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+52-33-18144001",
+        "website": "https://www.facebook.com/chachitararara/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3658423,
+          20.6725127
+        ]
+      },
+      "id": "node/6448993313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6471267166",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3506283,
+          20.6964375
+        ]
+      },
+      "id": "node/6471267166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561139387",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Menudo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.389489,
+          20.7602489
+        ]
+      },
+      "id": "node/6561139387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6561379286",
+        "amenity": "fast_food",
+        "cuisine": "chicken;burger",
+        "name": "Rosticería El Pollo Charly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3909417,
+          20.7623447
+        ]
+      },
+      "id": "node/6561379286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563735788",
+        "amenity": "fast_food",
+        "name": "Tacos El Centinela",
+        "opening_hours": "Su-Th 06:00-12:00; Fr-Sa 06:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3791883,
+          20.7564883
+        ]
+      },
+      "id": "node/6563735788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563752685",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Lonches y tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3793501,
+          20.7566925
+        ]
+      },
+      "id": "node/6563752685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563910385",
+        "amenity": "fast_food",
+        "name": "Fresh Salads"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3853693,
+          20.7553896
+        ]
+      },
+      "id": "node/6563910385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565137229",
+        "amenity": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3922182,
+          20.7634547
+        ]
+      },
+      "id": "node/6565137229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565197985",
+        "amenity": "fast_food",
+        "name": "Tacos Arandinos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3893333,
+          20.7594994
+        ]
+      },
+      "id": "node/6565197985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565203185",
+        "amenity": "fast_food",
+        "name": "Amogadas",
+        "name:en": "Amogadas Mr Chucky",
+        "name:es": "Amogadas Mr Chucky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3890508,
+          20.7591105
+        ]
+      },
+      "id": "node/6565203185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565203385",
+        "amenity": "fast_food",
+        "name": "Tamalizas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3886332,
+          20.7577777
+        ]
+      },
+      "id": "node/6565203385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565203588",
+        "amenity": "fast_food",
+        "name": "Tortas El Pelón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3880547,
+          20.7570208
+        ]
+      },
+      "id": "node/6565203588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565258985",
+        "amenity": "fast_food",
+        "name": "Tacos Charly's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3898529,
+          20.76081
+        ]
+      },
+      "id": "node/6565258985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6656467377",
+        "amenity": "fast_food",
+        "brand": "Little Caesars",
+        "brand:wikidata": "Q1393809",
+        "brand:wikipedia": "en:Little Caesars",
+        "cuisine": "pizza",
+        "name": "Little Caesars",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2457788,
+          20.6271447
+        ]
+      },
+      "id": "node/6656467377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796182171",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "407-3",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Pollos del Sol",
+        "opening_hours": "Tu-Su 12:00-18:00",
+        "phone": "+52-33-14780777",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4326357,
+          20.6537581
+        ]
+      },
+      "id": "node/6796182171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796333205",
+        "addr:street": "José Guadalupe Zuno",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Kabab Cairo",
+        "opening_hours": "Tu-Th, Su 19:00-02:00; Fr, Sa 19:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3684241,
+          20.6705829
+        ]
+      },
+      "id": "node/6796333205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800716357",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "4288",
+        "addr:postcode": "45050",
+        "addr:street": "Avenida Tepeyac",
+        "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/Los-Weros-tacos-de-barbacoa-494084954125200/",
+        "cuisine": "regional;taco",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Los Wero's Tacos de Barbacoa",
+        "phone": "+52-33-31216687",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.412991,
+          20.659566
+        ]
+      },
+      "id": "node/6800716357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053703588",
+        "addr:street": "Avenida Jesús Michel González",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Designer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3859333,
+          20.5853104
+        ]
+      },
+      "id": "node/7053703588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7254236614",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1422",
+        "addr:street": "Avenida Nicolás Copérnico",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "drive_through": "no",
+        "name": "Wrocco Wrowers",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "+52-33-29028091",
+        "website": "https://www.facebook.com/Wrocco-Wrowers-Oficial-167191603631218/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4327677,
+          20.6502958
+        ]
+      },
+      "id": "node/7254236614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7275823180",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "771-B",
+        "addr:street": "Calle Rafael Sanzio",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Gorditas Doña Tota",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+52-33-31222525",
+        "takeaway": "yes",
+        "website": "https://donatota.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4305537,
+          20.6618272
+        ]
+      },
+      "id": "node/7275823180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635833936",
+        "addr:city": "Guadalajara",
+        "addr:housename": "Carls Junior",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Carls Junior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2964253,
+          20.6879269
+        ]
+      },
+      "id": "node/7635833936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7738033783",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "6485",
+        "addr:street": "Avenida Moctezuma",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "Hot Hot Chicken",
+        "phone": "+52-33-35506788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4406104,
+          20.6509444
+        ]
+      },
+      "id": "node/7738033783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7773378036",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "27",
+        "addr:postcode": "45020",
+        "addr:street": "Calle Domenico Scarlatti",
+        "amenity": "fast_food",
+        "cuisine": "wings",
+        "name": "Vancouver Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4216353,
+          20.6776059
+        ]
+      },
+      "id": "node/7773378036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7979011848",
+        "amenity": "fast_food",
+        "name": "El Pollo Bronco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2215784,
+          20.6701202
+        ]
+      },
+      "id": "node/7979011848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8325531017",
+        "addr:housenumber": "92-A",
+        "addr:postcode": "45500",
+        "addr:street": "Calle Alfareros",
+        "amenity": "fast_food",
+        "name": "Capricho",
+        "opening_hours": "We-Su 12:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3150064,
+          20.6376555
+        ]
+      },
+      "id": "node/8325531017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854742",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "cuisine": "burger",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4212558,
+          20.6597342
+        ]
+      },
+      "id": "node/8355854742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854747",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4216595,
+          20.6587701
+        ]
+      },
+      "id": "node/8355854747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358741566",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Pechugón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4324641,
+          20.6028976
+        ]
+      },
+      "id": "node/8358741566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358741567",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Pollo Bronco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4323703,
+          20.603106
+        ]
+      },
+      "id": "node/8358741567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506632",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "Rosticería El Dorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4241552,
+          20.6118734
+        ]
+      },
+      "id": "node/8365506632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506674",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4487593,
+          20.601013
+        ]
+      },
+      "id": "node/8365506674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506681",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4719669,
+          20.5549709
+        ]
+      },
+      "id": "node/8365506681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506682",
+        "amenity": "fast_food",
+        "brand": "Popeyes",
+        "brand:wikidata": "Q1330910",
+        "brand:wikipedia": "en:Popeyes",
+        "cuisine": "chicken",
+        "name": "Popeyes",
+        "official_name": "Popeyes Louisiana Kitchen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4720626,
+          20.5552744
+        ]
+      },
+      "id": "node/8365506682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506683",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "La Gran Lucha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4721795,
+          20.5553513
+        ]
+      },
+      "id": "node/8365506683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365536545",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "brand:wikipedia": "en:Dairy Queen",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.454134,
+          20.5692458
+        ]
+      },
+      "id": "node/8365536545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815673",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "brand:wikipedia": "en:Dairy Queen",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3788083,
+          20.7129746
+        ]
+      },
+      "id": "node/8365815673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815677",
+        "amenity": "fast_food",
+        "brand": "Krispy Kreme",
+        "brand:wikidata": "Q1192805",
+        "brand:wikipedia": "en:Krispy Kreme",
+        "cuisine": "donut",
+        "name": "Krispy Kreme",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3790702,
+          20.7130938
+        ]
+      },
+      "id": "node/8365815677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815678",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3792153,
+          20.713064
+        ]
+      },
+      "id": "node/8365815678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439383",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4018029,
+          20.6031815
+        ]
+      },
+      "id": "node/8369439383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439404",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "cuisine": "burger",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40187,
+          20.6028677
+        ]
+      },
+      "id": "node/8369439404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439405",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Cuarto de Kilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4021114,
+          20.603297
+        ]
+      },
+      "id": "node/8369439405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439415",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.401996,
+          20.6033221
+        ]
+      },
+      "id": "node/8369439415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369494261",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4300289,
+          20.6105591
+        ]
+      },
+      "id": "node/8369494261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843166",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Pechugón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3857397,
+          20.6488948
+        ]
+      },
+      "id": "node/8376843166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843209",
+        "amenity": "fast_food",
+        "brand": "Popeyes",
+        "brand:wikidata": "Q1330910",
+        "brand:wikipedia": "en:Popeyes",
+        "cuisine": "chicken",
+        "name": "Popeyes",
+        "official_name": "Popeyes Louisiana Kitchen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4126634,
+          20.6442645
+        ]
+      },
+      "id": "node/8376843209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843210",
+        "amenity": "fast_food",
+        "brand": "Sbarro",
+        "brand:wikidata": "Q2589409",
+        "brand:wikipedia": "en:Sbarro",
+        "cuisine": "pizza",
+        "name": "Sbarro",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4127853,
+          20.6445537
+        ]
+      },
+      "id": "node/8376843210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400710929",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "El Pechugón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4441885,
+          20.5907317
+        ]
+      },
+      "id": "node/8400710929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410137917",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas Enrique El Viejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3575879,
+          20.6752685
+        ]
+      },
+      "id": "node/8410137917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410350019",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas Enrique's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3438693,
+          20.6753635
+        ]
+      },
+      "id": "node/8410350019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410366717",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas El Güerito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3436224,
+          20.6731029
+        ]
+      },
+      "id": "node/8410366717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410570121",
+        "amenity": "fast_food",
+        "name": "Chicago Bagels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3612504,
+          20.7363795
+        ]
+      },
+      "id": "node/8410570121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8413519717",
+        "amenity": "fast_food",
+        "cuisine": "tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.345806,
+          20.6647622
+        ]
+      },
+      "id": "node/8413519717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8426847616",
+        "amenity": "fast_food",
+        "brand": "Dairy Queen",
+        "brand:wikidata": "Q1141226",
+        "brand:wikipedia": "en:Dairy Queen",
+        "cuisine": "ice_cream;burger",
+        "name": "Dairy Queen",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.297067,
+          20.6875409
+        ]
+      },
+      "id": "node/8426847616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430057213",
+        "amenity": "fast_food",
+        "cuisine": "donut",
+        "name": "Munchin Donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4535309,
+          20.5695218
+        ]
+      },
+      "id": "node/8430057213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430093533",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3988798,
+          20.6352952
+        ]
+      },
+      "id": "node/8430093533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295269",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "cuisine": "burger",
+        "name": "Carl's Jr.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4016187,
+          20.7386431
+        ]
+      },
+      "id": "node/8459295269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295282",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4014122,
+          20.7386657
+        ]
+      },
+      "id": "node/8459295282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295292",
+        "amenity": "fast_food",
+        "cuisine": "donut",
+        "name": "Munchin Donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.40127,
+          20.7385829
+        ]
+      },
+      "id": "node/8459295292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459295302",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4014256,
+          20.7387785
+        ]
+      },
+      "id": "node/8459295302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8546989343",
+        "amenity": "fast_food",
+        "name": "Argentina Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4723199,
+          20.5554429
+        ]
+      },
+      "id": "node/8546989343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739778749",
+        "amenity": "fast_food",
+        "branch": "Central Nueva",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.285169,
+          20.6228
+        ]
+      },
+      "id": "node/8739778749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739778750",
+        "amenity": "fast_food",
+        "branch": "Central Nueva",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "cuisine": "burger",
+        "name": "Burger King",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.285259,
+          20.6228364
+        ]
+      },
+      "id": "node/8739778750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739862941",
+        "amenity": "fast_food",
+        "brand": "Carl's Jr.",
+        "brand:wikidata": "Q1043486",
+        "brand:wikipedia": "en:Carl's Jr.",
+        "cuisine": "burger",
+        "name": "Carl's Jr. Plaza Altea",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.274752,
+          20.6403357
+        ]
+      },
+      "id": "node/8739862941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8833813218",
+        "amenity": "fast_food",
+        "name": "Tacos el chino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3605143,
+          20.6675469
+        ]
+      },
+      "id": "node/8833813218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8857861117",
+        "amenity": "fast_food",
+        "name": "Super tortas lokas y kalientes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3394455,
+          20.675205
+        ]
+      },
+      "id": "node/8857861117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9373319766",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Voy de Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3914853,
+          20.7523487
+        ]
+      },
+      "id": "node/9373319766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559275544",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Tortillería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.379673,
+          20.631488
+        ]
+      },
+      "id": "node/9559275544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559284415",
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "Pollería Rostipepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.379372,
+          20.631332
+        ]
+      },
+      "id": "node/9559284415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9627776917",
+        "amenity": "fast_food",
+        "name": "Pastetia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3449096,
+          20.6749519
+        ]
+      },
+      "id": "node/9627776917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9633925888",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1365",
+        "addr:street": "Calle Palenque",
+        "air_conditioning": "no",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "drive_through": "no",
+        "name": "Pizzas El Costeño",
+        "opening_hours": "Mo-Su 13:30-22:00",
+        "opening_hours:covid19": "same",
+        "phone": "+52-33-35752035",
+        "website": "https://www.facebook.com/pizzaselcostenojardinesdelsol/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4161888,
+          20.6534465
+        ]
+      },
+      "id": "node/9633925888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9652995617",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.341335,
+          20.6766362
+        ]
+      },
+      "id": "node/9652995617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9752673217",
+        "amenity": "fast_food",
+        "name": "El Bigos Tortas Ahogadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3892169,
+          20.7281021
+        ]
+      },
+      "id": "node/9752673217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9752673317",
+        "amenity": "fast_food",
+        "name": "Antojitos Mexicanos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3898139,
+          20.723732
+        ]
+      },
+      "id": "node/9752673317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9789119017",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3679766,
+          20.6897353
+        ]
+      },
+      "id": "node/9789119017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9790518217",
+        "amenity": "fast_food",
+        "name": "Tamales La Muñeca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3585188,
+          20.6736232
+        ]
+      },
+      "id": "node/9790518217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9948041518",
+        "amenity": "fast_food",
+        "name:en": "Allin Burgers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3583477,
+          20.6719477
+        ]
+      },
+      "id": "node/9948041518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9964324077",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1090",
+        "addr:postcode": "45030",
+        "addr:street": "Avenida Piotr Ilich Tchaikovsky",
+        "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/losrepulguesempanadasargentinas/",
+        "cuisine": "empanada",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Los Repulgues Empanadas Argentinas",
+        "opening_hours": "Mo-Fr 13:00-19:00, Sa-Su 12:30-20:30",
+        "phone": "+52 33 3485 3803",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.44101,
+          20.6545961
+        ]
+      },
+      "id": "node/9964324077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10017262917",
+        "amenity": "fast_food",
+        "name": "Tacos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3540242,
+          20.6788628
+        ]
+      },
+      "id": "node/10017262917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10035134717",
+        "addr:postcode": "45019",
+        "addr:street": "Porta Real",
+        "amenity": "fast_food",
+        "contact:facebook": "LaGranLucha",
+        "contact:instagram": "lagranlucha",
+        "cuisine": "burger",
+        "diet:meat": "yes",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "La Gran Lucha",
+        "opening_hours": "Mo-Su 11:00-10:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "3338056399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4526847,
+          20.7288591
+        ]
+      },
+      "id": "node/10035134717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10035514773",
+        "amenity": "fast_food",
+        "cuisine": "hot_dog;german",
+        "diet:meat": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Further"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4527977,
+          20.7288569
+        ]
+      },
+      "id": "node/10035514773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043806077",
+        "amenity": "fast_food",
+        "cuisine": "elotes;mexican",
+        "drive_through": "no",
+        "name": "Elotitos el Guero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4705894,
+          20.7347567
+        ]
+      },
+      "id": "node/10043806077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10136414836",
+        "amenity": "fast_food",
+        "cuisine": "regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3933772,
+          20.7102333
+        ]
+      },
+      "id": "node/10136414836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564064297",
+        "amenity": "fast_food",
+        "name": "Tacos el güero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4172351,
+          20.6344322
+        ]
+      },
+      "id": "node/10564064297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10573692519",
+        "addr:city": "Zapopan",
+        "addr:housenumber": "1932-A",
+        "addr:street": "Calle Volcán Cofre de Perote",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Mee - Mee Comida Oriental",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "phone": "+52-33-10088999",
+        "takeaway": "yes",
+        "website": "https://www.facebook.com/people/Mee-Mee-Comida-Oriental/100083919824273/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4328012,
+          20.6463603
+        ]
+      },
+      "id": "node/10573692519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595748806",
+        "amenity": "fast_food",
+        "name": "Pollo Pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3944235,
+          20.7449291
+        ]
+      },
+      "id": "node/10595748806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10683956667",
+        "addr:city": "Guadalajara",
+        "amenity": "fast_food",
+        "name": "Tortas Ahogadas El Rika",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "operator": "El Rika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3271811,
+          20.7035905
+        ]
+      },
+      "id": "node/10683956667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10811512505",
+        "amenity": "fast_food",
+        "name": "Krispy Kreme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4019985,
+          20.6666599
+        ]
+      },
+      "id": "node/10811512505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10855519238",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "323",
+        "addr:postcode": "44600",
+        "addr:street": "Calle Pedro Antonio Buzeta",
+        "amenity": "fast_food",
+        "cuisine": "mexican;breakfast;lonches",
+        "diet:local": "yes",
+        "name": "La Biroteria",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-15:00",
+        "phone": "+523336156834",
+        "website": "https://www.facebook.com/labiroteriagomez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.36957,
+          20.6817077
+        ]
+      },
+      "id": "node/10855519238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10881790522",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "21",
+        "addr:postcode": "44100",
+        "addr:street": "Calle Pedro Loza",
+        "amenity": "fast_food",
+        "cuisine": "donut",
+        "name": "NIEVES Y DONAS FIESTAS",
+        "opening_hours": "Mo-Su 10:30-20:00",
+        "phone": "+523332998401",
+        "website": "https://www.nievesfiestas.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3482271,
+          20.6768273
+        ]
+      },
+      "id": "node/10881790522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10901014005",
+        "amenity": "fast_food",
+        "name:en": "Churros de Tlaquepaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.311457,
+          20.6373678
+        ]
+      },
+      "id": "node/10901014005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10927923607",
+        "amenity": "fast_food",
+        "name": "Tamales Bertha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3695997,
+          20.6796216
+        ]
+      },
+      "id": "node/10927923607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10937055459",
+        "addr:city": "Guadalajara",
+        "addr:housenumber": "1460",
+        "addr:postcode": "44600",
+        "addr:street": "Calle Garibaldi",
+        "amenity": "fast_food",
+        "cuisine": "mexican;licuados;lonches;breakfast",
+        "diet:local": "yes",
+        "drive_through": "no",
+        "name": "Jugos, Licuados Y Lonches ELVI",
+        "opening_hours": "Mo-Su 07:00-14:30",
+        "phone": "3312672316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.369742,
+          20.6813911
+        ]
+      },
+      "id": "node/10937055459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10945356287",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2461142,
+          20.6262902
+        ]
+      },
+      "id": "node/10945356287"
+    }
+  ]
+}

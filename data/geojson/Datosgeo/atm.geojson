@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:32:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685270641",
+        "amenity": "atm",
+        "fee": "30",
+        "operator": "Bancomer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4661167,
+          20.6268711
+        ]
+      },
+      "id": "node/1685270641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715342415",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2919237,
+          20.6722713
+        ]
+      },
+      "id": "node/1715342415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956425052",
+        "amenity": "atm",
+        "brand": "Santander",
+        "brand:wikidata": "Q5835668",
+        "fee": "Around 30 MXN",
+        "name": "Santander",
+        "operator": "Santander",
+        "operator:wikidata": "Q5835668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445564,
+          20.682486
+        ]
+      },
+      "id": "node/1956425052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870672682",
+        "amenity": "atm",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "name": "Banamex",
+        "official_name": "Grupo Financiero Banamex",
+        "operator": "Banamex",
+        "operator:wikidata": "Q749474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.385514,
+          20.6778977
+        ]
+      },
+      "id": "node/2870672682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2884048256",
+        "amenity": "atm",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte",
+        "operator": "Banorte",
+        "operator:wikidata": "Q806914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.373909,
+          20.6815247
+        ]
+      },
+      "id": "node/2884048256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3804505971",
+        "amenity": "atm",
+        "operator": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3522949,
+          20.5469113
+        ]
+      },
+      "id": "node/3804505971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3804506006",
+        "amenity": "atm",
+        "operator": "Banorte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3748496,
+          20.5297997
+        ]
+      },
+      "id": "node/3804506006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807951759",
+        "amenity": "atm",
+        "currency:mxn": "yes",
+        "operator": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3256174,
+          20.6550818
+        ]
+      },
+      "id": "node/3807951759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913932500",
+        "amenity": "atm",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte",
+        "operator": "Banorte",
+        "operator:wikidata": "Q806914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.348167,
+          20.6975734
+        ]
+      },
+      "id": "node/3913932500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3913932654",
+        "amenity": "atm",
+        "brand": "Banorte",
+        "brand:wikidata": "Q806914",
+        "name": "Banorte",
+        "operator": "Banorte",
+        "operator:wikidata": "Q806914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347947,
+          20.6975897
+        ]
+      },
+      "id": "node/3913932654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035906709",
+        "amenity": "atm",
+        "brand": "HSBC",
+        "name": "HSBC",
+        "operator": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.379055,
+          20.5278947
+        ]
+      },
+      "id": "node/4035906709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035906710",
+        "amenity": "atm",
+        "brand": "Scotiabank",
+        "name": "Scotiabank",
+        "operator": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3790496,
+          20.5280512
+        ]
+      },
+      "id": "node/4035906710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035936296",
+        "amenity": "atm",
+        "name": "Afirme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3743292,
+          20.5296399
+        ]
+      },
+      "id": "node/4035936296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4106362690",
+        "amenity": "atm",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3782008,
+          20.7084785
+        ]
+      },
+      "id": "node/4106362690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4124942390",
+        "amenity": "atm",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.428868,
+          20.678595
+        ]
+      },
+      "id": "node/4124942390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168188889",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3819407,
+          20.6825102
+        ]
+      },
+      "id": "node/4168188889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340681474",
+        "amenity": "atm",
+        "fee": "Cajero automático BANSI-Oxxo",
+        "operator": "Scotiabank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2152878,
+          20.6663073
+        ]
+      },
+      "id": "node/4340681474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340681476",
+        "amenity": "atm",
+        "fee": "Cajero automático ScotiaBank-Benavides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2150261,
+          20.6664574
+        ]
+      },
+      "id": "node/4340681476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412109481",
+        "amenity": "atm",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3745196,
+          20.7216499
+        ]
+      },
+      "id": "node/4412109481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4478084757",
+        "amenity": "atm",
+        "currency:MXN": "yes",
+        "name": "Cajero BANJERCITO",
+        "operator": "Banco Nacional del Ejército Fuerza Aérea y Armada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3325243,
+          20.667851
+        ]
+      },
+      "id": "node/4478084757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4538872492",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3463831,
+          20.6732329
+        ]
+      },
+      "id": "node/4538872492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5172260121",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3963465,
+          20.6658803
+        ]
+      },
+      "id": "node/5172260121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842407588",
+        "amenity": "atm",
+        "brand": "Scotiabank",
+        "brand:wikidata": "Q451476",
+        "check_date": "2021-05-14",
+        "name": "Scotiabank",
+        "operator": "Scotiabank",
+        "operator:wikidata": "Q451476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347156,
+          20.6729199
+        ]
+      },
+      "id": "node/5842407588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857464574",
+        "amenity": "atm",
+        "brand": "BBVA Bancomer",
+        "brand:wikidata": "Q2876794",
+        "name": "BBVA Bancomer",
+        "operator": "BBVA Bancomer",
+        "operator:wikidata": "Q2876794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387414,
+          20.5267003
+        ]
+      },
+      "id": "node/5857464574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857524383",
+        "amenity": "atm",
+        "brand": "Banco Azteca",
+        "brand:wikidata": "Q4854076",
+        "name": "Banco Azteca",
+        "operator": "Banco Azteca",
+        "operator:wikidata": "Q4854076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387345,
+          20.5268385
+        ]
+      },
+      "id": "node/5857524383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857524384",
+        "amenity": "atm",
+        "brand": "BanCoppel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3873665,
+          20.5267983
+        ]
+      },
+      "id": "node/5857524384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857525285",
+        "amenity": "atm",
+        "brand": "HSBC",
+        "brand:wikidata": "Q190464",
+        "name": "HSBC",
+        "operator": "HSBC",
+        "operator:wikidata": "Q190464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.387388,
+          20.5267631
+        ]
+      },
+      "id": "node/5857525285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9008040575",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3328723,
+          20.5738987
+        ]
+      },
+      "id": "node/9008040575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9818020717",
+        "amenity": "atm",
+        "operator": "Coppel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3484332,
+          20.6753085
+        ]
+      },
+      "id": "node/9818020717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048744023",
+        "amenity": "atm",
+        "cash_in": "no",
+        "drive_through": "no",
+        "operator": "Banamex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4551595,
+          20.7337004
+        ]
+      },
+      "id": "node/10048744023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538721109",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3398768,
+          20.6525992
+        ]
+      },
+      "id": "node/10538721109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576373881",
+        "amenity": "atm",
+        "name": "Banregio chedeahui colon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3962835,
+          20.6146716
+        ]
+      },
+      "id": "node/10576373881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10717983378",
+        "amenity": "atm",
+        "brand": "Banamex",
+        "brand:wikidata": "Q749474",
+        "official_name": "Grupo Financiero Banamex",
+        "operator": "Banamex",
+        "operator:wikidata": "Q749474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4153187,
+          20.7224726
+        ]
+      },
+      "id": "node/10717983378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10871930612",
+        "amenity": "atm",
+        "operator": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4486523,
+          20.5797336
+        ]
+      },
+      "id": "node/10871930612"
+    }
+  ]
+}

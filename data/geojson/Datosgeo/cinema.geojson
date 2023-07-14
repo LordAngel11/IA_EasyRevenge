@@ -1,0 +1,785 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-13T04:35:55Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132647365",
+        "amenity": "cinema",
+        "name": "Multicinemas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.3602071,
+              20.6708911
+            ],
+            [
+              -103.3602079,
+              20.6707938
+            ],
+            [
+              -103.3599744,
+              20.6707914
+            ],
+            [
+              -103.3599775,
+              20.6706347
+            ],
+            [
+              -103.3599239,
+              20.6706366
+            ],
+            [
+              -103.3599219,
+              20.6704818
+            ],
+            [
+              -103.359843,
+              20.6704784
+            ],
+            [
+              -103.3598409,
+              20.6705459
+            ],
+            [
+              -103.3594637,
+              20.6705426
+            ],
+            [
+              -103.3594628,
+              20.6709018
+            ],
+            [
+              -103.3597697,
+              20.6709014
+            ],
+            [
+              -103.35977,
+              20.6708909
+            ],
+            [
+              -103.3602071,
+              20.6708911
+            ]
+          ]
+        ]
+      },
+      "id": "way/132647365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824708282",
+        "addr:city": "Zapopan",
+        "addr:postcode": "45079",
+        "addr:street": "Calle Rinconada de los Alones",
+        "amenity": "cinema",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "cinema Alameda",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4353046,
+              20.6348964
+            ],
+            [
+              -103.4352343,
+              20.6348958
+            ],
+            [
+              -103.4352326,
+              20.6350548
+            ],
+            [
+              -103.4353034,
+              20.6350556
+            ],
+            [
+              -103.4353046,
+              20.6348964
+            ]
+          ]
+        ]
+      },
+      "id": "way/824708282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961532884",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "building": "yes",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.4564176,
+              20.5708742
+            ],
+            [
+              -103.4570588,
+              20.5712383
+            ],
+            [
+              -103.4574015,
+              20.5707093
+            ],
+            [
+              -103.4567602,
+              20.5703453
+            ],
+            [
+              -103.4565674,
+              20.5706431
+            ],
+            [
+              -103.4564176,
+              20.5708742
+            ]
+          ]
+        ]
+      },
+      "id": "way/961532884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686412968",
+        "amenity": "cinema",
+        "branch": "Ciudadela",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "loc_name": "Cinépolis Ciudadela",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4195301,
+          20.6494951
+        ]
+      },
+      "id": "node/1686412968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756297434",
+        "amenity": "cinema",
+        "name": "Cinepolis Pabellon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4061269,
+          20.7093172
+        ]
+      },
+      "id": "node/1756297434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3172333901",
+        "amenity": "cinema",
+        "name": "Cine Foro UDG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3587239,
+          20.6751726
+        ]
+      },
+      "id": "node/3172333901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3346501957",
+        "addr:city": "Zapopan",
+        "addr:postcode": "1300",
+        "addr:street": "Avenida Laureles",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis",
+        "phone": "01 800 120 0220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4018432,
+          20.7390476
+        ]
+      },
+      "id": "node/3346501957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3804526471",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "name": "Cinépolis",
+        "operator": "Cinépolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38818,
+          20.526528
+        ]
+      },
+      "id": "node/3804526471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3807980807",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3199396,
+          20.6481211
+        ]
+      },
+      "id": "node/3807980807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4169819912",
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "name": "Cinemex Plaza Milenium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.405516,
+          20.6463735
+        ]
+      },
+      "id": "node/4169819912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432885998",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4335466,
+          20.6774429
+        ]
+      },
+      "id": "node/4432885998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443217375",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.404168,
+          20.6730731
+        ]
+      },
+      "id": "node/4443217375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460481915",
+        "addr:housenumber": "720",
+        "addr:postcode": "45400",
+        "addr:street": "Niños Héroes",
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "name": "Cinemex Tlaquepaque",
+        "phone": "013336579780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.293063,
+          20.6317826
+        ]
+      },
+      "id": "node/4460481915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603087703",
+        "amenity": "cinema",
+        "name": "Cinépolis VIP Andares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4109562,
+          20.7118866
+        ]
+      },
+      "id": "node/4603087703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612691903",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinépolis Real Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.428506,
+          20.7324757
+        ]
+      },
+      "id": "node/4612691903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624482300",
+        "amenity": "cinema",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4478813,
+          20.587086
+        ]
+      },
+      "id": "node/4624482300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629906032",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45724,
+          20.5702996
+        ]
+      },
+      "id": "node/4629906032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698139358",
+        "addr:city": "El Salto",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "screen": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.284128,
+          20.5606185
+        ]
+      },
+      "id": "node/4698139358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4735426322",
+        "amenity": "cinema",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2569109,
+          20.6760294
+        ]
+      },
+      "id": "node/4735426322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746157440",
+        "amenity": "cinema",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2794307,
+          20.6412054
+        ]
+      },
+      "id": "node/4746157440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753551269",
+        "amenity": "cinema",
+        "name": "Cinépolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2741636,
+          20.6413105
+        ]
+      },
+      "id": "node/4753551269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090443017",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.29508,
+          20.6873886
+        ]
+      },
+      "id": "node/6090443017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8086596154",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4722094,
+          20.5548455
+        ]
+      },
+      "id": "node/8086596154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355854741",
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "brand:wikipedia": "en:Cinemex",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4214168,
+          20.6591318
+        ]
+      },
+      "id": "node/8355854741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358741616",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4531713,
+          20.5685049
+        ]
+      },
+      "id": "node/8358741616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8358747517",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis VIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4532518,
+          20.5684095
+        ]
+      },
+      "id": "node/8358747517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365506698",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis VIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4722728,
+          20.5547138
+        ]
+      },
+      "id": "node/8365506698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365815637",
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "brand:wikipedia": "en:Cinemex",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3800671,
+          20.7121809
+        ]
+      },
+      "id": "node/8365815637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369439376",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4023179,
+          20.601424
+        ]
+      },
+      "id": "node/8369439376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843162",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3864963,
+          20.6482
+        ]
+      },
+      "id": "node/8376843162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8376843204",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4116958,
+          20.6457863
+        ]
+      },
+      "id": "node/8376843204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8379259685",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2902495,
+          20.6790905
+        ]
+      },
+      "id": "node/8379259685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695505698",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis VIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3756961,
+          20.6937159
+        ]
+      },
+      "id": "node/8695505698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695505702",
+        "amenity": "cinema",
+        "brand": "Cinemex",
+        "brand:wikidata": "Q3333072",
+        "brand:wikipedia": "en:Cinemex",
+        "name": "Cinemex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3930179,
+          20.6755322
+        ]
+      },
+      "id": "node/8695505702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695505706",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3994936,
+          20.6799014
+        ]
+      },
+      "id": "node/8695505706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739873511",
+        "amenity": "cinema",
+        "name": "Cineteca FICG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "screen": "5",
+        "website": "https://www.cinetecaficg.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.381055,
+          20.7365687
+        ]
+      },
+      "id": "node/8739873511"
+    }
+  ]
+}
